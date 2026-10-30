@@ -1,7 +1,7 @@
 name: Actualizar Programación TV
 
 on:
-  scheduled:
+  schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
