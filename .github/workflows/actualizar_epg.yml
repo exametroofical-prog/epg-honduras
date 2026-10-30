@@ -36,3 +36,4 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add programacion.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Actualización automática de EPG [skip ci]" && git push)
+ 
