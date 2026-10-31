@@ -1,0 +1,88 @@
+Programación del 2026-10-31 (hora de Honduras)
+
+STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
+  00:00 - 01:00  DOCUMENTAL
+  01:00 - 02:00  TIEMPO DE TERTULIA
+  02:00 - 02:30  OLOR REGIÓN
+  02:30 - 03:00  MI PROPIO JEFE
+  03:00 - 04:00  VIVA MEJOR
+  04:00 - 04:30  CREADORAS
+  04:30 - 05:00  GUARDIANES DE LA TIERRA
+  05:00 - 05:30  CHICOS OPINAN
+  05:30 - 06:30  ACTIVATE
+  06:30 - 07:30  LA CHUNCHETERíA
+  07:30 - 08:00  MANZANA CIENTÍFICA
+  08:00 - 09:00  PLAZA SESAMO
+  09:00 - 10:00  ESCUELA PARA MADRES Y PADRES
+  10:00 - 11:00  EDUCA TV HONDURAS
+  11:00 - 11:30  EXPRESSARTE
+  11:30 - 13:00  NOTICIERO CIENTÍFICO Y CULTURAL
+  13:00 - 13:30  CHICOS OPINAN
+  13:30 - 14:00  GUITARRA EN MANO
+  14:00 - 14:30  NCC REVOLUCIONARIA
+  14:30 - 15:00  ME VOY PAL NORTE
+  15:00 - 15:30  FLAUTA EN MANO
+  15:30 - 16:00  ACTIVATE
+  16:00 - 16:30  TECLADO EN MANO
+  16:30 - 17:00  CLANDESTINO
+  17:00 - 17:30  PODCAST: VISIONES EDUCATIVAS
+  17:30 - 18:00  DESCUBRIENDO IDEAS
+  18:00 - 19:00  PINCELADAS
+  19:00 - 20:00  EDUCADORES
+  20:00 - 20:30  IBEROAMÉRICA EN ÓRBITA
+  20:30 - 21:00  EXTRAÑOS TERRICOLAS
+  21:00 - 21:30  NOTICIERO CIENTÍFICO Y CULTURAL
+  21:30 - 22:00  ME VOY PAL NORTE
+  22:00 - 23:00  VIDAS Y BEBIDAS
+  23:00 - 00:00  COLOMBIAR
+
+Deportes TVC HON  [-P3YxJH0O5lSHk9XHDMz]  fuente: web
+  00:00 - 00:30  Radio House
+  00:30 - 01:30  Partido en Repetición
+  01:30 - 02:30  Compacto Futbolero en 60
+  02:30 - 03:00  DxT en 3 Letras
+  03:00 - 05:00  Partido en Repetición
+  05:00 - 06:00  Compacto Futbolero en 60
+  06:00 - 08:00  Partido en Repetición
+  08:00 - 09:00  Compacto Futbolero en 60
+  09:00 - 09:30  Estrellas del Futuro
+  09:30 - 10:00  DxT en 3 Letras
+  10:00 - 12:00  Partido en Repetición
+  12:00 - 13:00  Con Pineda Chacón
+  13:00 - 14:00  Deportes TVC Noticias
+  14:00 - 15:00  Partido en Repetición
+  15:00 - 17:15  Lobos vs. Génesis / Jornada 12
+  17:15 - 19:15  R. España vs. Juticalpa / Jornada 5
+  19:15 - 21:30  Choloma vs. Olimpia / Jornada 12
+  21:30 - 22:30  Tiempo Extra
+  22:30 - 00:00  DxT en 3 Letras
+
+Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
+  00:00 - 00:30  Frente a Frente
+  00:30 - 03:15  Las Mañanas del 5
+  03:15 - 05:05  La Rosa de Guadalupe
+  05:05 - 06:30  Noticiero TN5 Estelar
+  06:30 - 09:00  Noticiero TN5 Matutino
+  09:00 - 12:00  Las Mañanas del 5
+  12:00 - 14:00  El Macaneo TV
+  14:00 - 17:00  Avatar
+  17:00 - 17:30  Tal para cual
+  17:30 - 21:10  Vecinos
+  21:10 - 22:10  El Cinco de Noche
+  22:10 - 23:40  Angélica
+  23:40 - 00:00  El Macaneo TV
+
+Canal 5 HON   [-P2kf9CH99dNh6b94yCp]  fuente: gatotv
+  00:00 - 00:30  Frente a Frente
+  00:30 - 03:15  Las Mañanas del 5
+  03:15 - 05:05  La Rosa de Guadalupe
+  05:05 - 06:30  Noticiero TN5 Estelar
+  06:30 - 09:00  Noticiero TN5 Matutino
+  09:00 - 12:00  Las Mañanas del 5
+  12:00 - 14:00  El Macaneo TV
+  14:00 - 17:00  Avatar
+  17:00 - 17:30  Tal para cual
+  17:30 - 21:10  Vecinos
+  21:10 - 22:10  El Cinco de Noche
+  22:10 - 23:40  Angélica
+  23:40 - 00:00  El Macaneo TV
