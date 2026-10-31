@@ -31,8 +31,7 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 # Para desactivar un canal, borra su línea.
 CANALES = {
     "-P57t6dgMhyRS1utX7rg": "stve",         # STVE
-    "-P3YxJH0O5lSHk9XHDMz": "deportestvc",  # Deportes TVC HON
-    "-P2sHFdyykxlFkeUkg_m": "canal11",      # Canal 11 HON
+    "-P3YxJH0O5lSHk9XHDMz": "deportestvc",  # Deportes TVC HON 
     "-P2rlc_nYDXmxf_2jGii": "canal5",       # Canal 5 HD HON
     "-P2kf9CH99dNh6b94yCp": "canal5",       # Canal 5 HON
 }
