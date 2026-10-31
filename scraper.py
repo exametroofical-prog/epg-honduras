@@ -41,7 +41,7 @@ URLS = {
     "stve": "https://www.stvetelebasica.com/programacion",
     "deportestvc": "https://www.deportestvc.com/programacion",
     "canal5": "https://www.televicentro.com/programacion",
-    "canal11": "https://canal11.hn/programacion/",
+    "canal11": "https://canal11.hn/programas/",
 }
 
 DIAS_ES = ["lunes", "martes", "miercoles", "jueves", "viernes", "sabado", "domingo"]
