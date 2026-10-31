@@ -285,6 +285,20 @@ def subir(db, canal_id, fuente, slug, fecha, filas):
     db.reference(f"epg_info/{canal_id}").set(info)    # luego el aviso de que está al día
 
 
+def guardar_archivos(fecha, exportar):
+    """Deja la programación en archivos que se pueden abrir desde el repo."""
+    with open("programacion.json", "w", encoding="utf-8") as f:
+        json.dump({"fecha": fecha, "canales": exportar}, f, ensure_ascii=False, indent=2)
+    lineas = [f"Programación del {fecha} (hora de Honduras)", ""]
+    for canal_id, c in exportar.items():
+        lineas.append(f"{c['nombre']}  [{canal_id}]  fuente: {c['fuente']}")
+        for r in c["rows"]:
+            lineas.append(f"  {r['i']} - {r['f']}  {r['p']}")
+        lineas.append("")
+    with open("programacion.txt", "w", encoding="utf-8") as f:
+        f.write("\n".join(lineas))
+
+
 def main():
     hoy = datetime.now(TZ).date()
     fecha = hoy.isoformat()
@@ -309,6 +323,7 @@ def main():
 
     print(f"Fecha (Honduras): {fecha}" + ("  [DRY_RUN: no se escribe]" if dry else ""))
     fallos = []
+    exportar = {}
     for canal_id, scraper in CANALES.items():
         ch = canales.get(canal_id)
         nombre = ch.get("nombre", canal_id) if isinstance(ch, dict) else canal_id
@@ -323,6 +338,7 @@ def main():
                 raise ValueError("sin programas")
             if not dry:
                 subir(db, canal_id, fuente, slug, fecha, filas)
+            exportar[canal_id] = {"nombre": nombre, "fuente": fuente, "slug": slug, "rows": filas}
             print(f"[OK] {nombre}: {len(filas)} programas ({fuente}) {filas[0]['i']} -> {filas[-1]['f']}")
             if dry:
                 for f in filas[:3]:
@@ -331,6 +347,7 @@ def main():
             fallos.append(nombre)
             print(f"[FALLO] {nombre}: {e}")
 
+    guardar_archivos(fecha, exportar)
     if fallos:
         print("Con errores: " + ", ".join(fallos))
         sys.exit(1)
