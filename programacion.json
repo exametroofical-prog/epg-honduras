@@ -1,0 +1,71 @@
+{
+    "actualizado": "2026-10-31 00:31:12",
+    "canales": {
+        "hch": {
+            "estado": "exito",
+            "programacion": [
+                {
+                    "hora": "5:30 a.m.",
+                    "titulo": "HCH Matutino"
+                },
+                {
+                    "hora": "10:00 a.m.",
+                    "titulo": "HCH Denuncias"
+                },
+                {
+                    "hora": "11:00 a.m.",
+                    "titulo": "HCH Meridiano"
+                },
+                {
+                    "hora": "1:00 p.m.",
+                    "titulo": "HCH Vespertino"
+                },
+                {
+                    "hora": "4:00 p.m.",
+                    "titulo": "QVLV"
+                },
+                {
+                    "hora": "6:45 p.m.",
+                    "titulo": "Espacio Pagado"
+                },
+                {
+                    "hora": "7:00 p.m.",
+                    "titulo": "HCH Nocturno"
+                },
+                {
+                    "hora": "8:30 p.m.",
+                    "titulo": "HCH Deportes"
+                },
+                {
+                    "hora": "9:00 p.m.",
+                    "titulo": "Mujeres Bendecidas"
+                },
+                {
+                    "hora": "10:15 p.m.",
+                    "titulo": "HCH Medianoche"
+                }
+            ]
+        },
+        "televicentro": {
+            "estado": "exito",
+            "programacion": []
+        },
+        "deportestvc": {
+            "estado": "exito",
+            "programacion": []
+        },
+        "telebasica": {
+            "estado": "exito",
+            "programacion": []
+        },
+        "tnh": {
+            "estado": "exito",
+            "programacion": []
+        },
+        "canal11": {
+            "estado": "error",
+            "codigo": 403,
+            "programacion": []
+        }
+    }
+}
