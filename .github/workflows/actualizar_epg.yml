@@ -12,7 +12,7 @@ on:
         default: false
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: epg
@@ -39,3 +39,12 @@ jobs:
           FIREBASE_CREDENTIALS: ${{ secrets.FIREBASE_CREDENTIALS }}
           FIREBASE_DB_URL: ${{ secrets.FIREBASE_DB_URL }}
           DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
+
+      - name: Guardar programacion.json y programacion.txt en el repo
+        if: ${{ !cancelled() && !inputs.dry_run }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add programacion.json programacion.txt || true
+          git diff --cached --quiet || git commit -m "EPG $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
