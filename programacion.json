@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-10-31",
+  "fecha": "2026-11-01",
   "canales": {
     "-P57t6dgMhyRS1utX7rg": {
       "nombre": "STVE",
@@ -13,53 +13,53 @@
         },
         {
           "i": "01:00",
+          "f": "01:30",
+          "p": "NI UNA MENOS, NI UNA SOLA"
+        },
+        {
+          "i": "01:30",
           "f": "02:00",
-          "p": "TIEMPO DE TERTULIA"
+          "p": "CLANDESTINO"
         },
         {
           "i": "02:00",
-          "f": "02:30",
-          "p": "OLOR REGIÓN"
-        },
-        {
-          "i": "02:30",
           "f": "03:00",
-          "p": "MI PROPIO JEFE"
+          "p": "SONORO"
         },
         {
           "i": "03:00",
+          "f": "03:30",
+          "p": "EDUCACIÓN Y DESARROLLO"
+        },
+        {
+          "i": "03:30",
           "f": "04:00",
-          "p": "VIVA MEJOR"
+          "p": "DESCUBRIENDO IDEAS"
         },
         {
           "i": "04:00",
-          "f": "04:30",
-          "p": "CREADORAS"
-        },
-        {
-          "i": "04:30",
           "f": "05:00",
-          "p": "GUARDIANES DE LA TIERRA"
+          "p": "CÓDIGO VERDE"
         },
         {
           "i": "05:00",
-          "f": "05:30",
-          "p": "CHICOS OPINAN"
+          "f": "06:00",
+          "p": "TIEMPO DE TERTULIA"
         },
         {
-          "i": "05:30",
+          "i": "06:00",
           "f": "06:30",
-          "p": "ACTIVATE"
+          "p": "A QUE JUGAMOS"
         },
         {
           "i": "06:30",
           "f": "07:30",
-          "p": "LA CHUNCHETERíA"
+          "p": "EUCARISTÍA EN VIVO"
         },
         {
           "i": "07:30",
           "f": "08:00",
-          "p": "MANZANA CIENTÍFICA"
+          "p": "ACTIVATE"
         },
         {
           "i": "08:00",
@@ -69,112 +69,82 @@
         {
           "i": "09:00",
           "f": "10:00",
-          "p": "ESCUELA PARA MADRES Y PADRES"
+          "p": "SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS"
         },
         {
           "i": "10:00",
           "f": "11:00",
-          "p": "EDUCA TV HONDURAS"
+          "p": "TIEMPO PARA APRENDER: COMUNICACIÓN 1ER. GRADO"
         },
         {
           "i": "11:00",
           "f": "11:30",
-          "p": "EXPRESSARTE"
+          "p": "AL RITMO DEL XIQUE"
         },
         {
           "i": "11:30",
           "f": "13:00",
-          "p": "NOTICIERO CIENTÍFICO Y CULTURAL"
+          "p": "NCC REPORTE CLIMÁTICO"
         },
         {
           "i": "13:00",
-          "f": "13:30",
-          "p": "CHICOS OPINAN"
-        },
-        {
-          "i": "13:30",
           "f": "14:00",
-          "p": "GUITARRA EN MANO"
+          "p": "DOCUMENTAL"
         },
         {
           "i": "14:00",
-          "f": "14:30",
-          "p": "NCC REVOLUCIONARIA"
-        },
-        {
-          "i": "14:30",
-          "f": "15:00",
-          "p": "ME VOY PAL NORTE"
-        },
-        {
-          "i": "15:00",
-          "f": "15:30",
-          "p": "FLAUTA EN MANO"
-        },
-        {
-          "i": "15:30",
           "f": "16:00",
-          "p": "ACTIVATE"
+          "p": "TARDES DE CONCIERTO"
         },
         {
           "i": "16:00",
-          "f": "16:30",
-          "p": "TECLADO EN MANO"
-        },
-        {
-          "i": "16:30",
           "f": "17:00",
-          "p": "CLANDESTINO"
+          "p": "¿QUÉ PASÓ ENTONCES?"
         },
         {
           "i": "17:00",
-          "f": "17:30",
-          "p": "PODCAST: VISIONES EDUCATIVAS"
-        },
-        {
-          "i": "17:30",
           "f": "18:00",
-          "p": "DESCUBRIENDO IDEAS"
+          "p": "SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS"
         },
         {
           "i": "18:00",
+          "f": "18:30",
+          "p": "LA CLAVE DEL ÉXITO"
+        },
+        {
+          "i": "18:30",
           "f": "19:00",
-          "p": "PINCELADAS"
+          "p": "HORIZONTES"
         },
         {
           "i": "19:00",
           "f": "20:00",
-          "p": "EDUCADORES"
+          "p": "HUELLAS HISTÓRICAS DE HONDURAS"
         },
         {
           "i": "20:00",
-          "f": "20:30",
-          "p": "IBEROAMÉRICA EN ÓRBITA"
-        },
-        {
-          "i": "20:30",
           "f": "21:00",
-          "p": "EXTRAÑOS TERRICOLAS"
+          "p": "PANORAMA JUDICIAL"
         },
         {
           "i": "21:00",
           "f": "21:30",
-          "p": "NOTICIERO CIENTÍFICO Y CULTURAL"
+          "p": "NCC SALUD"
         },
         {
           "i": "21:30",
           "f": "22:00",
-          "p": "ME VOY PAL NORTE"
+          "p": "GUARDIANES DE LA TIERRA"
         },
         {
           "i": "22:00",
           "f": "23:00",
-          "p": "VIDAS Y BEBIDAS"
+          "p": "CÓDIGO VERDE"
         },
         {
           "i": "23:00",
           "f": "00:00",
-          "p": "COLOMBIAR"
+          "p": "SONORO"
         }
       ]
     },
@@ -185,28 +155,18 @@
       "rows": [
         {
           "i": "00:00",
-          "f": "00:30",
-          "p": "Radio House"
-        },
-        {
-          "i": "00:30",
-          "f": "01:30",
+          "f": "04:00",
           "p": "Partido en Repetición"
         },
         {
-          "i": "01:30",
-          "f": "02:30",
-          "p": "Compacto Futbolero en 60"
+          "i": "04:00",
+          "f": "04:30",
+          "p": "Sueño de Primera"
         },
         {
-          "i": "02:30",
-          "f": "03:00",
-          "p": "DxT en 3 Letras"
-        },
-        {
-          "i": "03:00",
+          "i": "04:30",
           "f": "05:00",
-          "p": "Partido en Repetición"
+          "p": "DxT en 3 Letras"
         },
         {
           "i": "05:00",
@@ -226,12 +186,12 @@
         {
           "i": "09:00",
           "f": "09:30",
-          "p": "Estrellas del Futuro"
+          "p": "Sueño de Primera"
         },
         {
           "i": "09:30",
           "f": "10:00",
-          "p": "DxT en 3 Letras"
+          "p": "Agenda Deportiva"
         },
         {
           "i": "10:00",
@@ -245,38 +205,38 @@
         },
         {
           "i": "13:00",
-          "f": "14:00",
-          "p": "Deportes TVC Noticias"
-        },
-        {
-          "i": "14:00",
           "f": "15:00",
           "p": "Partido en Repetición"
         },
         {
           "i": "15:00",
           "f": "17:15",
-          "p": "Lobos vs. Génesis / Jornada 12"
+          "p": "Olancho vs. Platense / Jornada 12"
         },
         {
           "i": "17:15",
-          "f": "19:15",
-          "p": "R. España vs. Juticalpa / Jornada 5"
+          "f": "19:30",
+          "p": "Motagua vs. Marathón / Jornada 5"
         },
         {
-          "i": "19:15",
+          "i": "19:30",
+          "f": "20:30",
+          "p": "La Noche del Gol"
+        },
+        {
+          "i": "20:30",
           "f": "21:30",
-          "p": "Choloma vs. Olimpia / Jornada 12"
+          "p": "Compacto Futbolero en 60"
         },
         {
           "i": "21:30",
-          "f": "22:30",
-          "p": "Tiempo Extra"
+          "f": "22:00",
+          "p": "Sueño de Primera"
         },
         {
-          "i": "22:30",
+          "i": "22:00",
           "f": "00:00",
-          "p": "DxT en 3 Letras"
+          "p": "Partido en Repetición"
         }
       ]
     },
@@ -287,66 +247,56 @@
       "rows": [
         {
           "i": "00:00",
-          "f": "00:30",
-          "p": "Frente a Frente"
-        },
-        {
-          "i": "00:30",
-          "f": "03:15",
-          "p": "Las Mañanas del 5"
-        },
-        {
-          "i": "03:15",
-          "f": "05:05",
-          "p": "La Rosa de Guadalupe"
-        },
-        {
-          "i": "05:05",
-          "f": "06:30",
-          "p": "Noticiero TN5 Estelar"
-        },
-        {
-          "i": "06:30",
-          "f": "09:00",
-          "p": "Noticiero TN5 Matutino"
-        },
-        {
-          "i": "09:00",
-          "f": "12:00",
-          "p": "Las Mañanas del 5"
-        },
-        {
-          "i": "12:00",
-          "f": "14:00",
+          "f": "02:30",
           "p": "El Macaneo TV"
         },
         {
-          "i": "14:00",
-          "f": "17:00",
-          "p": "Avatar"
+          "i": "02:30",
+          "f": "03:20",
+          "p": "Como dice el dicho"
         },
         {
-          "i": "17:00",
-          "f": "17:30",
-          "p": "Tal para cual"
+          "i": "03:20",
+          "f": "08:00",
+          "p": "Las Mañanas del 5"
         },
         {
-          "i": "17:30",
-          "f": "21:10",
-          "p": "Vecinos"
+          "i": "08:00",
+          "f": "12:00",
+          "p": "5 Deportivo"
         },
         {
-          "i": "21:10",
-          "f": "22:10",
+          "i": "12:00",
+          "f": "18:00",
+          "p": "X0 Da Dinero"
+        },
+        {
+          "i": "18:00",
+          "f": "19:00",
+          "p": "Noticiero TN5 Dominical"
+        },
+        {
+          "i": "19:00",
+          "f": "20:00",
           "p": "El Cinco de Noche"
         },
         {
-          "i": "22:10",
-          "f": "23:40",
-          "p": "Angélica"
+          "i": "20:00",
+          "f": "21:30",
+          "p": "Summer Camp"
         },
         {
-          "i": "23:40",
+          "i": "21:30",
+          "f": "22:30",
+          "p": "Noticiero TN5 Dominical"
+        },
+        {
+          "i": "22:30",
+          "f": "23:30",
+          "p": "Como dice el dicho"
+        },
+        {
+          "i": "23:30",
           "f": "00:00",
           "p": "El Macaneo TV"
         }
@@ -359,66 +309,56 @@
       "rows": [
         {
           "i": "00:00",
-          "f": "00:30",
-          "p": "Frente a Frente"
-        },
-        {
-          "i": "00:30",
-          "f": "03:15",
-          "p": "Las Mañanas del 5"
-        },
-        {
-          "i": "03:15",
-          "f": "05:05",
-          "p": "La Rosa de Guadalupe"
-        },
-        {
-          "i": "05:05",
-          "f": "06:30",
-          "p": "Noticiero TN5 Estelar"
-        },
-        {
-          "i": "06:30",
-          "f": "09:00",
-          "p": "Noticiero TN5 Matutino"
-        },
-        {
-          "i": "09:00",
-          "f": "12:00",
-          "p": "Las Mañanas del 5"
-        },
-        {
-          "i": "12:00",
-          "f": "14:00",
+          "f": "02:30",
           "p": "El Macaneo TV"
         },
         {
-          "i": "14:00",
-          "f": "17:00",
-          "p": "Avatar"
+          "i": "02:30",
+          "f": "03:20",
+          "p": "Como dice el dicho"
         },
         {
-          "i": "17:00",
-          "f": "17:30",
-          "p": "Tal para cual"
+          "i": "03:20",
+          "f": "08:00",
+          "p": "Las Mañanas del 5"
         },
         {
-          "i": "17:30",
-          "f": "21:10",
-          "p": "Vecinos"
+          "i": "08:00",
+          "f": "12:00",
+          "p": "5 Deportivo"
         },
         {
-          "i": "21:10",
-          "f": "22:10",
+          "i": "12:00",
+          "f": "18:00",
+          "p": "X0 Da Dinero"
+        },
+        {
+          "i": "18:00",
+          "f": "19:00",
+          "p": "Noticiero TN5 Dominical"
+        },
+        {
+          "i": "19:00",
+          "f": "20:00",
           "p": "El Cinco de Noche"
         },
         {
-          "i": "22:10",
-          "f": "23:40",
-          "p": "Angélica"
+          "i": "20:00",
+          "f": "21:30",
+          "p": "Summer Camp"
         },
         {
-          "i": "23:40",
+          "i": "21:30",
+          "f": "22:30",
+          "p": "Noticiero TN5 Dominical"
+        },
+        {
+          "i": "22:30",
+          "f": "23:30",
+          "p": "Como dice el dicho"
+        },
+        {
+          "i": "23:30",
           "f": "00:00",
           "p": "El Macaneo TV"
         }
