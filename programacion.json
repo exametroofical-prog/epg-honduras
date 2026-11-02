@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-01",
+  "fecha": "2026-11-02",
   "canales": {
     "-P57t6dgMhyRS1utX7rg": {
       "nombre": "STVE",
@@ -8,143 +8,168 @@
       "rows": [
         {
           "i": "00:00",
-          "f": "01:00",
-          "p": "DOCUMENTAL"
-        },
-        {
-          "i": "01:00",
-          "f": "01:30",
-          "p": "NI UNA MENOS, NI UNA SOLA"
-        },
-        {
-          "i": "01:30",
           "f": "02:00",
-          "p": "CLANDESTINO"
+          "p": "LA PELÍCULA DE FRANCISCO MORAZÁN"
         },
         {
           "i": "02:00",
+          "f": "02:30",
+          "p": "MANZANA CIENTÍFICA"
+        },
+        {
+          "i": "02:30",
           "f": "03:00",
-          "p": "SONORO"
+          "p": "GUARDIANES DE LA TIERRA"
         },
         {
           "i": "03:00",
-          "f": "03:30",
-          "p": "EDUCACIÓN Y DESARROLLO"
-        },
-        {
-          "i": "03:30",
           "f": "04:00",
-          "p": "DESCUBRIENDO IDEAS"
+          "p": "VIDAS Y BEBIDAS"
         },
         {
           "i": "04:00",
+          "f": "04:30",
+          "p": "LA LLEVA"
+        },
+        {
+          "i": "04:30",
           "f": "05:00",
-          "p": "CÓDIGO VERDE"
+          "p": "NOTICIERO CIENTÍFICO Y CULTURAL"
         },
         {
           "i": "05:00",
           "f": "06:00",
-          "p": "TIEMPO DE TERTULIA"
-        },
-        {
-          "i": "06:00",
-          "f": "06:30",
-          "p": "A QUE JUGAMOS"
-        },
-        {
-          "i": "06:30",
-          "f": "07:30",
-          "p": "EUCARISTÍA EN VIVO"
-        },
-        {
-          "i": "07:30",
-          "f": "08:00",
-          "p": "ACTIVATE"
-        },
-        {
-          "i": "08:00",
-          "f": "09:00",
-          "p": "PLAZA SESAMO"
-        },
-        {
-          "i": "09:00",
-          "f": "10:00",
-          "p": "SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS"
-        },
-        {
-          "i": "10:00",
-          "f": "11:00",
-          "p": "TIEMPO PARA APRENDER: COMUNICACIÓN 1ER. GRADO"
-        },
-        {
-          "i": "11:00",
-          "f": "11:30",
-          "p": "AL RITMO DEL XIQUE"
-        },
-        {
-          "i": "11:30",
-          "f": "13:00",
-          "p": "NCC REPORTE CLIMÁTICO"
-        },
-        {
-          "i": "13:00",
-          "f": "14:00",
           "p": "DOCUMENTAL"
         },
         {
-          "i": "14:00",
-          "f": "16:00",
-          "p": "TARDES DE CONCIERTO"
+          "i": "06:00",
+          "f": "07:00",
+          "p": "SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS"
         },
         {
-          "i": "16:00",
+          "i": "07:00",
+          "f": "07:35",
+          "p": "MATEMÁTICAS 7.°, 8.°, 9.°"
+        },
+        {
+          "i": "07:35",
+          "f": "08:10",
+          "p": "INGLÉS 7.°, 8.°, 9.°"
+        },
+        {
+          "i": "08:10",
+          "f": "08:45",
+          "p": "ESPAÑOL 7.°, 8.°, 9.°"
+        },
+        {
+          "i": "08:45",
+          "f": "09:15",
+          "p": "TECNOLOGÍA 7.°, 8.°, 9.°"
+        },
+        {
+          "i": "09:15",
+          "f": "09:30",
+          "p": "RECESO"
+        },
+        {
+          "i": "09:30",
+          "f": "10:05",
+          "p": "CCNN 7.°, 8.°, 9.°"
+        },
+        {
+          "i": "10:05",
+          "f": "10:40",
+          "p": "EEAA 7.°, 8.°, 9.°"
+        },
+        {
+          "i": "10:40",
+          "f": "11:15",
+          "p": "CCSS 7.°, 8.°, 9.°"
+        },
+        {
+          "i": "11:15",
+          "f": "11:50",
+          "p": "EEFF 7.°, 8.°, 9.°"
+        },
+        {
+          "i": "11:50",
+          "f": "13:10",
+          "p": "RECESO"
+        },
+        {
+          "i": "13:10",
+          "f": "13:45",
+          "p": "ESPAÑOL 7.°, 8.°, 9.°"
+        },
+        {
+          "i": "13:45",
+          "f": "14:15",
+          "p": "TECNOLOGÍA 7.°, 8.°, 9.°"
+        },
+        {
+          "i": "14:15",
+          "f": "14:30",
+          "p": "RECESO"
+        },
+        {
+          "i": "14:30",
+          "f": "15:05",
+          "p": "CCNN 7.°, 8.°, 9.°"
+        },
+        {
+          "i": "15:05",
+          "f": "15:40",
+          "p": "EEAA 7.°, 8.°, 9.°"
+        },
+        {
+          "i": "15:40",
+          "f": "16:15",
+          "p": "CCSS 7.°, 8.°, 9.°"
+        },
+        {
+          "i": "16:15",
+          "f": "16:50",
+          "p": "EEFF 7.°, 8.°, 9.°"
+        },
+        {
+          "i": "16:50",
           "f": "17:00",
-          "p": "¿QUÉ PASÓ ENTONCES?"
+          "p": "RECESO"
         },
         {
           "i": "17:00",
           "f": "18:00",
-          "p": "SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS"
+          "p": "DOCUMENTAL"
         },
         {
           "i": "18:00",
           "f": "18:30",
-          "p": "LA CLAVE DEL ÉXITO"
+          "p": "NOTICIERO CIENTIFICO Y CULTURAL"
         },
         {
           "i": "18:30",
-          "f": "19:00",
-          "p": "HORIZONTES"
-        },
-        {
-          "i": "19:00",
           "f": "20:00",
-          "p": "HUELLAS HISTÓRICAS DE HONDURAS"
+          "p": "SIGNOS VITALES"
         },
         {
           "i": "20:00",
           "f": "21:00",
-          "p": "PANORAMA JUDICIAL"
+          "p": "NCC REVOLUCIONARIA"
         },
         {
           "i": "21:00",
-          "f": "21:30",
-          "p": "NCC SALUD"
-        },
-        {
-          "i": "21:30",
           "f": "22:00",
-          "p": "GUARDIANES DE LA TIERRA"
+          "p": "VIDAS Y BEBIDAS"
         },
         {
           "i": "22:00",
           "f": "23:00",
-          "p": "CÓDIGO VERDE"
+          "p": "COLOMBIAR"
         },
         {
           "i": "23:00",
           "f": "00:00",
-          "p": "SONORO"
+          "p": "DOCUMENTAL"
         }
       ]
     },
@@ -154,27 +179,7 @@
       "slug": "https://www.deportestvc.com/programacion",
       "rows": [
         {
-          "i": "00:00",
-          "f": "04:00",
-          "p": "Partido en Repetición"
-        },
-        {
-          "i": "04:00",
-          "f": "04:30",
-          "p": "Sueño de Primera"
-        },
-        {
-          "i": "04:30",
-          "f": "05:00",
-          "p": "DxT en 3 Letras"
-        },
-        {
-          "i": "05:00",
-          "f": "06:00",
-          "p": "Compacto Futbolero en 60"
-        },
-        {
-          "i": "06:00",
+          "i": "02:00",
           "f": "08:00",
           "p": "Partido en Repetición"
         },
@@ -185,13 +190,8 @@
         },
         {
           "i": "09:00",
-          "f": "09:30",
-          "p": "Sueño de Primera"
-        },
-        {
-          "i": "09:30",
           "f": "10:00",
-          "p": "Agenda Deportiva"
+          "p": "KickOff"
         },
         {
           "i": "10:00",
@@ -201,42 +201,256 @@
         {
           "i": "12:00",
           "f": "13:00",
-          "p": "Con Pineda Chacón"
+          "p": "KickOff"
         },
         {
           "i": "13:00",
-          "f": "15:00",
+          "f": "14:00",
+          "p": "Deportes TVC Noticias"
+        },
+        {
+          "i": "14:00",
+          "f": "16:00",
           "p": "Partido en Repetición"
         },
         {
-          "i": "15:00",
-          "f": "17:15",
-          "p": "Olancho vs. Platense / Jornada 12"
+          "i": "16:00",
+          "f": "16:30",
+          "p": "Motagua TV"
         },
         {
-          "i": "17:15",
-          "f": "19:30",
-          "p": "Motagua vs. Marathón / Jornada 5"
+          "i": "16:30",
+          "f": "18:00",
+          "p": "Radio House"
         },
         {
-          "i": "19:30",
-          "f": "20:30",
-          "p": "La Noche del Gol"
+          "i": "18:00",
+          "f": "19:00",
+          "p": "Pase al Mundo"
         },
         {
-          "i": "20:30",
-          "f": "21:30",
+          "i": "19:00",
+          "f": "20:00",
+          "p": "Ida y Vuelta"
+        },
+        {
+          "i": "20:00",
+          "f": "21:00",
+          "p": "Ante la Afición"
+        },
+        {
+          "i": "21:00",
+          "f": "21:15",
           "p": "Compacto Futbolero en 60"
         },
         {
-          "i": "21:30",
+          "i": "21:15",
           "f": "22:00",
-          "p": "Sueño de Primera"
+          "p": "Fútbol a Fondo"
         },
         {
           "i": "22:00",
+          "f": "23:30",
+          "p": "Radio House"
+        },
+        {
+          "i": "23:30",
           "f": "00:00",
-          "p": "Partido en Repetición"
+          "p": "Ida y Vuelta"
+        }
+      ]
+    },
+    "-P2rlc_nYDXmxf_2jGii": {
+      "nombre": "Canal 5 HD HON",
+      "fuente": "gatotv",
+      "slug": "5_el_lider_honduras",
+      "rows": [
+        {
+          "i": "00:05",
+          "f": "02:20",
+          "p": "X0 Da Dinero"
+        },
+        {
+          "i": "02:20",
+          "f": "03:50",
+          "p": "La Rosa de Guadalupe"
+        },
+        {
+          "i": "03:50",
+          "f": "04:45",
+          "p": "El Cinco de Noche"
+        },
+        {
+          "i": "04:45",
+          "f": "05:40",
+          "p": "Noticiero TN5 Dominical"
+        },
+        {
+          "i": "05:40",
+          "f": "07:00",
+          "p": "Noticiero TN5 Matutino"
+        },
+        {
+          "i": "07:00",
+          "f": "09:00",
+          "p": "Frente a Frente"
+        },
+        {
+          "i": "09:00",
+          "f": "11:00",
+          "p": "Las Mañanas del 5"
+        },
+        {
+          "i": "11:00",
+          "f": "12:00",
+          "p": "Los Doctores"
+        },
+        {
+          "i": "12:00",
+          "f": "13:00",
+          "p": "La Rosa de Guadalupe"
+        },
+        {
+          "i": "13:00",
+          "f": "14:00",
+          "p": "Como dice el dicho"
+        },
+        {
+          "i": "14:00",
+          "f": "15:00",
+          "p": "Yo soy Betty, la fea"
+        },
+        {
+          "i": "15:00",
+          "f": "17:00",
+          "p": "#ConTODO"
+        },
+        {
+          "i": "17:00",
+          "f": "18:00",
+          "p": "El Hilo"
+        },
+        {
+          "i": "18:00",
+          "f": "19:00",
+          "p": "La Rosa de Guadalupe"
+        },
+        {
+          "i": "19:00",
+          "f": "20:00",
+          "p": "Karsu: La Fuerza de Una Madre"
+        },
+        {
+          "i": "20:00",
+          "f": "21:00",
+          "p": "Guardián de mi vida"
+        },
+        {
+          "i": "21:00",
+          "f": "22:30",
+          "p": "Noticiero TN5 Estelar"
+        },
+        {
+          "i": "22:30",
+          "f": "00:00",
+          "p": "Frente a Frente"
+        }
+      ]
+    },
+    "-P2kf9CH99dNh6b94yCp": {
+      "nombre": "Canal 5 HON ",
+      "fuente": "gatotv",
+      "slug": "5_el_lider_honduras",
+      "rows": [
+        {
+          "i": "00:05",
+          "f": "02:20",
+          "p": "X0 Da Dinero"
+        },
+        {
+          "i": "02:20",
+          "f": "03:50",
+          "p": "La Rosa de Guadalupe"
+        },
+        {
+          "i": "03:50",
+          "f": "04:45",
+          "p": "El Cinco de Noche"
+        },
+        {
+          "i": "04:45",
+          "f": "05:40",
+          "p": "Noticiero TN5 Dominical"
+        },
+        {
+          "i": "05:40",
+          "f": "07:00",
+          "p": "Noticiero TN5 Matutino"
+        },
+        {
+          "i": "07:00",
+          "f": "09:00",
+          "p": "Frente a Frente"
+        },
+        {
+          "i": "09:00",
+          "f": "11:00",
+          "p": "Las Mañanas del 5"
+        },
+        {
+          "i": "11:00",
+          "f": "12:00",
+          "p": "Los Doctores"
+        },
+        {
+          "i": "12:00",
+          "f": "13:00",
+          "p": "La Rosa de Guadalupe"
+        },
+        {
+          "i": "13:00",
+          "f": "14:00",
+          "p": "Como dice el dicho"
+        },
+        {
+          "i": "14:00",
+          "f": "15:00",
+          "p": "Yo soy Betty, la fea"
+        },
+        {
+          "i": "15:00",
+          "f": "17:00",
+          "p": "#ConTODO"
+        },
+        {
+          "i": "17:00",
+          "f": "18:00",
+          "p": "El Hilo"
+        },
+        {
+          "i": "18:00",
+          "f": "19:00",
+          "p": "La Rosa de Guadalupe"
+        },
+        {
+          "i": "19:00",
+          "f": "20:00",
+          "p": "Karsu: La Fuerza de Una Madre"
+        },
+        {
+          "i": "20:00",
+          "f": "21:00",
+          "p": "Guardián de mi vida"
+        },
+        {
+          "i": "21:00",
+          "f": "22:30",
+          "p": "Noticiero TN5 Estelar"
+        },
+        {
+          "i": "22:30",
+          "f": "00:00",
+          "p": "Frente a Frente"
         }
       ]
     }

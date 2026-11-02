@@ -1,50 +1,94 @@
-Programación del 2026-11-01 (hora de Honduras)
+Programación del 2026-11-02 (hora de Honduras)
 
 STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
-  00:00 - 01:00  DOCUMENTAL
-  01:00 - 01:30  NI UNA MENOS, NI UNA SOLA
-  01:30 - 02:00  CLANDESTINO
-  02:00 - 03:00  SONORO
-  03:00 - 03:30  EDUCACIÓN Y DESARROLLO
-  03:30 - 04:00  DESCUBRIENDO IDEAS
-  04:00 - 05:00  CÓDIGO VERDE
-  05:00 - 06:00  TIEMPO DE TERTULIA
-  06:00 - 06:30  A QUE JUGAMOS
-  06:30 - 07:30  EUCARISTÍA EN VIVO
-  07:30 - 08:00  ACTIVATE
-  08:00 - 09:00  PLAZA SESAMO
-  09:00 - 10:00  SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS
-  10:00 - 11:00  TIEMPO PARA APRENDER: COMUNICACIÓN 1ER. GRADO
-  11:00 - 11:30  AL RITMO DEL XIQUE
-  11:30 - 13:00  NCC REPORTE CLIMÁTICO
-  13:00 - 14:00  DOCUMENTAL
-  14:00 - 16:00  TARDES DE CONCIERTO
-  16:00 - 17:00  ¿QUÉ PASÓ ENTONCES?
-  17:00 - 18:00  SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS
-  18:00 - 18:30  LA CLAVE DEL ÉXITO
-  18:30 - 19:00  HORIZONTES
-  19:00 - 20:00  HUELLAS HISTÓRICAS DE HONDURAS
-  20:00 - 21:00  PANORAMA JUDICIAL
-  21:00 - 21:30  NCC SALUD
-  21:30 - 22:00  GUARDIANES DE LA TIERRA
-  22:00 - 23:00  CÓDIGO VERDE
-  23:00 - 00:00  SONORO
+  00:00 - 02:00  LA PELÍCULA DE FRANCISCO MORAZÁN
+  02:00 - 02:30  MANZANA CIENTÍFICA
+  02:30 - 03:00  GUARDIANES DE LA TIERRA
+  03:00 - 04:00  VIDAS Y BEBIDAS
+  04:00 - 04:30  LA LLEVA
+  04:30 - 05:00  NOTICIERO CIENTÍFICO Y CULTURAL
+  05:00 - 06:00  DOCUMENTAL
+  06:00 - 07:00  SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS
+  07:00 - 07:35  MATEMÁTICAS 7.°, 8.°, 9.°
+  07:35 - 08:10  INGLÉS 7.°, 8.°, 9.°
+  08:10 - 08:45  ESPAÑOL 7.°, 8.°, 9.°
+  08:45 - 09:15  TECNOLOGÍA 7.°, 8.°, 9.°
+  09:15 - 09:30  RECESO
+  09:30 - 10:05  CCNN 7.°, 8.°, 9.°
+  10:05 - 10:40  EEAA 7.°, 8.°, 9.°
+  10:40 - 11:15  CCSS 7.°, 8.°, 9.°
+  11:15 - 11:50  EEFF 7.°, 8.°, 9.°
+  11:50 - 13:10  RECESO
+  13:10 - 13:45  ESPAÑOL 7.°, 8.°, 9.°
+  13:45 - 14:15  TECNOLOGÍA 7.°, 8.°, 9.°
+  14:15 - 14:30  RECESO
+  14:30 - 15:05  CCNN 7.°, 8.°, 9.°
+  15:05 - 15:40  EEAA 7.°, 8.°, 9.°
+  15:40 - 16:15  CCSS 7.°, 8.°, 9.°
+  16:15 - 16:50  EEFF 7.°, 8.°, 9.°
+  16:50 - 17:00  RECESO
+  17:00 - 18:00  DOCUMENTAL
+  18:00 - 18:30  NOTICIERO CIENTIFICO Y CULTURAL
+  18:30 - 20:00  SIGNOS VITALES
+  20:00 - 21:00  NCC REVOLUCIONARIA
+  21:00 - 22:00  VIDAS Y BEBIDAS
+  22:00 - 23:00  COLOMBIAR
+  23:00 - 00:00  DOCUMENTAL
 
 Deportes TVC HON  [-P3YxJH0O5lSHk9XHDMz]  fuente: web
-  00:00 - 04:00  Partido en Repetición
-  04:00 - 04:30  Sueño de Primera
-  04:30 - 05:00  DxT en 3 Letras
-  05:00 - 06:00  Compacto Futbolero en 60
-  06:00 - 08:00  Partido en Repetición
+  02:00 - 08:00  Partido en Repetición
   08:00 - 09:00  Compacto Futbolero en 60
-  09:00 - 09:30  Sueño de Primera
-  09:30 - 10:00  Agenda Deportiva
+  09:00 - 10:00  KickOff
   10:00 - 12:00  Partido en Repetición
-  12:00 - 13:00  Con Pineda Chacón
-  13:00 - 15:00  Partido en Repetición
-  15:00 - 17:15  Olancho vs. Platense / Jornada 12
-  17:15 - 19:30  Motagua vs. Marathón / Jornada 5
-  19:30 - 20:30  La Noche del Gol
-  20:30 - 21:30  Compacto Futbolero en 60
-  21:30 - 22:00  Sueño de Primera
-  22:00 - 00:00  Partido en Repetición
+  12:00 - 13:00  KickOff
+  13:00 - 14:00  Deportes TVC Noticias
+  14:00 - 16:00  Partido en Repetición
+  16:00 - 16:30  Motagua TV
+  16:30 - 18:00  Radio House
+  18:00 - 19:00  Pase al Mundo
+  19:00 - 20:00  Ida y Vuelta
+  20:00 - 21:00  Ante la Afición
+  21:00 - 21:15  Compacto Futbolero en 60
+  21:15 - 22:00  Fútbol a Fondo
+  22:00 - 23:30  Radio House
+  23:30 - 00:00  Ida y Vuelta
+
+Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
+  00:05 - 02:20  X0 Da Dinero
+  02:20 - 03:50  La Rosa de Guadalupe
+  03:50 - 04:45  El Cinco de Noche
+  04:45 - 05:40  Noticiero TN5 Dominical
+  05:40 - 07:00  Noticiero TN5 Matutino
+  07:00 - 09:00  Frente a Frente
+  09:00 - 11:00  Las Mañanas del 5
+  11:00 - 12:00  Los Doctores
+  12:00 - 13:00  La Rosa de Guadalupe
+  13:00 - 14:00  Como dice el dicho
+  14:00 - 15:00  Yo soy Betty, la fea
+  15:00 - 17:00  #ConTODO
+  17:00 - 18:00  El Hilo
+  18:00 - 19:00  La Rosa de Guadalupe
+  19:00 - 20:00  Karsu: La Fuerza de Una Madre
+  20:00 - 21:00  Guardián de mi vida
+  21:00 - 22:30  Noticiero TN5 Estelar
+  22:30 - 00:00  Frente a Frente
+
+Canal 5 HON   [-P2kf9CH99dNh6b94yCp]  fuente: gatotv
+  00:05 - 02:20  X0 Da Dinero
+  02:20 - 03:50  La Rosa de Guadalupe
+  03:50 - 04:45  El Cinco de Noche
+  04:45 - 05:40  Noticiero TN5 Dominical
+  05:40 - 07:00  Noticiero TN5 Matutino
+  07:00 - 09:00  Frente a Frente
+  09:00 - 11:00  Las Mañanas del 5
+  11:00 - 12:00  Los Doctores
+  12:00 - 13:00  La Rosa de Guadalupe
+  13:00 - 14:00  Como dice el dicho
+  14:00 - 15:00  Yo soy Betty, la fea
+  15:00 - 17:00  #ConTODO
+  17:00 - 18:00  El Hilo
+  18:00 - 19:00  La Rosa de Guadalupe
+  19:00 - 20:00  Karsu: La Fuerza de Una Madre
+  20:00 - 21:00  Guardián de mi vida
+  21:00 - 22:30  Noticiero TN5 Estelar
+  22:30 - 00:00  Frente a Frente
