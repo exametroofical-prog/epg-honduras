@@ -48,29 +48,3 @@ Deportes TVC HON  [-P3YxJH0O5lSHk9XHDMz]  fuente: web
   20:30 - 21:30  Compacto Futbolero en 60
   21:30 - 22:00  Sueño de Primera
   22:00 - 00:00  Partido en Repetición
-
-Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
-  00:00 - 02:30  El Macaneo TV
-  02:30 - 03:20  Como dice el dicho
-  03:20 - 08:00  Las Mañanas del 5
-  08:00 - 12:00  5 Deportivo
-  12:00 - 18:00  X0 Da Dinero
-  18:00 - 19:00  Noticiero TN5 Dominical
-  19:00 - 20:00  El Cinco de Noche
-  20:00 - 21:30  Summer Camp
-  21:30 - 22:30  Noticiero TN5 Dominical
-  22:30 - 23:30  Como dice el dicho
-  23:30 - 00:00  El Macaneo TV
-
-Canal 5 HON   [-P2kf9CH99dNh6b94yCp]  fuente: gatotv
-  00:00 - 02:30  El Macaneo TV
-  02:30 - 03:20  Como dice el dicho
-  03:20 - 08:00  Las Mañanas del 5
-  08:00 - 12:00  5 Deportivo
-  12:00 - 18:00  X0 Da Dinero
-  18:00 - 19:00  Noticiero TN5 Dominical
-  19:00 - 20:00  El Cinco de Noche
-  20:00 - 21:30  Summer Camp
-  21:30 - 22:30  Noticiero TN5 Dominical
-  22:30 - 23:30  Como dice el dicho
-  23:30 - 00:00  El Macaneo TV
