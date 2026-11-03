@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-02",
+  "fecha": "2026-11-03",
   "canales": {
     "-P57t6dgMhyRS1utX7rg": {
       "nombre": "STVE",
@@ -8,43 +8,48 @@
       "rows": [
         {
           "i": "00:00",
+          "f": "00:30",
+          "p": "CIENTÍFICAMENTE"
+        },
+        {
+          "i": "00:30",
+          "f": "01:00",
+          "p": "CREADORAS"
+        },
+        {
+          "i": "01:00",
           "f": "02:00",
-          "p": "LA PELÍCULA DE FRANCISCO MORAZÁN"
+          "p": "DOCUMENTAL"
         },
         {
           "i": "02:00",
-          "f": "02:30",
-          "p": "MANZANA CIENTÍFICA"
-        },
-        {
-          "i": "02:30",
           "f": "03:00",
-          "p": "GUARDIANES DE LA TIERRA"
+          "p": "EDUCACIÓN Y DESARROLLO"
         },
         {
           "i": "03:00",
           "f": "04:00",
-          "p": "VIDAS Y BEBIDAS"
+          "p": "TIEMPO DE TERTULIA"
         },
         {
           "i": "04:00",
-          "f": "04:30",
-          "p": "LA LLEVA"
-        },
-        {
-          "i": "04:30",
           "f": "05:00",
-          "p": "NOTICIERO CIENTÍFICO Y CULTURAL"
+          "p": "LA LLEVA"
         },
         {
           "i": "05:00",
           "f": "06:00",
-          "p": "DOCUMENTAL"
+          "p": "VIVA MEJOR"
         },
         {
           "i": "06:00",
+          "f": "06:30",
+          "p": "MANZANA CIENTÍFICA"
+        },
+        {
+          "i": "06:30",
           "f": "07:00",
-          "p": "SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS"
+          "p": "ACTIVATE"
         },
         {
           "i": "07:00",
@@ -143,28 +148,33 @@
         },
         {
           "i": "18:00",
-          "f": "18:30",
-          "p": "NOTICIERO CIENTIFICO Y CULTURAL"
+          "f": "19:00",
+          "p": "REP. EDUCADORES"
         },
         {
-          "i": "18:30",
+          "i": "19:00",
+          "f": "19:30",
+          "p": "NOTICIERO CIENTÍFICO Y CULTURAL"
+        },
+        {
+          "i": "19:30",
           "f": "20:00",
-          "p": "SIGNOS VITALES"
+          "p": "HORIZONTES"
         },
         {
           "i": "20:00",
           "f": "21:00",
-          "p": "NCC REVOLUCIONARIA"
+          "p": "HUELLAS HISTÓRICAS DE HONDURAS"
         },
         {
           "i": "21:00",
           "f": "22:00",
-          "p": "VIDAS Y BEBIDAS"
+          "p": "CORTO Y QUEDA"
         },
         {
           "i": "22:00",
           "f": "23:00",
-          "p": "COLOMBIAR"
+          "p": "CIENTÍFICAMENTE"
         },
         {
           "i": "23:00",
@@ -179,14 +189,39 @@
       "slug": "https://www.deportestvc.com/programacion",
       "rows": [
         {
-          "i": "02:00",
-          "f": "08:00",
+          "i": "00:00",
+          "f": "01:00",
+          "p": "Compacto Futbolero en 60"
+        },
+        {
+          "i": "01:00",
+          "f": "01:30",
+          "p": "Sueño de Primera"
+        },
+        {
+          "i": "01:30",
+          "f": "02:30",
+          "p": "Compacto Futbolero en 60"
+        },
+        {
+          "i": "02:30",
+          "f": "03:00",
+          "p": "Motagua TV"
+        },
+        {
+          "i": "03:00",
+          "f": "05:00",
           "p": "Partido en Repetición"
+        },
+        {
+          "i": "05:00",
+          "f": "08:00",
+          "p": "Compacto Futbolero en 60"
         },
         {
           "i": "08:00",
           "f": "09:00",
-          "p": "Compacto Futbolero en 60"
+          "p": "Las Dueñas del Balón"
         },
         {
           "i": "09:00",
@@ -216,7 +251,7 @@
         {
           "i": "16:00",
           "f": "16:30",
-          "p": "Motagua TV"
+          "p": "Estrellas del Futuro"
         },
         {
           "i": "16:30",
@@ -225,8 +260,13 @@
         },
         {
           "i": "18:00",
+          "f": "18:30",
+          "p": "Rey de Copas"
+        },
+        {
+          "i": "18:30",
           "f": "19:00",
-          "p": "Pase al Mundo"
+          "p": "DxT en 3 Letras"
         },
         {
           "i": "19:00",
@@ -240,13 +280,8 @@
         },
         {
           "i": "21:00",
-          "f": "21:15",
-          "p": "Compacto Futbolero en 60"
-        },
-        {
-          "i": "21:15",
           "f": "22:00",
-          "p": "Fútbol a Fondo"
+          "p": "Compacto Futbolero en 60"
         },
         {
           "i": "22:00",
@@ -256,7 +291,7 @@
         {
           "i": "23:30",
           "f": "00:00",
-          "p": "Ida y Vuelta"
+          "p": "Compacto Futbolero en 60"
         }
       ]
     },
@@ -266,24 +301,24 @@
       "slug": "5_el_lider_honduras",
       "rows": [
         {
-          "i": "00:05",
-          "f": "02:20",
-          "p": "X0 Da Dinero"
+          "i": "00:00",
+          "f": "00:30",
+          "p": "Frente a Frente"
         },
         {
-          "i": "02:20",
-          "f": "03:50",
+          "i": "00:30",
+          "f": "03:30",
+          "p": "Las Mañanas del 5"
+        },
+        {
+          "i": "03:30",
+          "f": "04:20",
           "p": "La Rosa de Guadalupe"
         },
         {
-          "i": "03:50",
-          "f": "04:45",
-          "p": "El Cinco de Noche"
-        },
-        {
-          "i": "04:45",
+          "i": "04:20",
           "f": "05:40",
-          "p": "Noticiero TN5 Dominical"
+          "p": "Noticiero TN5 Estelar"
         },
         {
           "i": "05:40",
@@ -338,7 +373,7 @@
         {
           "i": "19:00",
           "f": "20:00",
-          "p": "Karsu: La Fuerza de Una Madre"
+          "p": "Amor Profundo"
         },
         {
           "i": "20:00",
@@ -363,24 +398,24 @@
       "slug": "5_el_lider_honduras",
       "rows": [
         {
-          "i": "00:05",
-          "f": "02:20",
-          "p": "X0 Da Dinero"
+          "i": "00:00",
+          "f": "00:30",
+          "p": "Frente a Frente"
         },
         {
-          "i": "02:20",
-          "f": "03:50",
+          "i": "00:30",
+          "f": "03:30",
+          "p": "Las Mañanas del 5"
+        },
+        {
+          "i": "03:30",
+          "f": "04:20",
           "p": "La Rosa de Guadalupe"
         },
         {
-          "i": "03:50",
-          "f": "04:45",
-          "p": "El Cinco de Noche"
-        },
-        {
-          "i": "04:45",
+          "i": "04:20",
           "f": "05:40",
-          "p": "Noticiero TN5 Dominical"
+          "p": "Noticiero TN5 Estelar"
         },
         {
           "i": "05:40",
@@ -435,7 +470,7 @@
         {
           "i": "19:00",
           "f": "20:00",
-          "p": "Karsu: La Fuerza de Una Madre"
+          "p": "Amor Profundo"
         },
         {
           "i": "20:00",

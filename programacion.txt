@@ -1,14 +1,15 @@
-Programación del 2026-11-02 (hora de Honduras)
+Programación del 2026-11-03 (hora de Honduras)
 
 STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
-  00:00 - 02:00  LA PELÍCULA DE FRANCISCO MORAZÁN
-  02:00 - 02:30  MANZANA CIENTÍFICA
-  02:30 - 03:00  GUARDIANES DE LA TIERRA
-  03:00 - 04:00  VIDAS Y BEBIDAS
-  04:00 - 04:30  LA LLEVA
-  04:30 - 05:00  NOTICIERO CIENTÍFICO Y CULTURAL
-  05:00 - 06:00  DOCUMENTAL
-  06:00 - 07:00  SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS
+  00:00 - 00:30  CIENTÍFICAMENTE
+  00:30 - 01:00  CREADORAS
+  01:00 - 02:00  DOCUMENTAL
+  02:00 - 03:00  EDUCACIÓN Y DESARROLLO
+  03:00 - 04:00  TIEMPO DE TERTULIA
+  04:00 - 05:00  LA LLEVA
+  05:00 - 06:00  VIVA MEJOR
+  06:00 - 06:30  MANZANA CIENTÍFICA
+  06:30 - 07:00  ACTIVATE
   07:00 - 07:35  MATEMÁTICAS 7.°, 8.°, 9.°
   07:35 - 08:10  INGLÉS 7.°, 8.°, 9.°
   08:10 - 08:45  ESPAÑOL 7.°, 8.°, 9.°
@@ -28,36 +29,42 @@ STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
   16:15 - 16:50  EEFF 7.°, 8.°, 9.°
   16:50 - 17:00  RECESO
   17:00 - 18:00  DOCUMENTAL
-  18:00 - 18:30  NOTICIERO CIENTIFICO Y CULTURAL
-  18:30 - 20:00  SIGNOS VITALES
-  20:00 - 21:00  NCC REVOLUCIONARIA
-  21:00 - 22:00  VIDAS Y BEBIDAS
-  22:00 - 23:00  COLOMBIAR
+  18:00 - 19:00  REP. EDUCADORES
+  19:00 - 19:30  NOTICIERO CIENTÍFICO Y CULTURAL
+  19:30 - 20:00  HORIZONTES
+  20:00 - 21:00  HUELLAS HISTÓRICAS DE HONDURAS
+  21:00 - 22:00  CORTO Y QUEDA
+  22:00 - 23:00  CIENTÍFICAMENTE
   23:00 - 00:00  DOCUMENTAL
 
 Deportes TVC HON  [-P3YxJH0O5lSHk9XHDMz]  fuente: web
-  02:00 - 08:00  Partido en Repetición
-  08:00 - 09:00  Compacto Futbolero en 60
+  00:00 - 01:00  Compacto Futbolero en 60
+  01:00 - 01:30  Sueño de Primera
+  01:30 - 02:30  Compacto Futbolero en 60
+  02:30 - 03:00  Motagua TV
+  03:00 - 05:00  Partido en Repetición
+  05:00 - 08:00  Compacto Futbolero en 60
+  08:00 - 09:00  Las Dueñas del Balón
   09:00 - 10:00  KickOff
   10:00 - 12:00  Partido en Repetición
   12:00 - 13:00  KickOff
   13:00 - 14:00  Deportes TVC Noticias
   14:00 - 16:00  Partido en Repetición
-  16:00 - 16:30  Motagua TV
+  16:00 - 16:30  Estrellas del Futuro
   16:30 - 18:00  Radio House
-  18:00 - 19:00  Pase al Mundo
+  18:00 - 18:30  Rey de Copas
+  18:30 - 19:00  DxT en 3 Letras
   19:00 - 20:00  Ida y Vuelta
   20:00 - 21:00  Ante la Afición
-  21:00 - 21:15  Compacto Futbolero en 60
-  21:15 - 22:00  Fútbol a Fondo
+  21:00 - 22:00  Compacto Futbolero en 60
   22:00 - 23:30  Radio House
-  23:30 - 00:00  Ida y Vuelta
+  23:30 - 00:00  Compacto Futbolero en 60
 
 Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
-  00:05 - 02:20  X0 Da Dinero
-  02:20 - 03:50  La Rosa de Guadalupe
-  03:50 - 04:45  El Cinco de Noche
-  04:45 - 05:40  Noticiero TN5 Dominical
+  00:00 - 00:30  Frente a Frente
+  00:30 - 03:30  Las Mañanas del 5
+  03:30 - 04:20  La Rosa de Guadalupe
+  04:20 - 05:40  Noticiero TN5 Estelar
   05:40 - 07:00  Noticiero TN5 Matutino
   07:00 - 09:00  Frente a Frente
   09:00 - 11:00  Las Mañanas del 5
@@ -68,16 +75,16 @@ Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
   15:00 - 17:00  #ConTODO
   17:00 - 18:00  El Hilo
   18:00 - 19:00  La Rosa de Guadalupe
-  19:00 - 20:00  Karsu: La Fuerza de Una Madre
+  19:00 - 20:00  Amor Profundo
   20:00 - 21:00  Guardián de mi vida
   21:00 - 22:30  Noticiero TN5 Estelar
   22:30 - 00:00  Frente a Frente
 
 Canal 5 HON   [-P2kf9CH99dNh6b94yCp]  fuente: gatotv
-  00:05 - 02:20  X0 Da Dinero
-  02:20 - 03:50  La Rosa de Guadalupe
-  03:50 - 04:45  El Cinco de Noche
-  04:45 - 05:40  Noticiero TN5 Dominical
+  00:00 - 00:30  Frente a Frente
+  00:30 - 03:30  Las Mañanas del 5
+  03:30 - 04:20  La Rosa de Guadalupe
+  04:20 - 05:40  Noticiero TN5 Estelar
   05:40 - 07:00  Noticiero TN5 Matutino
   07:00 - 09:00  Frente a Frente
   09:00 - 11:00  Las Mañanas del 5
@@ -88,7 +95,7 @@ Canal 5 HON   [-P2kf9CH99dNh6b94yCp]  fuente: gatotv
   15:00 - 17:00  #ConTODO
   17:00 - 18:00  El Hilo
   18:00 - 19:00  La Rosa de Guadalupe
-  19:00 - 20:00  Karsu: La Fuerza de Una Madre
+  19:00 - 20:00  Amor Profundo
   20:00 - 21:00  Guardián de mi vida
   21:00 - 22:30  Noticiero TN5 Estelar
   22:30 - 00:00  Frente a Frente
