@@ -1,15 +1,14 @@
-Programación del 2026-11-03 (hora de Honduras)
+Programación del 2026-11-04 (hora de Honduras)
 
 STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
-  00:00 - 00:30  CIENTÍFICAMENTE
-  00:30 - 01:00  CREADORAS
+  00:00 - 00:30  CHICOS OPINAN
+  00:30 - 01:00  NOTICIERO CIENTÍFICO Y CULTURAL
   01:00 - 02:00  DOCUMENTAL
-  02:00 - 03:00  EDUCACIÓN Y DESARROLLO
-  03:00 - 04:00  TIEMPO DE TERTULIA
-  04:00 - 05:00  LA LLEVA
-  05:00 - 06:00  VIVA MEJOR
-  06:00 - 06:30  MANZANA CIENTÍFICA
-  06:30 - 07:00  ACTIVATE
+  02:00 - 03:00  CORTO Y QUEDA
+  03:00 - 04:00  CÓDIGO VERDE
+  04:00 - 05:00  SONORO
+  05:00 - 06:00  EMPRENDEDORES
+  06:00 - 07:00  LA CHUNCHETERíA
   07:00 - 07:35  MATEMÁTICAS 7.°, 8.°, 9.°
   07:35 - 08:10  INGLÉS 7.°, 8.°, 9.°
   08:10 - 08:45  ESPAÑOL 7.°, 8.°, 9.°
@@ -19,7 +18,7 @@ STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
   10:05 - 10:40  EEAA 7.°, 8.°, 9.°
   10:40 - 11:15  CCSS 7.°, 8.°, 9.°
   11:15 - 11:50  EEFF 7.°, 8.°, 9.°
-  11:50 - 13:10  RECESO
+  11:50 - 13:10  FLAUTA EN MANO
   13:10 - 13:45  ESPAÑOL 7.°, 8.°, 9.°
   13:45 - 14:15  TECNOLOGÍA 7.°, 8.°, 9.°
   14:15 - 14:30  RECESO
@@ -29,36 +28,39 @@ STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
   16:15 - 16:50  EEFF 7.°, 8.°, 9.°
   16:50 - 17:00  RECESO
   17:00 - 18:00  DOCUMENTAL
-  18:00 - 19:00  REP. EDUCADORES
-  19:00 - 19:30  NOTICIERO CIENTÍFICO Y CULTURAL
-  19:30 - 20:00  HORIZONTES
-  20:00 - 21:00  HUELLAS HISTÓRICAS DE HONDURAS
-  21:00 - 22:00  CORTO Y QUEDA
-  22:00 - 23:00  CIENTÍFICAMENTE
+  18:00 - 18:30  TECLADO EN MANO
+  18:30 - 19:00  ESPAÑOL PARA TODOS
+  19:00 - 19:30  NCC REPORTE CLIMÁTICO
+  19:30 - 20:00  LOS OTROS LIBROS
+  20:00 - 21:00  ¿QUÉ PASÓ ENTONCES?
+  21:00 - 22:00  TIEMPO DE TERTULIA
+  22:00 - 22:30  CÓDIGO VERDE
+  22:30 - 23:00  CORTO Y QUEDA
   23:00 - 00:00  DOCUMENTAL
 
 Deportes TVC HON  [-P3YxJH0O5lSHk9XHDMz]  fuente: web
-  00:00 - 01:00  Compacto Futbolero en 60
-  01:00 - 01:30  Sueño de Primera
+  00:00 - 00:30  Compacto Futbolero en 60
+  00:30 - 01:30  Partido en Repetición
   01:30 - 02:30  Compacto Futbolero en 60
-  02:30 - 03:00  Motagua TV
+  02:30 - 03:00  Estrellas del Futuro
   03:00 - 05:00  Partido en Repetición
-  05:00 - 08:00  Compacto Futbolero en 60
-  08:00 - 09:00  Las Dueñas del Balón
+  05:00 - 06:00  Compacto Futbolero en 60
+  06:00 - 07:30  Fútbol a Fondo
+  07:30 - 08:30  Las Dueñas del Balón
+  08:30 - 09:00  DxT en 3 Letras
   09:00 - 10:00  KickOff
   10:00 - 12:00  Partido en Repetición
   12:00 - 13:00  KickOff
   13:00 - 14:00  Deportes TVC Noticias
   14:00 - 16:00  Partido en Repetición
-  16:00 - 16:30  Estrellas del Futuro
+  16:00 - 16:30  Rey de Copas
   16:30 - 18:00  Radio House
-  18:00 - 18:30  Rey de Copas
-  18:30 - 19:00  DxT en 3 Letras
+  18:00 - 19:00  Compacto Futbolero en 60
   19:00 - 20:00  Ida y Vuelta
   20:00 - 21:00  Ante la Afición
   21:00 - 22:00  Compacto Futbolero en 60
   22:00 - 23:30  Radio House
-  23:30 - 00:00  Compacto Futbolero en 60
+  23:30 - 00:00  Ida y Vuelta
 
 Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
   00:00 - 00:30  Frente a Frente

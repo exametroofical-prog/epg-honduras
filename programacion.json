@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-03",
+  "fecha": "2026-11-04",
   "canales": {
     "-P57t6dgMhyRS1utX7rg": {
       "nombre": "STVE",
@@ -9,12 +9,12 @@
         {
           "i": "00:00",
           "f": "00:30",
-          "p": "CIENTÍFICAMENTE"
+          "p": "CHICOS OPINAN"
         },
         {
           "i": "00:30",
           "f": "01:00",
-          "p": "CREADORAS"
+          "p": "NOTICIERO CIENTÍFICO Y CULTURAL"
         },
         {
           "i": "01:00",
@@ -24,32 +24,27 @@
         {
           "i": "02:00",
           "f": "03:00",
-          "p": "EDUCACIÓN Y DESARROLLO"
+          "p": "CORTO Y QUEDA"
         },
         {
           "i": "03:00",
           "f": "04:00",
-          "p": "TIEMPO DE TERTULIA"
+          "p": "CÓDIGO VERDE"
         },
         {
           "i": "04:00",
           "f": "05:00",
-          "p": "LA LLEVA"
+          "p": "SONORO"
         },
         {
           "i": "05:00",
           "f": "06:00",
-          "p": "VIVA MEJOR"
+          "p": "EMPRENDEDORES"
         },
         {
           "i": "06:00",
-          "f": "06:30",
-          "p": "MANZANA CIENTÍFICA"
-        },
-        {
-          "i": "06:30",
           "f": "07:00",
-          "p": "ACTIVATE"
+          "p": "LA CHUNCHETERíA"
         },
         {
           "i": "07:00",
@@ -99,7 +94,7 @@
         {
           "i": "11:50",
           "f": "13:10",
-          "p": "RECESO"
+          "p": "FLAUTA EN MANO"
         },
         {
           "i": "13:10",
@@ -148,33 +143,43 @@
         },
         {
           "i": "18:00",
+          "f": "18:30",
+          "p": "TECLADO EN MANO"
+        },
+        {
+          "i": "18:30",
           "f": "19:00",
-          "p": "REP. EDUCADORES"
+          "p": "ESPAÑOL PARA TODOS"
         },
         {
           "i": "19:00",
           "f": "19:30",
-          "p": "NOTICIERO CIENTÍFICO Y CULTURAL"
+          "p": "NCC REPORTE CLIMÁTICO"
         },
         {
           "i": "19:30",
           "f": "20:00",
-          "p": "HORIZONTES"
+          "p": "LOS OTROS LIBROS"
         },
         {
           "i": "20:00",
           "f": "21:00",
-          "p": "HUELLAS HISTÓRICAS DE HONDURAS"
+          "p": "¿QUÉ PASÓ ENTONCES?"
         },
         {
           "i": "21:00",
           "f": "22:00",
-          "p": "CORTO Y QUEDA"
+          "p": "TIEMPO DE TERTULIA"
         },
         {
           "i": "22:00",
+          "f": "22:30",
+          "p": "CÓDIGO VERDE"
+        },
+        {
+          "i": "22:30",
           "f": "23:00",
-          "p": "CIENTÍFICAMENTE"
+          "p": "CORTO Y QUEDA"
         },
         {
           "i": "23:00",
@@ -190,13 +195,13 @@
       "rows": [
         {
           "i": "00:00",
-          "f": "01:00",
+          "f": "00:30",
           "p": "Compacto Futbolero en 60"
         },
         {
-          "i": "01:00",
+          "i": "00:30",
           "f": "01:30",
-          "p": "Sueño de Primera"
+          "p": "Partido en Repetición"
         },
         {
           "i": "01:30",
@@ -206,7 +211,7 @@
         {
           "i": "02:30",
           "f": "03:00",
-          "p": "Motagua TV"
+          "p": "Estrellas del Futuro"
         },
         {
           "i": "03:00",
@@ -215,13 +220,23 @@
         },
         {
           "i": "05:00",
-          "f": "08:00",
+          "f": "06:00",
           "p": "Compacto Futbolero en 60"
         },
         {
-          "i": "08:00",
-          "f": "09:00",
+          "i": "06:00",
+          "f": "07:30",
+          "p": "Fútbol a Fondo"
+        },
+        {
+          "i": "07:30",
+          "f": "08:30",
           "p": "Las Dueñas del Balón"
+        },
+        {
+          "i": "08:30",
+          "f": "09:00",
+          "p": "DxT en 3 Letras"
         },
         {
           "i": "09:00",
@@ -251,7 +266,7 @@
         {
           "i": "16:00",
           "f": "16:30",
-          "p": "Estrellas del Futuro"
+          "p": "Rey de Copas"
         },
         {
           "i": "16:30",
@@ -260,13 +275,8 @@
         },
         {
           "i": "18:00",
-          "f": "18:30",
-          "p": "Rey de Copas"
-        },
-        {
-          "i": "18:30",
           "f": "19:00",
-          "p": "DxT en 3 Letras"
+          "p": "Compacto Futbolero en 60"
         },
         {
           "i": "19:00",
@@ -291,7 +301,7 @@
         {
           "i": "23:30",
           "f": "00:00",
-          "p": "Compacto Futbolero en 60"
+          "p": "Ida y Vuelta"
         }
       ]
     },
