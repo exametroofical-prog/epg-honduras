@@ -1,42 +1,41 @@
 Programación del 2026-11-04 (hora de Honduras)
 
 STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
-  00:00 - 00:30  CHICOS OPINAN
-  00:30 - 01:00  NOTICIERO CIENTÍFICO Y CULTURAL
-  01:00 - 02:00  DOCUMENTAL
-  02:00 - 03:00  CORTO Y QUEDA
-  03:00 - 04:00  CÓDIGO VERDE
-  04:00 - 05:00  SONORO
-  05:00 - 06:00  EMPRENDEDORES
-  06:00 - 07:00  LA CHUNCHETERíA
-  07:00 - 07:35  MATEMÁTICAS 7.°, 8.°, 9.°
-  07:35 - 08:10  INGLÉS 7.°, 8.°, 9.°
-  08:10 - 08:45  ESPAÑOL 7.°, 8.°, 9.°
-  08:45 - 09:15  TECNOLOGÍA 7.°, 8.°, 9.°
-  09:15 - 09:30  RECESO
-  09:30 - 10:05  CCNN 7.°, 8.°, 9.°
-  10:05 - 10:40  EEAA 7.°, 8.°, 9.°
-  10:40 - 11:15  CCSS 7.°, 8.°, 9.°
-  11:15 - 11:50  EEFF 7.°, 8.°, 9.°
-  11:50 - 13:10  FLAUTA EN MANO
-  13:10 - 13:45  ESPAÑOL 7.°, 8.°, 9.°
-  13:45 - 14:15  TECNOLOGÍA 7.°, 8.°, 9.°
-  14:15 - 14:30  RECESO
-  14:30 - 15:05  CCNN 7.°, 8.°, 9.°
-  15:05 - 15:40  EEAA 7.°, 8.°, 9.°
-  15:40 - 16:15  CCSS 7.°, 8.°, 9.°
-  16:15 - 16:50  EEFF 7.°, 8.°, 9.°
-  16:50 - 17:00  RECESO
-  17:00 - 18:00  DOCUMENTAL
-  18:00 - 18:30  TECLADO EN MANO
-  18:30 - 19:00  ESPAÑOL PARA TODOS
-  19:00 - 19:30  NCC REPORTE CLIMÁTICO
-  19:30 - 20:00  LOS OTROS LIBROS
-  20:00 - 21:00  ¿QUÉ PASÓ ENTONCES?
-  21:00 - 22:00  TIEMPO DE TERTULIA
-  22:00 - 22:30  CÓDIGO VERDE
-  22:30 - 23:00  CORTO Y QUEDA
-  23:00 - 00:00  DOCUMENTAL
+  00:00 - 00:30  CHICOS OPINAN Programa juvenil de que visita colegios para recopilar opiniones, críticas y sugerencias de escolares sobr
+  00:30 - 01:00  NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,
+  01:00 - 02:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
+  02:00 - 03:00  CORTO Y QUEDA Difunde y proyecta cortometrajes de menos de diez minutos, dando visibilidad a este género marginado.
+  03:00 - 04:00  CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana.
+  04:00 - 05:00  SONORO Explora el universo sonoro con mirada formativa, acercando la música a la sociedad y descubriendo nuevos talentos
+  05:00 - 06:00  EMPRENDEDORES Programa que recorre panamá presentando historias de emprendedores locales, sus retos, éxitos y aprendizaj
+  06:00 - 07:00  LA CHUNCHETERíA Fomentar valores, curiosidad y autoaprendizaje mediante manualidades y cuentos.
+  07:00 - 07:35  MATEMÁTICAS 7.°, 8.°, 9.° Lecciones educativas de matemáticas para séptimo, octavo y noveno grado que refuerzan conocimi
+  07:35 - 08:10  INGLÉS 7.°, 8.°, 9.° Lecciones educativas de inglés para séptimo, octavo y noveno grado que fortalecen el aprendizaje de
+  08:10 - 08:45  ESPAÑOL 7.°, 8.°, 9.° Lecciones educativas de español para séptimo, octavo y noveno grado que fortalecen la lectura, esc
+  08:45 - 09:15  TECNOLOGÍA 7.°, 8.°, 9.° Lecciones educativas de tecnología para séptimo, octavo y noveno grado que desarrollan habilida
+  09:15 - 09:30  RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás
+  09:30 - 10:05  CCNN 7.°, 8.°, 9.° Lecciones educativas de ciencias naturales para séptimo, octavo y noveno grado que promueven el conoc
+  10:05 - 10:40  EEAA 7.°, 8.°, 9.° Lecciones educativas de educación artística para séptimo, octavo y noveno grado que fomentan la creat
+  10:40 - 11:15  CCSS 7.°, 8.°, 9.° Lecciones educativas de ciencias sociales para séptimo, octavo y noveno grado que fortalecen el conoc
+  11:15 - 11:50  EEFF 7.°, 8.°, 9.° Lecciones educativas de educación física para séptimo, octavo y noveno grado que promueven la activid
+  11:50 - 13:10  RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás
+  13:10 - 13:45  ESPAÑOL 7.°, 8.°, 9.° Lecciones educativas de español para séptimo, octavo y noveno grado que fortalecen la lectura, esc
+  13:45 - 14:15  TECNOLOGÍA 7.°, 8.°, 9.° Lecciones educativas de tecnología para séptimo, octavo y noveno grado que desarrollan habilida
+  14:15 - 14:30  RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás
+  14:30 - 15:05  CCNN 7.°, 8.°, 9.° Lecciones educativas de ciencias naturales para séptimo, octavo y noveno grado que promueven el conoc
+  15:05 - 15:40  EEAA 7.°, 8.°, 9.° Lecciones educativas de educación artística para séptimo, octavo y noveno grado que fomentan la creat
+  15:40 - 16:15  CCSS 7.°, 8.°, 9.° Lecciones educativas de ciencias sociales para séptimo, octavo y noveno grado que fortalecen el conoc
+  16:15 - 16:50  EEFF 7.°, 8.°, 9.° Lecciones educativas de educación física para séptimo, octavo y noveno grado que promueven la activid
+  16:50 - 17:00  RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás
+  17:00 - 18:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
+  18:00 - 18:30  TECLADO EN MANO Realiza algo nuevo, deja el miedo al éxito y con tu teclado en mano, haz magia desde tu hogar.
+  18:30 - 19:00  ESPAÑOL PARA TODOS El español es rico en vocablos. Aprende a hablarlo y escribirlo bien con Andrea Obando.
+  19:00 - 19:30  NCC CLIMÁTICO Aborda el calentamiento global y el cambio climático desde un enfoque de periodismo de soluciones en Ibero
+  19:30 - 20:00  CLANDESTINO Serie documental sobre la guerrilla urbana que en los setentas combatió al régimen priísta en México.
+  20:00 - 21:00  ¿QUÉ PASÓ ENTONCES? Arnulfo Ramírez de la costa presenta hechos de honduras y el mundo, con obras e investigaciones de i
+  21:00 - 22:00  LOS OTROS LIBROS Invita a conocer a autores(as) que escriben e investigan en la universidad local.
+  22:00 - 23:00  CORTO Y QUEDA Difunde y proyecta cortometrajes de menos de diez minutos, dando visibilidad a este género marginado.
+  23:00 - 00:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
 
 Deportes TVC HON  [-P3YxJH0O5lSHk9XHDMz]  fuente: web
   00:00 - 00:30  Compacto Futbolero en 60

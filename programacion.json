@@ -9,182 +9,177 @@
         {
           "i": "00:00",
           "f": "00:30",
-          "p": "CHICOS OPINAN"
+          "p": "CHICOS OPINAN Programa juvenil de que visita colegios para recopilar opiniones, críticas y sugerencias de escolares sobr"
         },
         {
           "i": "00:30",
           "f": "01:00",
-          "p": "NOTICIERO CIENTÍFICO Y CULTURAL"
+          "p": "NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,"
         },
         {
           "i": "01:00",
           "f": "02:00",
-          "p": "DOCUMENTAL"
+          "p": "DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi"
         },
         {
           "i": "02:00",
           "f": "03:00",
-          "p": "CORTO Y QUEDA"
+          "p": "CORTO Y QUEDA Difunde y proyecta cortometrajes de menos de diez minutos, dando visibilidad a este género marginado."
         },
         {
           "i": "03:00",
           "f": "04:00",
-          "p": "CÓDIGO VERDE"
+          "p": "CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana."
         },
         {
           "i": "04:00",
           "f": "05:00",
-          "p": "SONORO"
+          "p": "SONORO Explora el universo sonoro con mirada formativa, acercando la música a la sociedad y descubriendo nuevos talentos"
         },
         {
           "i": "05:00",
           "f": "06:00",
-          "p": "EMPRENDEDORES"
+          "p": "EMPRENDEDORES Programa que recorre panamá presentando historias de emprendedores locales, sus retos, éxitos y aprendizaj"
         },
         {
           "i": "06:00",
           "f": "07:00",
-          "p": "LA CHUNCHETERíA"
+          "p": "LA CHUNCHETERíA Fomentar valores, curiosidad y autoaprendizaje mediante manualidades y cuentos."
         },
         {
           "i": "07:00",
           "f": "07:35",
-          "p": "MATEMÁTICAS 7.°, 8.°, 9.°"
+          "p": "MATEMÁTICAS 7.°, 8.°, 9.° Lecciones educativas de matemáticas para séptimo, octavo y noveno grado que refuerzan conocimi"
         },
         {
           "i": "07:35",
           "f": "08:10",
-          "p": "INGLÉS 7.°, 8.°, 9.°"
+          "p": "INGLÉS 7.°, 8.°, 9.° Lecciones educativas de inglés para séptimo, octavo y noveno grado que fortalecen el aprendizaje de"
         },
         {
           "i": "08:10",
           "f": "08:45",
-          "p": "ESPAÑOL 7.°, 8.°, 9.°"
+          "p": "ESPAÑOL 7.°, 8.°, 9.° Lecciones educativas de español para séptimo, octavo y noveno grado que fortalecen la lectura, esc"
         },
         {
           "i": "08:45",
           "f": "09:15",
-          "p": "TECNOLOGÍA 7.°, 8.°, 9.°"
+          "p": "TECNOLOGÍA 7.°, 8.°, 9.° Lecciones educativas de tecnología para séptimo, octavo y noveno grado que desarrollan habilida"
         },
         {
           "i": "09:15",
           "f": "09:30",
-          "p": "RECESO"
+          "p": "RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás"
         },
         {
           "i": "09:30",
           "f": "10:05",
-          "p": "CCNN 7.°, 8.°, 9.°"
+          "p": "CCNN 7.°, 8.°, 9.° Lecciones educativas de ciencias naturales para séptimo, octavo y noveno grado que promueven el conoc"
         },
         {
           "i": "10:05",
           "f": "10:40",
-          "p": "EEAA 7.°, 8.°, 9.°"
+          "p": "EEAA 7.°, 8.°, 9.° Lecciones educativas de educación artística para séptimo, octavo y noveno grado que fomentan la creat"
         },
         {
           "i": "10:40",
           "f": "11:15",
-          "p": "CCSS 7.°, 8.°, 9.°"
+          "p": "CCSS 7.°, 8.°, 9.° Lecciones educativas de ciencias sociales para séptimo, octavo y noveno grado que fortalecen el conoc"
         },
         {
           "i": "11:15",
           "f": "11:50",
-          "p": "EEFF 7.°, 8.°, 9.°"
+          "p": "EEFF 7.°, 8.°, 9.° Lecciones educativas de educación física para séptimo, octavo y noveno grado que promueven la activid"
         },
         {
           "i": "11:50",
           "f": "13:10",
-          "p": "FLAUTA EN MANO"
+          "p": "RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás"
         },
         {
           "i": "13:10",
           "f": "13:45",
-          "p": "ESPAÑOL 7.°, 8.°, 9.°"
+          "p": "ESPAÑOL 7.°, 8.°, 9.° Lecciones educativas de español para séptimo, octavo y noveno grado que fortalecen la lectura, esc"
         },
         {
           "i": "13:45",
           "f": "14:15",
-          "p": "TECNOLOGÍA 7.°, 8.°, 9.°"
+          "p": "TECNOLOGÍA 7.°, 8.°, 9.° Lecciones educativas de tecnología para séptimo, octavo y noveno grado que desarrollan habilida"
         },
         {
           "i": "14:15",
           "f": "14:30",
-          "p": "RECESO"
+          "p": "RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás"
         },
         {
           "i": "14:30",
           "f": "15:05",
-          "p": "CCNN 7.°, 8.°, 9.°"
+          "p": "CCNN 7.°, 8.°, 9.° Lecciones educativas de ciencias naturales para séptimo, octavo y noveno grado que promueven el conoc"
         },
         {
           "i": "15:05",
           "f": "15:40",
-          "p": "EEAA 7.°, 8.°, 9.°"
+          "p": "EEAA 7.°, 8.°, 9.° Lecciones educativas de educación artística para séptimo, octavo y noveno grado que fomentan la creat"
         },
         {
           "i": "15:40",
           "f": "16:15",
-          "p": "CCSS 7.°, 8.°, 9.°"
+          "p": "CCSS 7.°, 8.°, 9.° Lecciones educativas de ciencias sociales para séptimo, octavo y noveno grado que fortalecen el conoc"
         },
         {
           "i": "16:15",
           "f": "16:50",
-          "p": "EEFF 7.°, 8.°, 9.°"
+          "p": "EEFF 7.°, 8.°, 9.° Lecciones educativas de educación física para séptimo, octavo y noveno grado que promueven la activid"
         },
         {
           "i": "16:50",
           "f": "17:00",
-          "p": "RECESO"
+          "p": "RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás"
         },
         {
           "i": "17:00",
           "f": "18:00",
-          "p": "DOCUMENTAL"
+          "p": "DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi"
         },
         {
           "i": "18:00",
           "f": "18:30",
-          "p": "TECLADO EN MANO"
+          "p": "TECLADO EN MANO Realiza algo nuevo, deja el miedo al éxito y con tu teclado en mano, haz magia desde tu hogar."
         },
         {
           "i": "18:30",
           "f": "19:00",
-          "p": "ESPAÑOL PARA TODOS"
+          "p": "ESPAÑOL PARA TODOS El español es rico en vocablos. Aprende a hablarlo y escribirlo bien con Andrea Obando."
         },
         {
           "i": "19:00",
           "f": "19:30",
-          "p": "NCC REPORTE CLIMÁTICO"
+          "p": "NCC CLIMÁTICO Aborda el calentamiento global y el cambio climático desde un enfoque de periodismo de soluciones en Ibero"
         },
         {
           "i": "19:30",
           "f": "20:00",
-          "p": "LOS OTROS LIBROS"
+          "p": "CLANDESTINO Serie documental sobre la guerrilla urbana que en los setentas combatió al régimen priísta en México."
         },
         {
           "i": "20:00",
           "f": "21:00",
-          "p": "¿QUÉ PASÓ ENTONCES?"
+          "p": "¿QUÉ PASÓ ENTONCES? Arnulfo Ramírez de la costa presenta hechos de honduras y el mundo, con obras e investigaciones de i"
         },
         {
           "i": "21:00",
           "f": "22:00",
-          "p": "TIEMPO DE TERTULIA"
+          "p": "LOS OTROS LIBROS Invita a conocer a autores(as) que escriben e investigan en la universidad local."
         },
         {
           "i": "22:00",
-          "f": "22:30",
-          "p": "CÓDIGO VERDE"
-        },
-        {
-          "i": "22:30",
           "f": "23:00",
-          "p": "CORTO Y QUEDA"
+          "p": "CORTO Y QUEDA Difunde y proyecta cortometrajes de menos de diez minutos, dando visibilidad a este género marginado."
         },
         {
           "i": "23:00",
           "f": "00:00",
-          "p": "DOCUMENTAL"
+          "p": "DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi"
         }
       ]
     },
