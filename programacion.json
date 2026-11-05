@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-04",
+  "fecha": "2026-11-05",
   "canales": {
     "-P57t6dgMhyRS1utX7rg": {
       "nombre": "STVE",
@@ -9,42 +9,47 @@
         {
           "i": "00:00",
           "f": "00:30",
-          "p": "CHICOS OPINAN Programa juvenil de que visita colegios para recopilar opiniones, críticas y sugerencias de escolares sobr"
+          "p": "GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de"
         },
         {
           "i": "00:30",
           "f": "01:00",
-          "p": "NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,"
+          "p": "CREADORAS Serie documental que retrata a ocho mujeres con discapacidad, destacando sus saberes, oficios y capacidades."
         },
         {
           "i": "01:00",
           "f": "02:00",
-          "p": "DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi"
+          "p": "CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana."
         },
         {
           "i": "02:00",
           "f": "03:00",
-          "p": "CORTO Y QUEDA Difunde y proyecta cortometrajes de menos de diez minutos, dando visibilidad a este género marginado."
+          "p": "CIENTÍFICAMENTE Programa que acerca la ciencia al público con descubrimientos, investigaciones e innovaciones que ayudan"
         },
         {
           "i": "03:00",
           "f": "04:00",
-          "p": "CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana."
+          "p": "TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana."
         },
         {
           "i": "04:00",
           "f": "05:00",
-          "p": "SONORO Explora el universo sonoro con mirada formativa, acercando la música a la sociedad y descubriendo nuevos talentos"
+          "p": "VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad."
         },
         {
           "i": "05:00",
           "f": "06:00",
-          "p": "EMPRENDEDORES Programa que recorre panamá presentando historias de emprendedores locales, sus retos, éxitos y aprendizaj"
+          "p": "LOS OTROS LIBROS Invita a conocer a autores(as) que escriben e investigan en la universidad local."
         },
         {
           "i": "06:00",
+          "f": "06:30",
+          "p": "DESDE EL CIELO Descubre cómo la actividad humana transforma los ecosistemas y conoce el impacto de nuestras acciones en "
+        },
+        {
+          "i": "06:30",
           "f": "07:00",
-          "p": "LA CHUNCHETERíA Fomentar valores, curiosidad y autoaprendizaje mediante manualidades y cuentos."
+          "p": "ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu"
         },
         {
           "i": "07:00",
@@ -144,37 +149,42 @@
         {
           "i": "18:00",
           "f": "18:30",
-          "p": "TECLADO EN MANO Realiza algo nuevo, deja el miedo al éxito y con tu teclado en mano, haz magia desde tu hogar."
+          "p": "PODCAST: VISIONES EDUCATIVAS Video podcast que enriquece la formación de estudiantes y docentes con entrevistas y activi"
         },
         {
           "i": "18:30",
           "f": "19:00",
-          "p": "ESPAÑOL PARA TODOS El español es rico en vocablos. Aprende a hablarlo y escribirlo bien con Andrea Obando."
+          "p": "NCC SALUD Emisión semanal del NCC especializada en ciencias médicas y tecnologías de la salud. Ofrece información verifi"
         },
         {
           "i": "19:00",
-          "f": "19:30",
-          "p": "NCC CLIMÁTICO Aborda el calentamiento global y el cambio climático desde un enfoque de periodismo de soluciones en Ibero"
-        },
-        {
-          "i": "19:30",
           "f": "20:00",
-          "p": "CLANDESTINO Serie documental sobre la guerrilla urbana que en los setentas combatió al régimen priísta en México."
+          "p": "ESCUELA PARA MADRES Y PADRES Espacio de reflexión sobre el papel de padres y madres en la formación de jóvenes, su probl"
         },
         {
           "i": "20:00",
           "f": "21:00",
-          "p": "¿QUÉ PASÓ ENTONCES? Arnulfo Ramírez de la costa presenta hechos de honduras y el mundo, con obras e investigaciones de i"
+          "p": "PINCELADAS Serie documental sobre artistas hondureños: su proceso creativo y cómo el arte transforma su entorno e inspir"
         },
         {
           "i": "21:00",
+          "f": "21:30",
+          "p": "CIENTÍFICAMENTE Programa que acerca la ciencia al público con descubrimientos, investigaciones e innovaciones que ayudan"
+        },
+        {
+          "i": "21:30",
           "f": "22:00",
-          "p": "LOS OTROS LIBROS Invita a conocer a autores(as) que escriben e investigan en la universidad local."
+          "p": "MANZANA CIENTÍFICA Espacio educativo que despierta la curiosidad y acerca la ciencia a los estudiantes de forma dinámica"
         },
         {
           "i": "22:00",
+          "f": "22:30",
+          "p": "GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de"
+        },
+        {
+          "i": "22:30",
           "f": "23:00",
-          "p": "CORTO Y QUEDA Difunde y proyecta cortometrajes de menos de diez minutos, dando visibilidad a este género marginado."
+          "p": "CHICOS OPINAN Programa juvenil de que visita colegios para recopilar opiniones, críticas y sugerencias de escolares sobr"
         },
         {
           "i": "23:00",
@@ -190,13 +200,8 @@
       "rows": [
         {
           "i": "00:00",
-          "f": "00:30",
-          "p": "Compacto Futbolero en 60"
-        },
-        {
-          "i": "00:30",
           "f": "01:30",
-          "p": "Partido en Repetición"
+          "p": "Ida y Vuelta"
         },
         {
           "i": "01:30",
@@ -206,7 +211,7 @@
         {
           "i": "02:30",
           "f": "03:00",
-          "p": "Estrellas del Futuro"
+          "p": "Rey de Copas"
         },
         {
           "i": "03:00",
@@ -231,7 +236,7 @@
         {
           "i": "08:30",
           "f": "09:00",
-          "p": "DxT en 3 Letras"
+          "p": "Agenda Deportiva"
         },
         {
           "i": "09:00",
@@ -261,7 +266,7 @@
         {
           "i": "16:00",
           "f": "16:30",
-          "p": "Rey de Copas"
+          "p": "Sueño de Primera"
         },
         {
           "i": "16:30",
@@ -270,8 +275,13 @@
         },
         {
           "i": "18:00",
+          "f": "18:30",
+          "p": "Motagua TV"
+        },
+        {
+          "i": "18:30",
           "f": "19:00",
-          "p": "Compacto Futbolero en 60"
+          "p": "Estrellas del Futuro"
         },
         {
           "i": "19:00",
