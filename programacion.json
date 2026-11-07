@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-06",
+  "fecha": "2026-11-07",
   "canales": {
     "-P57t6dgMhyRS1utX7rg": {
       "nombre": "STVE",
@@ -9,172 +9,162 @@
         {
           "i": "00:00",
           "f": "01:00",
-          "p": "EDUCACIÓN Y DESARROLLO Foro televisivo de la UNAD que aborda temas sociales, políticos y económicos del ámbito educativo"
+          "p": "DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi"
         },
         {
           "i": "01:00",
           "f": "02:00",
-          "p": "VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad."
+          "p": "TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana."
         },
         {
           "i": "02:00",
           "f": "02:30",
-          "p": "NI UNA MENOS, NI UNA SOLA Visibiliza la lucha contra la violencia de género en Iberoamérica, dando voz a mujeres, colect"
+          "p": "OLOR REGIÓN Visibiliza la riqueza cultural, social y productiva de las distintas regiones del país."
         },
         {
           "i": "02:30",
           "f": "03:00",
-          "p": "CIENTÍFICAMENTE Programa que acerca la ciencia al público con descubrimientos, investigaciones e innovaciones que ayudan"
+          "p": "MI PROPIO JEFE Historias de éxito de quienes, inconformes con su entorno laboral, se atrevieron a llevar sus sueños e id"
         },
         {
           "i": "03:00",
           "f": "04:00",
-          "p": "TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana."
+          "p": "VIVA MEJOR Entrevistas a especialistas y tips de salud."
         },
         {
           "i": "04:00",
-          "f": "05:00",
-          "p": "CORTO Y QUEDA Difunde y proyecta cortometrajes de menos de diez minutos, dando visibilidad a este género marginado."
-        },
-        {
-          "i": "05:00",
-          "f": "06:00",
+          "f": "04:30",
           "p": "CREADORAS Serie documental que retrata a ocho mujeres con discapacidad, destacando sus saberes, oficios y capacidades."
         },
         {
-          "i": "06:00",
-          "f": "06:30",
+          "i": "04:30",
+          "f": "05:00",
           "p": "GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de"
         },
         {
+          "i": "05:00",
+          "f": "05:30",
+          "p": "CHICOS OPINAN Programa juvenil de que visita colegios para recopilar opiniones, críticas y sugerencias de escolares sobr"
+        },
+        {
+          "i": "05:30",
+          "f": "06:30",
+          "p": "ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu"
+        },
+        {
           "i": "06:30",
-          "f": "07:00",
-          "p": "LOS OTROS LIBROS Invita a conocer a autores(as) que escriben e investigan en la universidad local."
+          "f": "07:30",
+          "p": "LA CHUNCHETERíA Fomentar valores, curiosidad y autoaprendizaje mediante manualidades y cuentos."
         },
         {
-          "i": "07:00",
-          "f": "07:35",
-          "p": "MATEMÁTICAS 7.°, 8.°, 9.° Lecciones educativas de matemáticas para séptimo, octavo y noveno grado que refuerzan conocimi"
+          "i": "07:30",
+          "f": "08:00",
+          "p": "MANZANA CIENTÍFICA Espacio educativo que despierta la curiosidad y acerca la ciencia a los estudiantes de forma dinámica"
         },
         {
-          "i": "07:35",
-          "f": "08:10",
-          "p": "INGLÉS 7.°, 8.°, 9.° Lecciones educativas de inglés para séptimo, octavo y noveno grado que fortalecen el aprendizaje de"
+          "i": "08:00",
+          "f": "09:00",
+          "p": "PLAZA SESAMO Serie infantil educativa que enseña a los niños a contar, leer, conocer colores y valores como la amistad, "
         },
         {
-          "i": "08:10",
-          "f": "08:45",
-          "p": "ESPAÑOL 7.°, 8.°, 9.° Lecciones educativas de español para séptimo, octavo y noveno grado que fortalecen la lectura, esc"
+          "i": "09:00",
+          "f": "10:00",
+          "p": "ESCUELA PARA MADRES Y PADRES Espacio de reflexión sobre el papel de padres y madres en la formación de jóvenes, su probl"
         },
         {
-          "i": "08:45",
-          "f": "09:15",
-          "p": "TECNOLOGÍA 7.°, 8.°, 9.° Lecciones educativas de tecnología para séptimo, octavo y noveno grado que desarrollan habilida"
+          "i": "10:00",
+          "f": "11:00",
+          "p": "REP. EDUCA TV HONDURAS Único noticiero educativo de honduras que brinda noticias académicas, culturales, históricas, dep"
         },
         {
-          "i": "09:15",
-          "f": "09:30",
-          "p": "RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás"
+          "i": "11:00",
+          "f": "11:30",
+          "p": "EXPRESSARTE Conjunto de ejercicios que podrás seguir desde casa o desde la escuela, sin necesidad de materiales costosos"
         },
         {
-          "i": "09:30",
-          "f": "10:05",
-          "p": "CCNN 7.°, 8.°, 9.° Lecciones educativas de ciencias naturales para séptimo, octavo y noveno grado que promueven el conoc"
+          "i": "11:30",
+          "f": "13:00",
+          "p": "NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,"
         },
         {
-          "i": "10:05",
-          "f": "10:40",
-          "p": "EEAA 7.°, 8.°, 9.° Lecciones educativas de educación artística para séptimo, octavo y noveno grado que fomentan la creat"
+          "i": "13:00",
+          "f": "13:30",
+          "p": "CHICOS OPINAN Programa juvenil de que visita colegios para recopilar opiniones, críticas y sugerencias de escolares sobr"
         },
         {
-          "i": "10:40",
-          "f": "11:15",
-          "p": "CCSS 7.°, 8.°, 9.° Lecciones educativas de ciencias sociales para séptimo, octavo y noveno grado que fortalecen el conoc"
-        },
-        {
-          "i": "11:15",
-          "f": "11:50",
-          "p": "EEFF 7.°, 8.°, 9.° Lecciones educativas de educación física para séptimo, octavo y noveno grado que promueven la activid"
-        },
-        {
-          "i": "11:50",
-          "f": "13:10",
-          "p": "RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás"
-        },
-        {
-          "i": "13:10",
-          "f": "13:45",
-          "p": "ESPAÑOL 7.°, 8.°, 9.° Lecciones educativas de español para séptimo, octavo y noveno grado que fortalecen la lectura, esc"
-        },
-        {
-          "i": "13:45",
-          "f": "14:15",
-          "p": "TECNOLOGÍA 7.°, 8.°, 9.° Lecciones educativas de tecnología para séptimo, octavo y noveno grado que desarrollan habilida"
-        },
-        {
-          "i": "14:15",
-          "f": "14:30",
-          "p": "RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás"
-        },
-        {
-          "i": "14:30",
-          "f": "15:05",
-          "p": "CCNN 7.°, 8.°, 9.° Lecciones educativas de ciencias naturales para séptimo, octavo y noveno grado que promueven el conoc"
-        },
-        {
-          "i": "15:05",
-          "f": "15:40",
-          "p": "EEAA 7.°, 8.°, 9.° Lecciones educativas de educación artística para séptimo, octavo y noveno grado que fomentan la creat"
-        },
-        {
-          "i": "15:40",
-          "f": "16:15",
-          "p": "CCSS 7.°, 8.°, 9.° Lecciones educativas de ciencias sociales para séptimo, octavo y noveno grado que fortalecen el conoc"
-        },
-        {
-          "i": "16:15",
-          "f": "16:50",
-          "p": "EEFF 7.°, 8.°, 9.° Lecciones educativas de educación física para séptimo, octavo y noveno grado que promueven la activid"
-        },
-        {
-          "i": "16:50",
-          "f": "17:00",
-          "p": "RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás"
-        },
-        {
-          "i": "17:00",
-          "f": "18:00",
-          "p": "DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi"
-        },
-        {
-          "i": "18:00",
-          "f": "18:30",
+          "i": "13:30",
+          "f": "14:00",
           "p": "GUITARRA EN MANO Aprende a ejecutar la guitarra con un maestro que llega a tu hogar."
         },
         {
-          "i": "18:30",
+          "i": "14:00",
+          "f": "14:30",
+          "p": "NCC REVOLUCIONARIA Espacio informativo sobre cómo la inteligencia artificial transforma la ciencia, la tecnología y la s"
+        },
+        {
+          "i": "14:30",
+          "f": "15:00",
+          "p": "CLANDESTINO Serie documental sobre la guerrilla urbana que en los setentas combatió al régimen priísta en México."
+        },
+        {
+          "i": "15:00",
+          "f": "15:30",
+          "p": "FLAUTA EN MANO Guía paso a paso el aprendizaje básico del instrumento para estudiantes y público, con contenidos práctic"
+        },
+        {
+          "i": "15:30",
+          "f": "16:00",
+          "p": "DE LOS DIOSES, EL MAÍZ Un recorrido por la historia y cultura del maíz, alimento sagrado que ha forjado la identidad de "
+        },
+        {
+          "i": "16:00",
+          "f": "16:30",
+          "p": "TECLADO EN MANO Realiza algo nuevo, deja el miedo al éxito y con tu teclado en mano, haz magia desde tu hogar."
+        },
+        {
+          "i": "16:30",
+          "f": "17:00",
+          "p": "ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu"
+        },
+        {
+          "i": "17:00",
+          "f": "17:30",
+          "p": "PODCAST: VISIONES EDUCATIVAS Video podcast que enriquece la formación de estudiantes y docentes con entrevistas y activi"
+        },
+        {
+          "i": "17:30",
+          "f": "18:00",
+          "p": "GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de"
+        },
+        {
+          "i": "18:00",
           "f": "19:00",
-          "p": "ESPAÑOL PARA TODOS El español es rico en vocablos. Aprende a hablarlo y escribirlo bien con Andrea Obando."
+          "p": "PINCELADAS Serie documental sobre artistas hondureños: su proceso creativo y cómo el arte transforma su entorno e inspir"
         },
         {
           "i": "19:00",
           "f": "20:00",
-          "p": "EDUCA TV HONDURAS Relatos de éxito que contagian el deseo de superación en emprendedores hondureños."
+          "p": "EDUCADORES Foro educativo con expertos en docencia e invitados especiales sobre temas de interés nacional para docentes."
         },
         {
           "i": "20:00",
           "f": "20:30",
-          "p": "REP. LA CLAVE DEL ÉXITO Relatos de éxito que contagian el deseo de superación en emprendedores hondureños."
+          "p": "IBEROAMÉRICA EN ÓRBITA Noticiero semanal especializado en ciencia aeroespacial."
         },
         {
           "i": "20:30",
           "f": "21:00",
-          "p": "NCC CULTURA EN MOVIMIENTO Espacio noticioso que promueve el turismo cultural en Iberoamérica."
+          "p": "EXTRAÑOS TERRICOLAS Serie infantil donde dos hermanos del planeta odeón llegan a la tierra para aprender danza, ciencia "
         },
         {
           "i": "21:00",
+          "f": "21:30",
+          "p": "NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,"
+        },
+        {
+          "i": "21:30",
           "f": "22:00",
-          "p": "COLOMBIAR Serie documental que explora la diversidad cultural de colombia, destacando sus tradiciones, territorios y com"
+          "p": "ME VOY PAL NORTE Serie documental sobre migrantes que dejan sus comunidades en busca del sueño americano."
         },
         {
           "i": "22:00",
@@ -184,7 +174,7 @@
         {
           "i": "23:00",
           "f": "00:00",
-          "p": "DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi"
+          "p": "COLOMBIAR Serie documental que explora la diversidad cultural de colombia, destacando sus tradiciones, territorios y com"
         }
       ]
     },
@@ -195,8 +185,13 @@
       "rows": [
         {
           "i": "00:00",
+          "f": "00:30",
+          "p": "Radio House"
+        },
+        {
+          "i": "00:30",
           "f": "01:30",
-          "p": "Ida y Vuelta"
+          "p": "Partido en Repetición"
         },
         {
           "i": "01:30",
@@ -206,7 +201,7 @@
         {
           "i": "02:30",
           "f": "03:00",
-          "p": "Sueño de Primera"
+          "p": "DxT en 3 Letras"
         },
         {
           "i": "03:00",
@@ -220,23 +215,23 @@
         },
         {
           "i": "06:00",
-          "f": "07:30",
-          "p": "Fútbol a Fondo"
+          "f": "08:00",
+          "p": "Partido en Repetición"
         },
         {
-          "i": "07:30",
-          "f": "08:30",
-          "p": "Las Dueñas del Balón"
-        },
-        {
-          "i": "08:30",
+          "i": "08:00",
           "f": "09:00",
-          "p": "Sueño de Primera"
+          "p": "Compacto Futbolero en 60"
         },
         {
           "i": "09:00",
+          "f": "09:30",
+          "p": "Estrellas del Futuro"
+        },
+        {
+          "i": "09:30",
           "f": "10:00",
-          "p": "KickOff"
+          "p": "DxT en 3 Letras"
         },
         {
           "i": "10:00",
@@ -246,7 +241,7 @@
         {
           "i": "12:00",
           "f": "13:00",
-          "p": "KickOff"
+          "p": "Con Pineda Chacón"
         },
         {
           "i": "13:00",
@@ -255,43 +250,33 @@
         },
         {
           "i": "14:00",
-          "f": "16:00",
+          "f": "15:00",
           "p": "Partido en Repetición"
         },
         {
-          "i": "16:00",
-          "f": "16:30",
-          "p": "DxT en 3 Letras"
+          "i": "15:00",
+          "f": "17:15",
+          "p": "Lobos vs. Génesis / Jornada 12"
         },
         {
-          "i": "16:30",
-          "f": "18:00",
-          "p": "Radio House"
+          "i": "17:15",
+          "f": "19:15",
+          "p": "R. España vs. Juticalpa / Jornada 5"
         },
         {
-          "i": "18:00",
-          "f": "18:30",
-          "p": "Agenda Deportiva"
+          "i": "19:15",
+          "f": "21:30",
+          "p": "Choloma vs. Olimpia / Jornada 12"
         },
         {
-          "i": "18:30",
-          "f": "19:00",
-          "p": "La Previa"
+          "i": "21:30",
+          "f": "22:30",
+          "p": "Tiempo Extra"
         },
         {
-          "i": "19:00",
-          "f": "21:00",
-          "p": "Estrella Roja vs. Independiente / Jornada 12"
-        },
-        {
-          "i": "21:00",
-          "f": "22:00",
-          "p": "Compacto Futbolero en 60"
-        },
-        {
-          "i": "22:00",
+          "i": "22:30",
           "f": "00:00",
-          "p": "Radio House"
+          "p": "DxT en 3 Letras"
         }
       ]
     },
@@ -307,88 +292,63 @@
         },
         {
           "i": "00:30",
-          "f": "03:30",
+          "f": "03:15",
           "p": "Las Mañanas del 5"
         },
         {
-          "i": "03:30",
-          "f": "04:20",
+          "i": "03:15",
+          "f": "05:05",
           "p": "La Rosa de Guadalupe"
         },
         {
-          "i": "04:20",
-          "f": "05:40",
+          "i": "05:05",
+          "f": "06:30",
           "p": "Noticiero TN5 Estelar"
         },
         {
-          "i": "05:40",
-          "f": "07:00",
+          "i": "06:30",
+          "f": "09:00",
           "p": "Noticiero TN5 Matutino"
         },
         {
-          "i": "07:00",
-          "f": "09:00",
-          "p": "Frente a Frente"
-        },
-        {
           "i": "09:00",
-          "f": "11:00",
+          "f": "12:00",
           "p": "Las Mañanas del 5"
         },
         {
-          "i": "11:00",
-          "f": "12:00",
-          "p": "Los Doctores"
-        },
-        {
           "i": "12:00",
-          "f": "13:00",
-          "p": "La Rosa de Guadalupe"
-        },
-        {
-          "i": "13:00",
           "f": "14:00",
-          "p": "Como dice el dicho"
+          "p": "El Macaneo TV"
         },
         {
           "i": "14:00",
-          "f": "15:00",
-          "p": "Yo soy Betty, la fea"
-        },
-        {
-          "i": "15:00",
           "f": "17:00",
-          "p": "#ConTODO"
+          "p": "Avatar"
         },
         {
           "i": "17:00",
-          "f": "18:00",
-          "p": "El Hilo"
+          "f": "17:30",
+          "p": "Tal para cual"
         },
         {
-          "i": "18:00",
-          "f": "19:00",
-          "p": "La Rosa de Guadalupe"
+          "i": "17:30",
+          "f": "21:10",
+          "p": "Vecinos"
         },
         {
-          "i": "19:00",
-          "f": "20:00",
-          "p": "Amor Profundo"
+          "i": "21:10",
+          "f": "22:10",
+          "p": "El Cinco de Noche"
         },
         {
-          "i": "20:00",
-          "f": "21:00",
-          "p": "Guardián de mi vida"
+          "i": "22:10",
+          "f": "23:40",
+          "p": "Angélica"
         },
         {
-          "i": "21:00",
-          "f": "22:30",
-          "p": "Noticiero TN5 Estelar"
-        },
-        {
-          "i": "22:30",
+          "i": "23:40",
           "f": "00:00",
-          "p": "Frente a Frente"
+          "p": "El Macaneo TV"
         }
       ]
     },
@@ -404,88 +364,63 @@
         },
         {
           "i": "00:30",
-          "f": "03:30",
+          "f": "03:15",
           "p": "Las Mañanas del 5"
         },
         {
-          "i": "03:30",
-          "f": "04:20",
+          "i": "03:15",
+          "f": "05:05",
           "p": "La Rosa de Guadalupe"
         },
         {
-          "i": "04:20",
-          "f": "05:40",
+          "i": "05:05",
+          "f": "06:30",
           "p": "Noticiero TN5 Estelar"
         },
         {
-          "i": "05:40",
-          "f": "07:00",
+          "i": "06:30",
+          "f": "09:00",
           "p": "Noticiero TN5 Matutino"
         },
         {
-          "i": "07:00",
-          "f": "09:00",
-          "p": "Frente a Frente"
-        },
-        {
           "i": "09:00",
-          "f": "11:00",
+          "f": "12:00",
           "p": "Las Mañanas del 5"
         },
         {
-          "i": "11:00",
-          "f": "12:00",
-          "p": "Los Doctores"
-        },
-        {
           "i": "12:00",
-          "f": "13:00",
-          "p": "La Rosa de Guadalupe"
-        },
-        {
-          "i": "13:00",
           "f": "14:00",
-          "p": "Como dice el dicho"
+          "p": "El Macaneo TV"
         },
         {
           "i": "14:00",
-          "f": "15:00",
-          "p": "Yo soy Betty, la fea"
-        },
-        {
-          "i": "15:00",
           "f": "17:00",
-          "p": "#ConTODO"
+          "p": "Avatar"
         },
         {
           "i": "17:00",
-          "f": "18:00",
-          "p": "El Hilo"
+          "f": "17:30",
+          "p": "Tal para cual"
         },
         {
-          "i": "18:00",
-          "f": "19:00",
-          "p": "La Rosa de Guadalupe"
+          "i": "17:30",
+          "f": "21:10",
+          "p": "Vecinos"
         },
         {
-          "i": "19:00",
-          "f": "20:00",
-          "p": "Amor Profundo"
+          "i": "21:10",
+          "f": "22:10",
+          "p": "El Cinco de Noche"
         },
         {
-          "i": "20:00",
-          "f": "21:00",
-          "p": "Guardián de mi vida"
+          "i": "22:10",
+          "f": "23:40",
+          "p": "Angélica"
         },
         {
-          "i": "21:00",
-          "f": "22:30",
-          "p": "Noticiero TN5 Estelar"
-        },
-        {
-          "i": "22:30",
+          "i": "23:40",
           "f": "00:00",
-          "p": "Frente a Frente"
+          "p": "El Macaneo TV"
         }
       ]
     }
