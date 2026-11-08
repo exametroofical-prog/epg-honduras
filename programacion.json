@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-07",
+  "fecha": "2026-11-08",
   "canales": {
     "-P57t6dgMhyRS1utX7rg": {
       "nombre": "STVE",
@@ -13,53 +13,53 @@
         },
         {
           "i": "01:00",
+          "f": "01:30",
+          "p": "NI UNA MENOS, NI UNA SOLA Visibiliza la lucha contra la violencia de género en Iberoamérica, dando voz a mujeres, colect"
+        },
+        {
+          "i": "01:30",
           "f": "02:00",
-          "p": "TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana."
+          "p": "CLANDESTINO Serie documental sobre la guerrilla urbana que en los setentas combatió al régimen priísta en México."
         },
         {
           "i": "02:00",
-          "f": "02:30",
-          "p": "OLOR REGIÓN Visibiliza la riqueza cultural, social y productiva de las distintas regiones del país."
-        },
-        {
-          "i": "02:30",
           "f": "03:00",
-          "p": "MI PROPIO JEFE Historias de éxito de quienes, inconformes con su entorno laboral, se atrevieron a llevar sus sueños e id"
+          "p": "SONORO Explora el universo sonoro con mirada formativa, acercando la música a la sociedad y descubriendo nuevos talentos"
         },
         {
           "i": "03:00",
+          "f": "03:30",
+          "p": "EDUCACIÓN Y DESARROLLO Foro televisivo de la UNAD que aborda temas sociales, políticos y económicos del ámbito educativo"
+        },
+        {
+          "i": "03:30",
           "f": "04:00",
-          "p": "VIVA MEJOR Entrevistas a especialistas y tips de salud."
+          "p": "DESCUBRIENDO IDEAS Serie de divulgación científica que presenta proyectos innovadores de científicos mexicanos y su impa"
         },
         {
           "i": "04:00",
-          "f": "04:30",
-          "p": "CREADORAS Serie documental que retrata a ocho mujeres con discapacidad, destacando sus saberes, oficios y capacidades."
-        },
-        {
-          "i": "04:30",
           "f": "05:00",
-          "p": "GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de"
+          "p": "CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana."
         },
         {
           "i": "05:00",
-          "f": "05:30",
-          "p": "CHICOS OPINAN Programa juvenil de que visita colegios para recopilar opiniones, críticas y sugerencias de escolares sobr"
+          "f": "06:00",
+          "p": "TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana."
         },
         {
-          "i": "05:30",
+          "i": "06:00",
           "f": "06:30",
-          "p": "ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu"
+          "p": "A QUE JUGAMOS Conoce el mundo de los juegos de mesa, su valor cultural y social, y cómo fomentan el aprendizaje, la crea"
         },
         {
           "i": "06:30",
           "f": "07:30",
-          "p": "LA CHUNCHETERíA Fomentar valores, curiosidad y autoaprendizaje mediante manualidades y cuentos."
+          "p": "EUCARISTÍA EN VIVO Acompaña este momento de oración, reflexión y encuentro espiritual desde donde estés."
         },
         {
           "i": "07:30",
           "f": "08:00",
-          "p": "MANZANA CIENTÍFICA Espacio educativo que despierta la curiosidad y acerca la ciencia a los estudiantes de forma dinámica"
+          "p": "ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu"
         },
         {
           "i": "08:00",
@@ -69,107 +69,77 @@
         {
           "i": "09:00",
           "f": "10:00",
-          "p": "ESCUELA PARA MADRES Y PADRES Espacio de reflexión sobre el papel de padres y madres en la formación de jóvenes, su probl"
+          "p": "SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS Programa infantil que estimula la curiosidad y creatividad de los niños mediante ex"
         },
         {
           "i": "10:00",
           "f": "11:00",
-          "p": "REP. EDUCA TV HONDURAS Único noticiero educativo de honduras que brinda noticias académicas, culturales, históricas, dep"
+          "p": "TIEMPO PARA APRENDER: COMUNICACIÓN 1ER. GRADO Descubre cómo se desarrolla la comunicación en primer grado y su importanc"
         },
         {
           "i": "11:00",
           "f": "11:30",
-          "p": "EXPRESSARTE Conjunto de ejercicios que podrás seguir desde casa o desde la escuela, sin necesidad de materiales costosos"
+          "p": "REP. AL RITMO DEL XIQUE Aprende paso a paso a bailar danzas folklóricas al ritmo del xique, cimentando la cultura y el r"
         },
         {
           "i": "11:30",
           "f": "13:00",
-          "p": "NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,"
+          "p": "NCC REPORTE CLIMÁTICO Aborda el calentamiento global y el cambio climático desde un enfoque de periodismo de soluciones "
         },
         {
           "i": "13:00",
-          "f": "13:30",
-          "p": "CHICOS OPINAN Programa juvenil de que visita colegios para recopilar opiniones, críticas y sugerencias de escolares sobr"
-        },
-        {
-          "i": "13:30",
           "f": "14:00",
-          "p": "GUITARRA EN MANO Aprende a ejecutar la guitarra con un maestro que llega a tu hogar."
+          "p": "DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi"
         },
         {
           "i": "14:00",
-          "f": "14:30",
-          "p": "NCC REVOLUCIONARIA Espacio informativo sobre cómo la inteligencia artificial transforma la ciencia, la tecnología y la s"
-        },
-        {
-          "i": "14:30",
-          "f": "15:00",
-          "p": "CLANDESTINO Serie documental sobre la guerrilla urbana que en los setentas combatió al régimen priísta en México."
-        },
-        {
-          "i": "15:00",
-          "f": "15:30",
-          "p": "FLAUTA EN MANO Guía paso a paso el aprendizaje básico del instrumento para estudiantes y público, con contenidos práctic"
-        },
-        {
-          "i": "15:30",
           "f": "16:00",
-          "p": "DE LOS DIOSES, EL MAÍZ Un recorrido por la historia y cultura del maíz, alimento sagrado que ha forjado la identidad de "
+          "p": "TARDES DE CONCIERTO Promueve el talento artístico nacional y fortalece la identidad y el orgullo hondureño a través de c"
         },
         {
           "i": "16:00",
-          "f": "16:30",
-          "p": "TECLADO EN MANO Realiza algo nuevo, deja el miedo al éxito y con tu teclado en mano, haz magia desde tu hogar."
-        },
-        {
-          "i": "16:30",
           "f": "17:00",
-          "p": "ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu"
+          "p": "REP. ¿QUÉ PASÓ ENTONCES? Arnulfo Ramírez de la costa presenta hechos de honduras y el mundo, con obras e investigaciones"
         },
         {
           "i": "17:00",
-          "f": "17:30",
-          "p": "PODCAST: VISIONES EDUCATIVAS Video podcast que enriquece la formación de estudiantes y docentes con entrevistas y activi"
-        },
-        {
-          "i": "17:30",
           "f": "18:00",
-          "p": "GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de"
+          "p": "CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana."
         },
         {
           "i": "18:00",
+          "f": "18:30",
+          "p": "LA CLAVE DEL ÉXITO Relatos de éxito que contagian el deseo de superación en emprendedores hondureños."
+        },
+        {
+          "i": "18:30",
           "f": "19:00",
-          "p": "PINCELADAS Serie documental sobre artistas hondureños: su proceso creativo y cómo el arte transforma su entorno e inspir"
+          "p": "ME VOY PAL NORTE Serie documental sobre migrantes que dejan sus comunidades en busca del sueño americano."
         },
         {
           "i": "19:00",
           "f": "20:00",
-          "p": "EDUCADORES Foro educativo con expertos en docencia e invitados especiales sobre temas de interés nacional para docentes."
+          "p": "HUELLAS HISTÓRICAS DE HONDURAS Documental que recorre lugares emblemáticos de honduras para descubrir los hechos que mol"
         },
         {
           "i": "20:00",
-          "f": "20:30",
-          "p": "IBEROAMÉRICA EN ÓRBITA Noticiero semanal especializado en ciencia aeroespacial."
-        },
-        {
-          "i": "20:30",
           "f": "21:00",
-          "p": "EXTRAÑOS TERRICOLAS Serie infantil donde dos hermanos del planeta odeón llegan a la tierra para aprender danza, ciencia "
+          "p": "PANORAMA JUDICIAL Programa del Poder Judicial de Honduras."
         },
         {
           "i": "21:00",
           "f": "21:30",
-          "p": "NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,"
+          "p": "NCC SALUD Emisión semanal del NCC especializada en ciencias médicas y tecnologías de la salud. Ofrece información verifi"
         },
         {
           "i": "21:30",
           "f": "22:00",
-          "p": "ME VOY PAL NORTE Serie documental sobre migrantes que dejan sus comunidades en busca del sueño americano."
+          "p": "DESDE EL CIELO Descubre cómo la actividad humana transforma los ecosistemas y conoce el impacto de nuestras acciones en "
         },
         {
           "i": "22:00",
           "f": "23:00",
-          "p": "VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad."
+          "p": "TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana."
         },
         {
           "i": "23:00",
@@ -185,28 +155,18 @@
       "rows": [
         {
           "i": "00:00",
-          "f": "00:30",
-          "p": "Radio House"
-        },
-        {
-          "i": "00:30",
-          "f": "01:30",
+          "f": "04:00",
           "p": "Partido en Repetición"
         },
         {
-          "i": "01:30",
-          "f": "02:30",
-          "p": "Compacto Futbolero en 60"
+          "i": "04:00",
+          "f": "04:30",
+          "p": "Sueño de Primera"
         },
         {
-          "i": "02:30",
-          "f": "03:00",
-          "p": "DxT en 3 Letras"
-        },
-        {
-          "i": "03:00",
+          "i": "04:30",
           "f": "05:00",
-          "p": "Partido en Repetición"
+          "p": "DxT en 3 Letras"
         },
         {
           "i": "05:00",
@@ -226,12 +186,12 @@
         {
           "i": "09:00",
           "f": "09:30",
-          "p": "Estrellas del Futuro"
+          "p": "Sueño de Primera"
         },
         {
           "i": "09:30",
           "f": "10:00",
-          "p": "DxT en 3 Letras"
+          "p": "Agenda Deportiva"
         },
         {
           "i": "10:00",
@@ -245,38 +205,38 @@
         },
         {
           "i": "13:00",
-          "f": "14:00",
-          "p": "Deportes TVC Noticias"
-        },
-        {
-          "i": "14:00",
           "f": "15:00",
           "p": "Partido en Repetición"
         },
         {
           "i": "15:00",
           "f": "17:15",
-          "p": "Lobos vs. Génesis / Jornada 12"
+          "p": "Olancho vs. Platense / Jornada 12"
         },
         {
           "i": "17:15",
-          "f": "19:15",
-          "p": "R. España vs. Juticalpa / Jornada 5"
+          "f": "19:30",
+          "p": "Motagua vs. Marathón / Jornada 5"
         },
         {
-          "i": "19:15",
+          "i": "19:30",
+          "f": "20:30",
+          "p": "La Noche del Gol"
+        },
+        {
+          "i": "20:30",
           "f": "21:30",
-          "p": "Choloma vs. Olimpia / Jornada 12"
+          "p": "Compacto Futbolero en 60"
         },
         {
           "i": "21:30",
-          "f": "22:30",
-          "p": "Tiempo Extra"
+          "f": "22:00",
+          "p": "Sueño de Primera"
         },
         {
-          "i": "22:30",
+          "i": "22:00",
           "f": "00:00",
-          "p": "DxT en 3 Letras"
+          "p": "Partido en Repetición"
         }
       ]
     },
@@ -287,66 +247,56 @@
       "rows": [
         {
           "i": "00:00",
-          "f": "00:30",
-          "p": "Frente a Frente"
-        },
-        {
-          "i": "00:30",
-          "f": "03:15",
-          "p": "Las Mañanas del 5"
-        },
-        {
-          "i": "03:15",
-          "f": "05:05",
-          "p": "La Rosa de Guadalupe"
-        },
-        {
-          "i": "05:05",
-          "f": "06:30",
-          "p": "Noticiero TN5 Estelar"
-        },
-        {
-          "i": "06:30",
-          "f": "09:00",
-          "p": "Noticiero TN5 Matutino"
-        },
-        {
-          "i": "09:00",
-          "f": "12:00",
-          "p": "Las Mañanas del 5"
-        },
-        {
-          "i": "12:00",
-          "f": "14:00",
+          "f": "02:30",
           "p": "El Macaneo TV"
         },
         {
-          "i": "14:00",
-          "f": "17:00",
-          "p": "Avatar"
+          "i": "02:30",
+          "f": "03:20",
+          "p": "Como dice el dicho"
         },
         {
-          "i": "17:00",
-          "f": "17:30",
-          "p": "Tal para cual"
+          "i": "03:20",
+          "f": "08:00",
+          "p": "Las Mañanas del 5"
         },
         {
-          "i": "17:30",
-          "f": "21:10",
-          "p": "Vecinos"
+          "i": "08:00",
+          "f": "12:00",
+          "p": "5 Deportivo"
         },
         {
-          "i": "21:10",
-          "f": "22:10",
+          "i": "12:00",
+          "f": "18:00",
+          "p": "X0 Da Dinero"
+        },
+        {
+          "i": "18:00",
+          "f": "19:00",
+          "p": "Noticiero TN5 Dominical"
+        },
+        {
+          "i": "19:00",
+          "f": "20:00",
           "p": "El Cinco de Noche"
         },
         {
-          "i": "22:10",
-          "f": "23:40",
-          "p": "Angélica"
+          "i": "20:00",
+          "f": "21:30",
+          "p": "Summer Camp"
         },
         {
-          "i": "23:40",
+          "i": "21:30",
+          "f": "22:30",
+          "p": "Noticiero TN5 Dominical"
+        },
+        {
+          "i": "22:30",
+          "f": "23:30",
+          "p": "Como dice el dicho"
+        },
+        {
+          "i": "23:30",
           "f": "00:00",
           "p": "El Macaneo TV"
         }
@@ -359,66 +309,56 @@
       "rows": [
         {
           "i": "00:00",
-          "f": "00:30",
-          "p": "Frente a Frente"
-        },
-        {
-          "i": "00:30",
-          "f": "03:15",
-          "p": "Las Mañanas del 5"
-        },
-        {
-          "i": "03:15",
-          "f": "05:05",
-          "p": "La Rosa de Guadalupe"
-        },
-        {
-          "i": "05:05",
-          "f": "06:30",
-          "p": "Noticiero TN5 Estelar"
-        },
-        {
-          "i": "06:30",
-          "f": "09:00",
-          "p": "Noticiero TN5 Matutino"
-        },
-        {
-          "i": "09:00",
-          "f": "12:00",
-          "p": "Las Mañanas del 5"
-        },
-        {
-          "i": "12:00",
-          "f": "14:00",
+          "f": "02:30",
           "p": "El Macaneo TV"
         },
         {
-          "i": "14:00",
-          "f": "17:00",
-          "p": "Avatar"
+          "i": "02:30",
+          "f": "03:20",
+          "p": "Como dice el dicho"
         },
         {
-          "i": "17:00",
-          "f": "17:30",
-          "p": "Tal para cual"
+          "i": "03:20",
+          "f": "08:00",
+          "p": "Las Mañanas del 5"
         },
         {
-          "i": "17:30",
-          "f": "21:10",
-          "p": "Vecinos"
+          "i": "08:00",
+          "f": "12:00",
+          "p": "5 Deportivo"
         },
         {
-          "i": "21:10",
-          "f": "22:10",
+          "i": "12:00",
+          "f": "18:00",
+          "p": "X0 Da Dinero"
+        },
+        {
+          "i": "18:00",
+          "f": "19:00",
+          "p": "Noticiero TN5 Dominical"
+        },
+        {
+          "i": "19:00",
+          "f": "20:00",
           "p": "El Cinco de Noche"
         },
         {
-          "i": "22:10",
-          "f": "23:40",
-          "p": "Angélica"
+          "i": "20:00",
+          "f": "21:30",
+          "p": "Summer Camp"
         },
         {
-          "i": "23:40",
+          "i": "21:30",
+          "f": "22:30",
+          "p": "Noticiero TN5 Dominical"
+        },
+        {
+          "i": "22:30",
+          "f": "23:30",
+          "p": "Como dice el dicho"
+        },
+        {
+          "i": "23:30",
           "f": "00:00",
           "p": "El Macaneo TV"
         }

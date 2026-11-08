@@ -1,88 +1,76 @@
-Programación del 2026-11-07 (hora de Honduras)
+Programación del 2026-11-08 (hora de Honduras)
 
 STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
   00:00 - 01:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
-  01:00 - 02:00  TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana.
-  02:00 - 02:30  OLOR REGIÓN Visibiliza la riqueza cultural, social y productiva de las distintas regiones del país.
-  02:30 - 03:00  MI PROPIO JEFE Historias de éxito de quienes, inconformes con su entorno laboral, se atrevieron a llevar sus sueños e id
-  03:00 - 04:00  VIVA MEJOR Entrevistas a especialistas y tips de salud.
-  04:00 - 04:30  CREADORAS Serie documental que retrata a ocho mujeres con discapacidad, destacando sus saberes, oficios y capacidades.
-  04:30 - 05:00  GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de
-  05:00 - 05:30  CHICOS OPINAN Programa juvenil de que visita colegios para recopilar opiniones, críticas y sugerencias de escolares sobr
-  05:30 - 06:30  ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu
-  06:30 - 07:30  LA CHUNCHETERíA Fomentar valores, curiosidad y autoaprendizaje mediante manualidades y cuentos.
-  07:30 - 08:00  MANZANA CIENTÍFICA Espacio educativo que despierta la curiosidad y acerca la ciencia a los estudiantes de forma dinámica
+  01:00 - 01:30  NI UNA MENOS, NI UNA SOLA Visibiliza la lucha contra la violencia de género en Iberoamérica, dando voz a mujeres, colect
+  01:30 - 02:00  CLANDESTINO Serie documental sobre la guerrilla urbana que en los setentas combatió al régimen priísta en México.
+  02:00 - 03:00  SONORO Explora el universo sonoro con mirada formativa, acercando la música a la sociedad y descubriendo nuevos talentos
+  03:00 - 03:30  EDUCACIÓN Y DESARROLLO Foro televisivo de la UNAD que aborda temas sociales, políticos y económicos del ámbito educativo
+  03:30 - 04:00  DESCUBRIENDO IDEAS Serie de divulgación científica que presenta proyectos innovadores de científicos mexicanos y su impa
+  04:00 - 05:00  CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana.
+  05:00 - 06:00  TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana.
+  06:00 - 06:30  A QUE JUGAMOS Conoce el mundo de los juegos de mesa, su valor cultural y social, y cómo fomentan el aprendizaje, la crea
+  06:30 - 07:30  EUCARISTÍA EN VIVO Acompaña este momento de oración, reflexión y encuentro espiritual desde donde estés.
+  07:30 - 08:00  ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu
   08:00 - 09:00  PLAZA SESAMO Serie infantil educativa que enseña a los niños a contar, leer, conocer colores y valores como la amistad, 
-  09:00 - 10:00  ESCUELA PARA MADRES Y PADRES Espacio de reflexión sobre el papel de padres y madres en la formación de jóvenes, su probl
-  10:00 - 11:00  REP. EDUCA TV HONDURAS Único noticiero educativo de honduras que brinda noticias académicas, culturales, históricas, dep
-  11:00 - 11:30  EXPRESSARTE Conjunto de ejercicios que podrás seguir desde casa o desde la escuela, sin necesidad de materiales costosos
-  11:30 - 13:00  NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,
-  13:00 - 13:30  CHICOS OPINAN Programa juvenil de que visita colegios para recopilar opiniones, críticas y sugerencias de escolares sobr
-  13:30 - 14:00  GUITARRA EN MANO Aprende a ejecutar la guitarra con un maestro que llega a tu hogar.
-  14:00 - 14:30  NCC REVOLUCIONARIA Espacio informativo sobre cómo la inteligencia artificial transforma la ciencia, la tecnología y la s
-  14:30 - 15:00  CLANDESTINO Serie documental sobre la guerrilla urbana que en los setentas combatió al régimen priísta en México.
-  15:00 - 15:30  FLAUTA EN MANO Guía paso a paso el aprendizaje básico del instrumento para estudiantes y público, con contenidos práctic
-  15:30 - 16:00  DE LOS DIOSES, EL MAÍZ Un recorrido por la historia y cultura del maíz, alimento sagrado que ha forjado la identidad de 
-  16:00 - 16:30  TECLADO EN MANO Realiza algo nuevo, deja el miedo al éxito y con tu teclado en mano, haz magia desde tu hogar.
-  16:30 - 17:00  ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu
-  17:00 - 17:30  PODCAST: VISIONES EDUCATIVAS Video podcast que enriquece la formación de estudiantes y docentes con entrevistas y activi
-  17:30 - 18:00  GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de
-  18:00 - 19:00  PINCELADAS Serie documental sobre artistas hondureños: su proceso creativo y cómo el arte transforma su entorno e inspir
-  19:00 - 20:00  EDUCADORES Foro educativo con expertos en docencia e invitados especiales sobre temas de interés nacional para docentes.
-  20:00 - 20:30  IBEROAMÉRICA EN ÓRBITA Noticiero semanal especializado en ciencia aeroespacial.
-  20:30 - 21:00  EXTRAÑOS TERRICOLAS Serie infantil donde dos hermanos del planeta odeón llegan a la tierra para aprender danza, ciencia 
-  21:00 - 21:30  NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,
-  21:30 - 22:00  ME VOY PAL NORTE Serie documental sobre migrantes que dejan sus comunidades en busca del sueño americano.
-  22:00 - 23:00  VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad.
+  09:00 - 10:00  SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS Programa infantil que estimula la curiosidad y creatividad de los niños mediante ex
+  10:00 - 11:00  TIEMPO PARA APRENDER: COMUNICACIÓN 1ER. GRADO Descubre cómo se desarrolla la comunicación en primer grado y su importanc
+  11:00 - 11:30  REP. AL RITMO DEL XIQUE Aprende paso a paso a bailar danzas folklóricas al ritmo del xique, cimentando la cultura y el r
+  11:30 - 13:00  NCC REPORTE CLIMÁTICO Aborda el calentamiento global y el cambio climático desde un enfoque de periodismo de soluciones 
+  13:00 - 14:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
+  14:00 - 16:00  TARDES DE CONCIERTO Promueve el talento artístico nacional y fortalece la identidad y el orgullo hondureño a través de c
+  16:00 - 17:00  REP. ¿QUÉ PASÓ ENTONCES? Arnulfo Ramírez de la costa presenta hechos de honduras y el mundo, con obras e investigaciones
+  17:00 - 18:00  CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana.
+  18:00 - 18:30  LA CLAVE DEL ÉXITO Relatos de éxito que contagian el deseo de superación en emprendedores hondureños.
+  18:30 - 19:00  ME VOY PAL NORTE Serie documental sobre migrantes que dejan sus comunidades en busca del sueño americano.
+  19:00 - 20:00  HUELLAS HISTÓRICAS DE HONDURAS Documental que recorre lugares emblemáticos de honduras para descubrir los hechos que mol
+  20:00 - 21:00  PANORAMA JUDICIAL Programa del Poder Judicial de Honduras.
+  21:00 - 21:30  NCC SALUD Emisión semanal del NCC especializada en ciencias médicas y tecnologías de la salud. Ofrece información verifi
+  21:30 - 22:00  DESDE EL CIELO Descubre cómo la actividad humana transforma los ecosistemas y conoce el impacto de nuestras acciones en 
+  22:00 - 23:00  TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana.
   23:00 - 00:00  COLOMBIAR Serie documental que explora la diversidad cultural de colombia, destacando sus tradiciones, territorios y com
 
 Deportes TVC HON  [-P3YxJH0O5lSHk9XHDMz]  fuente: web
-  00:00 - 00:30  Radio House
-  00:30 - 01:30  Partido en Repetición
-  01:30 - 02:30  Compacto Futbolero en 60
-  02:30 - 03:00  DxT en 3 Letras
-  03:00 - 05:00  Partido en Repetición
+  00:00 - 04:00  Partido en Repetición
+  04:00 - 04:30  Sueño de Primera
+  04:30 - 05:00  DxT en 3 Letras
   05:00 - 06:00  Compacto Futbolero en 60
   06:00 - 08:00  Partido en Repetición
   08:00 - 09:00  Compacto Futbolero en 60
-  09:00 - 09:30  Estrellas del Futuro
-  09:30 - 10:00  DxT en 3 Letras
+  09:00 - 09:30  Sueño de Primera
+  09:30 - 10:00  Agenda Deportiva
   10:00 - 12:00  Partido en Repetición
   12:00 - 13:00  Con Pineda Chacón
-  13:00 - 14:00  Deportes TVC Noticias
-  14:00 - 15:00  Partido en Repetición
-  15:00 - 17:15  Lobos vs. Génesis / Jornada 12
-  17:15 - 19:15  R. España vs. Juticalpa / Jornada 5
-  19:15 - 21:30  Choloma vs. Olimpia / Jornada 12
-  21:30 - 22:30  Tiempo Extra
-  22:30 - 00:00  DxT en 3 Letras
+  13:00 - 15:00  Partido en Repetición
+  15:00 - 17:15  Olancho vs. Platense / Jornada 12
+  17:15 - 19:30  Motagua vs. Marathón / Jornada 5
+  19:30 - 20:30  La Noche del Gol
+  20:30 - 21:30  Compacto Futbolero en 60
+  21:30 - 22:00  Sueño de Primera
+  22:00 - 00:00  Partido en Repetición
 
 Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
-  00:00 - 00:30  Frente a Frente
-  00:30 - 03:15  Las Mañanas del 5
-  03:15 - 05:05  La Rosa de Guadalupe
-  05:05 - 06:30  Noticiero TN5 Estelar
-  06:30 - 09:00  Noticiero TN5 Matutino
-  09:00 - 12:00  Las Mañanas del 5
-  12:00 - 14:00  El Macaneo TV
-  14:00 - 17:00  Avatar
-  17:00 - 17:30  Tal para cual
-  17:30 - 21:10  Vecinos
-  21:10 - 22:10  El Cinco de Noche
-  22:10 - 23:40  Angélica
-  23:40 - 00:00  El Macaneo TV
+  00:00 - 02:30  El Macaneo TV
+  02:30 - 03:20  Como dice el dicho
+  03:20 - 08:00  Las Mañanas del 5
+  08:00 - 12:00  5 Deportivo
+  12:00 - 18:00  X0 Da Dinero
+  18:00 - 19:00  Noticiero TN5 Dominical
+  19:00 - 20:00  El Cinco de Noche
+  20:00 - 21:30  Summer Camp
+  21:30 - 22:30  Noticiero TN5 Dominical
+  22:30 - 23:30  Como dice el dicho
+  23:30 - 00:00  El Macaneo TV
 
 Canal 5 HON   [-P2kf9CH99dNh6b94yCp]  fuente: gatotv
-  00:00 - 00:30  Frente a Frente
-  00:30 - 03:15  Las Mañanas del 5
-  03:15 - 05:05  La Rosa de Guadalupe
-  05:05 - 06:30  Noticiero TN5 Estelar
-  06:30 - 09:00  Noticiero TN5 Matutino
-  09:00 - 12:00  Las Mañanas del 5
-  12:00 - 14:00  El Macaneo TV
-  14:00 - 17:00  Avatar
-  17:00 - 17:30  Tal para cual
-  17:30 - 21:10  Vecinos
-  21:10 - 22:10  El Cinco de Noche
-  22:10 - 23:40  Angélica
-  23:40 - 00:00  El Macaneo TV
+  00:00 - 02:30  El Macaneo TV
+  02:30 - 03:20  Como dice el dicho
+  03:20 - 08:00  Las Mañanas del 5
+  08:00 - 12:00  5 Deportivo
+  12:00 - 18:00  X0 Da Dinero
+  18:00 - 19:00  Noticiero TN5 Dominical
+  19:00 - 20:00  El Cinco de Noche
+  20:00 - 21:30  Summer Camp
+  21:30 - 22:30  Noticiero TN5 Dominical
+  22:30 - 23:30  Como dice el dicho
+  23:30 - 00:00  El Macaneo TV
