@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-08",
+  "fecha": "2026-11-09",
   "canales": {
     "-P57t6dgMhyRS1utX7rg": {
       "nombre": "STVE",
@@ -8,143 +8,173 @@
       "rows": [
         {
           "i": "00:00",
-          "f": "01:00",
-          "p": "DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi"
-        },
-        {
-          "i": "01:00",
-          "f": "01:30",
-          "p": "NI UNA MENOS, NI UNA SOLA Visibiliza la lucha contra la violencia de género en Iberoamérica, dando voz a mujeres, colect"
-        },
-        {
-          "i": "01:30",
           "f": "02:00",
-          "p": "CLANDESTINO Serie documental sobre la guerrilla urbana que en los setentas combatió al régimen priísta en México."
+          "p": "LA PELICULA DE FRANCISCO MORAZÁN La película retrata la vida de Francisco Morazán, su lucha por la unión centroamericana"
         },
         {
           "i": "02:00",
+          "f": "02:30",
+          "p": "MANZANA CIENTÍFICA Espacio educativo que despierta la curiosidad y acerca la ciencia a los estudiantes de forma dinámica"
+        },
+        {
+          "i": "02:30",
           "f": "03:00",
-          "p": "SONORO Explora el universo sonoro con mirada formativa, acercando la música a la sociedad y descubriendo nuevos talentos"
+          "p": "GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de"
         },
         {
           "i": "03:00",
-          "f": "03:30",
-          "p": "EDUCACIÓN Y DESARROLLO Foro televisivo de la UNAD que aborda temas sociales, políticos y económicos del ámbito educativo"
-        },
-        {
-          "i": "03:30",
           "f": "04:00",
-          "p": "DESCUBRIENDO IDEAS Serie de divulgación científica que presenta proyectos innovadores de científicos mexicanos y su impa"
+          "p": "VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad."
         },
         {
           "i": "04:00",
+          "f": "04:30",
+          "p": "LA LLEVA Muestra las vivencias de niños y jóvenes de distintas comunidades, promoviendo la empatía, el intercambio cultu"
+        },
+        {
+          "i": "04:30",
           "f": "05:00",
-          "p": "CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana."
+          "p": "NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,"
         },
         {
           "i": "05:00",
           "f": "06:00",
-          "p": "TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana."
-        },
-        {
-          "i": "06:00",
-          "f": "06:30",
-          "p": "A QUE JUGAMOS Conoce el mundo de los juegos de mesa, su valor cultural y social, y cómo fomentan el aprendizaje, la crea"
-        },
-        {
-          "i": "06:30",
-          "f": "07:30",
-          "p": "EUCARISTÍA EN VIVO Acompaña este momento de oración, reflexión y encuentro espiritual desde donde estés."
-        },
-        {
-          "i": "07:30",
-          "f": "08:00",
-          "p": "ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu"
-        },
-        {
-          "i": "08:00",
-          "f": "09:00",
-          "p": "PLAZA SESAMO Serie infantil educativa que enseña a los niños a contar, leer, conocer colores y valores como la amistad, "
-        },
-        {
-          "i": "09:00",
-          "f": "10:00",
-          "p": "SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS Programa infantil que estimula la curiosidad y creatividad de los niños mediante ex"
-        },
-        {
-          "i": "10:00",
-          "f": "11:00",
-          "p": "TIEMPO PARA APRENDER: COMUNICACIÓN 1ER. GRADO Descubre cómo se desarrolla la comunicación en primer grado y su importanc"
-        },
-        {
-          "i": "11:00",
-          "f": "11:30",
-          "p": "REP. AL RITMO DEL XIQUE Aprende paso a paso a bailar danzas folklóricas al ritmo del xique, cimentando la cultura y el r"
-        },
-        {
-          "i": "11:30",
-          "f": "13:00",
-          "p": "NCC REPORTE CLIMÁTICO Aborda el calentamiento global y el cambio climático desde un enfoque de periodismo de soluciones "
-        },
-        {
-          "i": "13:00",
-          "f": "14:00",
           "p": "DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi"
         },
         {
-          "i": "14:00",
-          "f": "16:00",
-          "p": "TARDES DE CONCIERTO Promueve el talento artístico nacional y fortalece la identidad y el orgullo hondureño a través de c"
+          "i": "06:00",
+          "f": "07:00",
+          "p": "SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS Programa infantil que estimula la curiosidad y creatividad de los niños mediante ex"
         },
         {
-          "i": "16:00",
+          "i": "07:00",
+          "f": "07:35",
+          "p": "MATEMÁTICAS 7.°, 8.°, 9.° Lecciones educativas de matemáticas para séptimo, octavo y noveno grado que refuerzan conocimi"
+        },
+        {
+          "i": "07:35",
+          "f": "08:10",
+          "p": "INGLÉS 7.°, 8.°, 9.° Lecciones educativas de inglés para séptimo, octavo y noveno grado que fortalecen el aprendizaje de"
+        },
+        {
+          "i": "08:10",
+          "f": "08:45",
+          "p": "ESPAÑOL 7.°, 8.°, 9.° Lecciones educativas de español para séptimo, octavo y noveno grado que fortalecen la lectura, esc"
+        },
+        {
+          "i": "08:45",
+          "f": "09:15",
+          "p": "TECNOLOGÍA 7.°, 8.°, 9.° Lecciones educativas de tecnología para séptimo, octavo y noveno grado que desarrollan habilida"
+        },
+        {
+          "i": "09:15",
+          "f": "09:30",
+          "p": "RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás"
+        },
+        {
+          "i": "09:30",
+          "f": "10:05",
+          "p": "CCNN 7.°, 8.°, 9.° Lecciones educativas de ciencias naturales para séptimo, octavo y noveno grado que promueven el conoc"
+        },
+        {
+          "i": "10:05",
+          "f": "10:40",
+          "p": "EEAA 7.°, 8.°, 9.° Lecciones educativas de educación artística para séptimo, octavo y noveno grado que fomentan la creat"
+        },
+        {
+          "i": "10:40",
+          "f": "11:15",
+          "p": "CCSS 7.°, 8.°, 9.° Lecciones educativas de ciencias sociales para séptimo, octavo y noveno grado que fortalecen el conoc"
+        },
+        {
+          "i": "11:15",
+          "f": "11:50",
+          "p": "EEFF 7.°, 8.°, 9.° Lecciones educativas de educación física para séptimo, octavo y noveno grado que promueven la activid"
+        },
+        {
+          "i": "11:50",
+          "f": "13:10",
+          "p": "RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás"
+        },
+        {
+          "i": "13:10",
+          "f": "13:45",
+          "p": "ESPAÑOL 7.°, 8.°, 9.° Lecciones educativas de español para séptimo, octavo y noveno grado que fortalecen la lectura, esc"
+        },
+        {
+          "i": "13:45",
+          "f": "14:15",
+          "p": "TECNOLOGÍA 7.°, 8.°, 9.° Lecciones educativas de tecnología para séptimo, octavo y noveno grado que desarrollan habilida"
+        },
+        {
+          "i": "14:15",
+          "f": "14:30",
+          "p": "RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás"
+        },
+        {
+          "i": "14:30",
+          "f": "15:05",
+          "p": "CCNN 7.°, 8.°, 9.° Lecciones educativas de ciencias naturales para séptimo, octavo y noveno grado que promueven el conoc"
+        },
+        {
+          "i": "15:05",
+          "f": "15:40",
+          "p": "EEAA 7.°, 8.°, 9.° Lecciones educativas de educación artística para séptimo, octavo y noveno grado que fomentan la creat"
+        },
+        {
+          "i": "15:40",
+          "f": "16:15",
+          "p": "CCSS 7.°, 8.°, 9.° Lecciones educativas de ciencias sociales para séptimo, octavo y noveno grado que fortalecen el conoc"
+        },
+        {
+          "i": "16:15",
+          "f": "16:50",
+          "p": "EEFF 7.°, 8.°, 9.° Lecciones educativas de educación física para séptimo, octavo y noveno grado que promueven la activid"
+        },
+        {
+          "i": "16:50",
           "f": "17:00",
-          "p": "REP. ¿QUÉ PASÓ ENTONCES? Arnulfo Ramírez de la costa presenta hechos de honduras y el mundo, con obras e investigaciones"
+          "p": "RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás"
         },
         {
           "i": "17:00",
           "f": "18:00",
-          "p": "CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana."
+          "p": "DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi"
         },
         {
           "i": "18:00",
           "f": "18:30",
-          "p": "LA CLAVE DEL ÉXITO Relatos de éxito que contagian el deseo de superación en emprendedores hondureños."
+          "p": "AL RITMO DEL XIQUE Aprende paso a paso a bailar danzas folklóricas al ritmo del xique, cimentando la cultura y el respet"
         },
         {
           "i": "18:30",
           "f": "19:00",
-          "p": "ME VOY PAL NORTE Serie documental sobre migrantes que dejan sus comunidades en busca del sueño americano."
+          "p": "NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,"
         },
         {
           "i": "19:00",
           "f": "20:00",
-          "p": "HUELLAS HISTÓRICAS DE HONDURAS Documental que recorre lugares emblemáticos de honduras para descubrir los hechos que mol"
+          "p": "SIGNOS VITALES Espacio dedicado a la salud y el bienestar, con información y consejos para fomentar hábitos saludables y"
         },
         {
           "i": "20:00",
           "f": "21:00",
-          "p": "PANORAMA JUDICIAL Programa del Poder Judicial de Honduras."
+          "p": "NCC REVOLUCIONARIA Espacio informativo sobre cómo la inteligencia artificial transforma la ciencia, la tecnología y la s"
         },
         {
           "i": "21:00",
-          "f": "21:30",
-          "p": "NCC SALUD Emisión semanal del NCC especializada en ciencias médicas y tecnologías de la salud. Ofrece información verifi"
-        },
-        {
-          "i": "21:30",
           "f": "22:00",
-          "p": "DESDE EL CIELO Descubre cómo la actividad humana transforma los ecosistemas y conoce el impacto de nuestras acciones en "
+          "p": "VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad."
         },
         {
           "i": "22:00",
           "f": "23:00",
-          "p": "TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana."
+          "p": "COLOMBIAR Serie documental que explora la diversidad cultural de colombia, destacando sus tradiciones, territorios y com"
         },
         {
           "i": "23:00",
           "f": "00:00",
-          "p": "COLOMBIAR Serie documental que explora la diversidad cultural de colombia, destacando sus tradiciones, territorios y com"
+          "p": "DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi"
         }
       ]
     },
@@ -154,27 +184,7 @@
       "slug": "https://www.deportestvc.com/programacion",
       "rows": [
         {
-          "i": "00:00",
-          "f": "04:00",
-          "p": "Partido en Repetición"
-        },
-        {
-          "i": "04:00",
-          "f": "04:30",
-          "p": "Sueño de Primera"
-        },
-        {
-          "i": "04:30",
-          "f": "05:00",
-          "p": "DxT en 3 Letras"
-        },
-        {
-          "i": "05:00",
-          "f": "06:00",
-          "p": "Compacto Futbolero en 60"
-        },
-        {
-          "i": "06:00",
+          "i": "02:00",
           "f": "08:00",
           "p": "Partido en Repetición"
         },
@@ -185,13 +195,8 @@
         },
         {
           "i": "09:00",
-          "f": "09:30",
-          "p": "Sueño de Primera"
-        },
-        {
-          "i": "09:30",
           "f": "10:00",
-          "p": "Agenda Deportiva"
+          "p": "KickOff"
         },
         {
           "i": "10:00",
@@ -201,42 +206,256 @@
         {
           "i": "12:00",
           "f": "13:00",
-          "p": "Con Pineda Chacón"
+          "p": "KickOff"
         },
         {
           "i": "13:00",
-          "f": "15:00",
+          "f": "14:00",
+          "p": "Deportes TVC Noticias"
+        },
+        {
+          "i": "14:00",
+          "f": "16:00",
           "p": "Partido en Repetición"
         },
         {
-          "i": "15:00",
-          "f": "17:15",
-          "p": "Olancho vs. Platense / Jornada 12"
+          "i": "16:00",
+          "f": "16:30",
+          "p": "Motagua TV"
         },
         {
-          "i": "17:15",
-          "f": "19:30",
-          "p": "Motagua vs. Marathón / Jornada 5"
+          "i": "16:30",
+          "f": "18:00",
+          "p": "Radio House"
         },
         {
-          "i": "19:30",
-          "f": "20:30",
-          "p": "La Noche del Gol"
+          "i": "18:00",
+          "f": "19:00",
+          "p": "Pase al Mundo"
         },
         {
-          "i": "20:30",
-          "f": "21:30",
+          "i": "19:00",
+          "f": "20:00",
+          "p": "Ida y Vuelta"
+        },
+        {
+          "i": "20:00",
+          "f": "21:00",
+          "p": "Ante la Afición"
+        },
+        {
+          "i": "21:00",
+          "f": "21:15",
           "p": "Compacto Futbolero en 60"
         },
         {
-          "i": "21:30",
+          "i": "21:15",
           "f": "22:00",
-          "p": "Sueño de Primera"
+          "p": "Fútbol a Fondo"
         },
         {
           "i": "22:00",
+          "f": "23:30",
+          "p": "Radio House"
+        },
+        {
+          "i": "23:30",
           "f": "00:00",
-          "p": "Partido en Repetición"
+          "p": "Ida y Vuelta"
+        }
+      ]
+    },
+    "-P2rlc_nYDXmxf_2jGii": {
+      "nombre": "Canal 5 HD HON",
+      "fuente": "gatotv",
+      "slug": "5_el_lider_honduras",
+      "rows": [
+        {
+          "i": "00:05",
+          "f": "02:20",
+          "p": "X0 Da Dinero"
+        },
+        {
+          "i": "02:20",
+          "f": "03:50",
+          "p": "La Rosa de Guadalupe"
+        },
+        {
+          "i": "03:50",
+          "f": "04:45",
+          "p": "El Cinco de Noche"
+        },
+        {
+          "i": "04:45",
+          "f": "05:40",
+          "p": "Noticiero TN5 Dominical"
+        },
+        {
+          "i": "05:40",
+          "f": "07:00",
+          "p": "Noticiero TN5 Matutino"
+        },
+        {
+          "i": "07:00",
+          "f": "09:00",
+          "p": "Frente a Frente"
+        },
+        {
+          "i": "09:00",
+          "f": "11:00",
+          "p": "Las Mañanas del 5"
+        },
+        {
+          "i": "11:00",
+          "f": "12:00",
+          "p": "Los Doctores"
+        },
+        {
+          "i": "12:00",
+          "f": "13:00",
+          "p": "La Rosa de Guadalupe"
+        },
+        {
+          "i": "13:00",
+          "f": "14:00",
+          "p": "Como dice el dicho"
+        },
+        {
+          "i": "14:00",
+          "f": "15:00",
+          "p": "Yo soy Betty, la fea"
+        },
+        {
+          "i": "15:00",
+          "f": "17:00",
+          "p": "#ConTODO"
+        },
+        {
+          "i": "17:00",
+          "f": "18:00",
+          "p": "El Hilo"
+        },
+        {
+          "i": "18:00",
+          "f": "19:00",
+          "p": "La Rosa de Guadalupe"
+        },
+        {
+          "i": "19:00",
+          "f": "20:00",
+          "p": "Karsu: La Fuerza de Una Madre"
+        },
+        {
+          "i": "20:00",
+          "f": "21:00",
+          "p": "Guardián de mi vida"
+        },
+        {
+          "i": "21:00",
+          "f": "22:30",
+          "p": "Noticiero TN5 Estelar"
+        },
+        {
+          "i": "22:30",
+          "f": "00:00",
+          "p": "Frente a Frente"
+        }
+      ]
+    },
+    "-P2kf9CH99dNh6b94yCp": {
+      "nombre": "Canal 5 HON ",
+      "fuente": "gatotv",
+      "slug": "5_el_lider_honduras",
+      "rows": [
+        {
+          "i": "00:05",
+          "f": "02:20",
+          "p": "X0 Da Dinero"
+        },
+        {
+          "i": "02:20",
+          "f": "03:50",
+          "p": "La Rosa de Guadalupe"
+        },
+        {
+          "i": "03:50",
+          "f": "04:45",
+          "p": "El Cinco de Noche"
+        },
+        {
+          "i": "04:45",
+          "f": "05:40",
+          "p": "Noticiero TN5 Dominical"
+        },
+        {
+          "i": "05:40",
+          "f": "07:00",
+          "p": "Noticiero TN5 Matutino"
+        },
+        {
+          "i": "07:00",
+          "f": "09:00",
+          "p": "Frente a Frente"
+        },
+        {
+          "i": "09:00",
+          "f": "11:00",
+          "p": "Las Mañanas del 5"
+        },
+        {
+          "i": "11:00",
+          "f": "12:00",
+          "p": "Los Doctores"
+        },
+        {
+          "i": "12:00",
+          "f": "13:00",
+          "p": "La Rosa de Guadalupe"
+        },
+        {
+          "i": "13:00",
+          "f": "14:00",
+          "p": "Como dice el dicho"
+        },
+        {
+          "i": "14:00",
+          "f": "15:00",
+          "p": "Yo soy Betty, la fea"
+        },
+        {
+          "i": "15:00",
+          "f": "17:00",
+          "p": "#ConTODO"
+        },
+        {
+          "i": "17:00",
+          "f": "18:00",
+          "p": "El Hilo"
+        },
+        {
+          "i": "18:00",
+          "f": "19:00",
+          "p": "La Rosa de Guadalupe"
+        },
+        {
+          "i": "19:00",
+          "f": "20:00",
+          "p": "Karsu: La Fuerza de Una Madre"
+        },
+        {
+          "i": "20:00",
+          "f": "21:00",
+          "p": "Guardián de mi vida"
+        },
+        {
+          "i": "21:00",
+          "f": "22:30",
+          "p": "Noticiero TN5 Estelar"
+        },
+        {
+          "i": "22:30",
+          "f": "00:00",
+          "p": "Frente a Frente"
         }
       ]
     }

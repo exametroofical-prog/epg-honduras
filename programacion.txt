@@ -1,50 +1,95 @@
-Programación del 2026-11-08 (hora de Honduras)
+Programación del 2026-11-09 (hora de Honduras)
 
 STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
-  00:00 - 01:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
-  01:00 - 01:30  NI UNA MENOS, NI UNA SOLA Visibiliza la lucha contra la violencia de género en Iberoamérica, dando voz a mujeres, colect
-  01:30 - 02:00  CLANDESTINO Serie documental sobre la guerrilla urbana que en los setentas combatió al régimen priísta en México.
-  02:00 - 03:00  SONORO Explora el universo sonoro con mirada formativa, acercando la música a la sociedad y descubriendo nuevos talentos
-  03:00 - 03:30  EDUCACIÓN Y DESARROLLO Foro televisivo de la UNAD que aborda temas sociales, políticos y económicos del ámbito educativo
-  03:30 - 04:00  DESCUBRIENDO IDEAS Serie de divulgación científica que presenta proyectos innovadores de científicos mexicanos y su impa
-  04:00 - 05:00  CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana.
-  05:00 - 06:00  TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana.
-  06:00 - 06:30  A QUE JUGAMOS Conoce el mundo de los juegos de mesa, su valor cultural y social, y cómo fomentan el aprendizaje, la crea
-  06:30 - 07:30  EUCARISTÍA EN VIVO Acompaña este momento de oración, reflexión y encuentro espiritual desde donde estés.
-  07:30 - 08:00  ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu
-  08:00 - 09:00  PLAZA SESAMO Serie infantil educativa que enseña a los niños a contar, leer, conocer colores y valores como la amistad, 
-  09:00 - 10:00  SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS Programa infantil que estimula la curiosidad y creatividad de los niños mediante ex
-  10:00 - 11:00  TIEMPO PARA APRENDER: COMUNICACIÓN 1ER. GRADO Descubre cómo se desarrolla la comunicación en primer grado y su importanc
-  11:00 - 11:30  REP. AL RITMO DEL XIQUE Aprende paso a paso a bailar danzas folklóricas al ritmo del xique, cimentando la cultura y el r
-  11:30 - 13:00  NCC REPORTE CLIMÁTICO Aborda el calentamiento global y el cambio climático desde un enfoque de periodismo de soluciones 
-  13:00 - 14:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
-  14:00 - 16:00  TARDES DE CONCIERTO Promueve el talento artístico nacional y fortalece la identidad y el orgullo hondureño a través de c
-  16:00 - 17:00  REP. ¿QUÉ PASÓ ENTONCES? Arnulfo Ramírez de la costa presenta hechos de honduras y el mundo, con obras e investigaciones
-  17:00 - 18:00  CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana.
-  18:00 - 18:30  LA CLAVE DEL ÉXITO Relatos de éxito que contagian el deseo de superación en emprendedores hondureños.
-  18:30 - 19:00  ME VOY PAL NORTE Serie documental sobre migrantes que dejan sus comunidades en busca del sueño americano.
-  19:00 - 20:00  HUELLAS HISTÓRICAS DE HONDURAS Documental que recorre lugares emblemáticos de honduras para descubrir los hechos que mol
-  20:00 - 21:00  PANORAMA JUDICIAL Programa del Poder Judicial de Honduras.
-  21:00 - 21:30  NCC SALUD Emisión semanal del NCC especializada en ciencias médicas y tecnologías de la salud. Ofrece información verifi
-  21:30 - 22:00  DESDE EL CIELO Descubre cómo la actividad humana transforma los ecosistemas y conoce el impacto de nuestras acciones en 
-  22:00 - 23:00  TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana.
-  23:00 - 00:00  COLOMBIAR Serie documental que explora la diversidad cultural de colombia, destacando sus tradiciones, territorios y com
+  00:00 - 02:00  LA PELICULA DE FRANCISCO MORAZÁN La película retrata la vida de Francisco Morazán, su lucha por la unión centroamericana
+  02:00 - 02:30  MANZANA CIENTÍFICA Espacio educativo que despierta la curiosidad y acerca la ciencia a los estudiantes de forma dinámica
+  02:30 - 03:00  GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de
+  03:00 - 04:00  VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad.
+  04:00 - 04:30  LA LLEVA Muestra las vivencias de niños y jóvenes de distintas comunidades, promoviendo la empatía, el intercambio cultu
+  04:30 - 05:00  NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,
+  05:00 - 06:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
+  06:00 - 07:00  SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS Programa infantil que estimula la curiosidad y creatividad de los niños mediante ex
+  07:00 - 07:35  MATEMÁTICAS 7.°, 8.°, 9.° Lecciones educativas de matemáticas para séptimo, octavo y noveno grado que refuerzan conocimi
+  07:35 - 08:10  INGLÉS 7.°, 8.°, 9.° Lecciones educativas de inglés para séptimo, octavo y noveno grado que fortalecen el aprendizaje de
+  08:10 - 08:45  ESPAÑOL 7.°, 8.°, 9.° Lecciones educativas de español para séptimo, octavo y noveno grado que fortalecen la lectura, esc
+  08:45 - 09:15  TECNOLOGÍA 7.°, 8.°, 9.° Lecciones educativas de tecnología para séptimo, octavo y noveno grado que desarrollan habilida
+  09:15 - 09:30  RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás
+  09:30 - 10:05  CCNN 7.°, 8.°, 9.° Lecciones educativas de ciencias naturales para séptimo, octavo y noveno grado que promueven el conoc
+  10:05 - 10:40  EEAA 7.°, 8.°, 9.° Lecciones educativas de educación artística para séptimo, octavo y noveno grado que fomentan la creat
+  10:40 - 11:15  CCSS 7.°, 8.°, 9.° Lecciones educativas de ciencias sociales para séptimo, octavo y noveno grado que fortalecen el conoc
+  11:15 - 11:50  EEFF 7.°, 8.°, 9.° Lecciones educativas de educación física para séptimo, octavo y noveno grado que promueven la activid
+  11:50 - 13:10  RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás
+  13:10 - 13:45  ESPAÑOL 7.°, 8.°, 9.° Lecciones educativas de español para séptimo, octavo y noveno grado que fortalecen la lectura, esc
+  13:45 - 14:15  TECNOLOGÍA 7.°, 8.°, 9.° Lecciones educativas de tecnología para séptimo, octavo y noveno grado que desarrollan habilida
+  14:15 - 14:30  RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás
+  14:30 - 15:05  CCNN 7.°, 8.°, 9.° Lecciones educativas de ciencias naturales para séptimo, octavo y noveno grado que promueven el conoc
+  15:05 - 15:40  EEAA 7.°, 8.°, 9.° Lecciones educativas de educación artística para séptimo, octavo y noveno grado que fomentan la creat
+  15:40 - 16:15  CCSS 7.°, 8.°, 9.° Lecciones educativas de ciencias sociales para séptimo, octavo y noveno grado que fortalecen el conoc
+  16:15 - 16:50  EEFF 7.°, 8.°, 9.° Lecciones educativas de educación física para séptimo, octavo y noveno grado que promueven la activid
+  16:50 - 17:00  RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás
+  17:00 - 18:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
+  18:00 - 18:30  AL RITMO DEL XIQUE Aprende paso a paso a bailar danzas folklóricas al ritmo del xique, cimentando la cultura y el respet
+  18:30 - 19:00  NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,
+  19:00 - 20:00  SIGNOS VITALES Espacio dedicado a la salud y el bienestar, con información y consejos para fomentar hábitos saludables y
+  20:00 - 21:00  NCC REVOLUCIONARIA Espacio informativo sobre cómo la inteligencia artificial transforma la ciencia, la tecnología y la s
+  21:00 - 22:00  VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad.
+  22:00 - 23:00  COLOMBIAR Serie documental que explora la diversidad cultural de colombia, destacando sus tradiciones, territorios y com
+  23:00 - 00:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
 
 Deportes TVC HON  [-P3YxJH0O5lSHk9XHDMz]  fuente: web
-  00:00 - 04:00  Partido en Repetición
-  04:00 - 04:30  Sueño de Primera
-  04:30 - 05:00  DxT en 3 Letras
-  05:00 - 06:00  Compacto Futbolero en 60
-  06:00 - 08:00  Partido en Repetición
+  02:00 - 08:00  Partido en Repetición
   08:00 - 09:00  Compacto Futbolero en 60
-  09:00 - 09:30  Sueño de Primera
-  09:30 - 10:00  Agenda Deportiva
+  09:00 - 10:00  KickOff
   10:00 - 12:00  Partido en Repetición
-  12:00 - 13:00  Con Pineda Chacón
-  13:00 - 15:00  Partido en Repetición
-  15:00 - 17:15  Olancho vs. Platense / Jornada 12
-  17:15 - 19:30  Motagua vs. Marathón / Jornada 5
-  19:30 - 20:30  La Noche del Gol
-  20:30 - 21:30  Compacto Futbolero en 60
-  21:30 - 22:00  Sueño de Primera
-  22:00 - 00:00  Partido en Repetición
+  12:00 - 13:00  KickOff
+  13:00 - 14:00  Deportes TVC Noticias
+  14:00 - 16:00  Partido en Repetición
+  16:00 - 16:30  Motagua TV
+  16:30 - 18:00  Radio House
+  18:00 - 19:00  Pase al Mundo
+  19:00 - 20:00  Ida y Vuelta
+  20:00 - 21:00  Ante la Afición
+  21:00 - 21:15  Compacto Futbolero en 60
+  21:15 - 22:00  Fútbol a Fondo
+  22:00 - 23:30  Radio House
+  23:30 - 00:00  Ida y Vuelta
+
+Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
+  00:05 - 02:20  X0 Da Dinero
+  02:20 - 03:50  La Rosa de Guadalupe
+  03:50 - 04:45  El Cinco de Noche
+  04:45 - 05:40  Noticiero TN5 Dominical
+  05:40 - 07:00  Noticiero TN5 Matutino
+  07:00 - 09:00  Frente a Frente
+  09:00 - 11:00  Las Mañanas del 5
+  11:00 - 12:00  Los Doctores
+  12:00 - 13:00  La Rosa de Guadalupe
+  13:00 - 14:00  Como dice el dicho
+  14:00 - 15:00  Yo soy Betty, la fea
+  15:00 - 17:00  #ConTODO
+  17:00 - 18:00  El Hilo
+  18:00 - 19:00  La Rosa de Guadalupe
+  19:00 - 20:00  Karsu: La Fuerza de Una Madre
+  20:00 - 21:00  Guardián de mi vida
+  21:00 - 22:30  Noticiero TN5 Estelar
+  22:30 - 00:00  Frente a Frente
+
+Canal 5 HON   [-P2kf9CH99dNh6b94yCp]  fuente: gatotv
+  00:05 - 02:20  X0 Da Dinero
+  02:20 - 03:50  La Rosa de Guadalupe
+  03:50 - 04:45  El Cinco de Noche
+  04:45 - 05:40  Noticiero TN5 Dominical
+  05:40 - 07:00  Noticiero TN5 Matutino
+  07:00 - 09:00  Frente a Frente
+  09:00 - 11:00  Las Mañanas del 5
+  11:00 - 12:00  Los Doctores
+  12:00 - 13:00  La Rosa de Guadalupe
+  13:00 - 14:00  Como dice el dicho
+  14:00 - 15:00  Yo soy Betty, la fea
+  15:00 - 17:00  #ConTODO
+  17:00 - 18:00  El Hilo
+  18:00 - 19:00  La Rosa de Guadalupe
+  19:00 - 20:00  Karsu: La Fuerza de Una Madre
+  20:00 - 21:00  Guardián de mi vida
+  21:00 - 22:30  Noticiero TN5 Estelar
+  22:30 - 00:00  Frente a Frente
