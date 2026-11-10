@@ -1,14 +1,15 @@
-Programación del 2026-11-09 (hora de Honduras)
+Programación del 2026-11-10 (hora de Honduras)
 
 STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
-  00:00 - 02:00  LA PELICULA DE FRANCISCO MORAZÁN La película retrata la vida de Francisco Morazán, su lucha por la unión centroamericana
-  02:00 - 02:30  MANZANA CIENTÍFICA Espacio educativo que despierta la curiosidad y acerca la ciencia a los estudiantes de forma dinámica
-  02:30 - 03:00  GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de
-  03:00 - 04:00  VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad.
-  04:00 - 04:30  LA LLEVA Muestra las vivencias de niños y jóvenes de distintas comunidades, promoviendo la empatía, el intercambio cultu
-  04:30 - 05:00  NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,
-  05:00 - 06:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
-  06:00 - 07:00  SUPER NIÑOS PEQUEÑOS, GRANDES GENIOS Programa infantil que estimula la curiosidad y creatividad de los niños mediante ex
+  00:00 - 00:30  CIENTÍFICAMENTE Programa que acerca la ciencia al público con descubrimientos, investigaciones e innovaciones que ayudan
+  00:30 - 01:00  CREADORAS Serie documental que retrata a ocho mujeres con discapacidad, destacando sus saberes, oficios y capacidades.
+  01:00 - 02:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
+  02:00 - 03:00  EDUCACIÓN Y DESARROLLO Foro televisivo de la UNAD que aborda temas sociales, políticos y económicos del ámbito educativo
+  03:00 - 04:00  TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana.
+  04:00 - 05:00  LA LLEVA Muestra las vivencias de niños y jóvenes de distintas comunidades, promoviendo la empatía, el intercambio cultu
+  05:00 - 06:00  VIVA MEJOR Entrevistas a especialistas y tips de salud.
+  06:00 - 06:30  MANZANA CIENTÍFICA Espacio educativo que despierta la curiosidad y acerca la ciencia a los estudiantes de forma dinámica
+  06:30 - 07:00  ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu
   07:00 - 07:35  MATEMÁTICAS 7.°, 8.°, 9.° Lecciones educativas de matemáticas para séptimo, octavo y noveno grado que refuerzan conocimi
   07:35 - 08:10  INGLÉS 7.°, 8.°, 9.° Lecciones educativas de inglés para séptimo, octavo y noveno grado que fortalecen el aprendizaje de
   08:10 - 08:45  ESPAÑOL 7.°, 8.°, 9.° Lecciones educativas de español para séptimo, octavo y noveno grado que fortalecen la lectura, esc
@@ -28,37 +29,42 @@ STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
   16:15 - 16:50  EEFF 7.°, 8.°, 9.° Lecciones educativas de educación física para séptimo, octavo y noveno grado que promueven la activid
   16:50 - 17:00  RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás
   17:00 - 18:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
-  18:00 - 18:30  AL RITMO DEL XIQUE Aprende paso a paso a bailar danzas folklóricas al ritmo del xique, cimentando la cultura y el respet
-  18:30 - 19:00  NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,
-  19:00 - 20:00  SIGNOS VITALES Espacio dedicado a la salud y el bienestar, con información y consejos para fomentar hábitos saludables y
-  20:00 - 21:00  NCC REVOLUCIONARIA Espacio informativo sobre cómo la inteligencia artificial transforma la ciencia, la tecnología y la s
-  21:00 - 22:00  VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad.
-  22:00 - 23:00  COLOMBIAR Serie documental que explora la diversidad cultural de colombia, destacando sus tradiciones, territorios y com
+  18:00 - 19:00  REP. EDUCADORES Foro educativo con expertos en docencia e invitados especiales sobre temas de interés nacional para doce
+  19:00 - 19:30  NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,
+  19:30 - 20:00  DESDE EL CIELO Descubre cómo la actividad humana transforma los ecosistemas y conoce el impacto de nuestras acciones en 
+  20:00 - 21:00  HUELLAS HISTÓRICAS DE HONDURAS Documental que recorre lugares emblemáticos de honduras para descubrir los hechos que mol
+  21:00 - 22:00  CORTO Y QUEDA Difunde y proyecta cortometrajes de menos de diez minutos, dando visibilidad a este género marginado.
+  22:00 - 23:00  CIENTÍFICAMENTE Programa que acerca la ciencia al público con descubrimientos, investigaciones e innovaciones que ayudan
   23:00 - 00:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
 
 Deportes TVC HON  [-P3YxJH0O5lSHk9XHDMz]  fuente: web
-  02:00 - 08:00  Partido en Repetición
-  08:00 - 09:00  Compacto Futbolero en 60
+  00:00 - 01:00  Compacto Futbolero en 60
+  01:00 - 01:30  Sueño de Primera
+  01:30 - 02:30  Compacto Futbolero en 60
+  02:30 - 03:00  Motagua TV
+  03:00 - 05:00  Partido en Repetición
+  05:00 - 08:00  Compacto Futbolero en 60
+  08:00 - 09:00  Las Dueñas del Balón
   09:00 - 10:00  KickOff
   10:00 - 12:00  Partido en Repetición
   12:00 - 13:00  KickOff
   13:00 - 14:00  Deportes TVC Noticias
   14:00 - 16:00  Partido en Repetición
-  16:00 - 16:30  Motagua TV
+  16:00 - 16:30  Estrellas del Futuro
   16:30 - 18:00  Radio House
-  18:00 - 19:00  Pase al Mundo
+  18:00 - 18:30  Rey de Copas
+  18:30 - 19:00  DxT en 3 Letras
   19:00 - 20:00  Ida y Vuelta
   20:00 - 21:00  Ante la Afición
-  21:00 - 21:15  Compacto Futbolero en 60
-  21:15 - 22:00  Fútbol a Fondo
+  21:00 - 22:00  Compacto Futbolero en 60
   22:00 - 23:30  Radio House
-  23:30 - 00:00  Ida y Vuelta
+  23:30 - 00:00  Compacto Futbolero en 60
 
 Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
-  00:05 - 02:20  X0 Da Dinero
-  02:20 - 03:50  La Rosa de Guadalupe
-  03:50 - 04:45  El Cinco de Noche
-  04:45 - 05:40  Noticiero TN5 Dominical
+  00:00 - 00:30  Frente a Frente
+  00:30 - 03:30  Las Mañanas del 5
+  03:30 - 04:20  La Rosa de Guadalupe
+  04:20 - 05:40  Noticiero TN5 Estelar
   05:40 - 07:00  Noticiero TN5 Matutino
   07:00 - 09:00  Frente a Frente
   09:00 - 11:00  Las Mañanas del 5
@@ -69,16 +75,16 @@ Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
   15:00 - 17:00  #ConTODO
   17:00 - 18:00  El Hilo
   18:00 - 19:00  La Rosa de Guadalupe
-  19:00 - 20:00  Karsu: La Fuerza de Una Madre
+  19:00 - 20:00  Amor Profundo
   20:00 - 21:00  Guardián de mi vida
   21:00 - 22:30  Noticiero TN5 Estelar
   22:30 - 00:00  Frente a Frente
 
 Canal 5 HON   [-P2kf9CH99dNh6b94yCp]  fuente: gatotv
-  00:05 - 02:20  X0 Da Dinero
-  02:20 - 03:50  La Rosa de Guadalupe
-  03:50 - 04:45  El Cinco de Noche
-  04:45 - 05:40  Noticiero TN5 Dominical
+  00:00 - 00:30  Frente a Frente
+  00:30 - 03:30  Las Mañanas del 5
+  03:30 - 04:20  La Rosa de Guadalupe
+  04:20 - 05:40  Noticiero TN5 Estelar
   05:40 - 07:00  Noticiero TN5 Matutino
   07:00 - 09:00  Frente a Frente
   09:00 - 11:00  Las Mañanas del 5
@@ -89,7 +95,7 @@ Canal 5 HON   [-P2kf9CH99dNh6b94yCp]  fuente: gatotv
   15:00 - 17:00  #ConTODO
   17:00 - 18:00  El Hilo
   18:00 - 19:00  La Rosa de Guadalupe
-  19:00 - 20:00  Karsu: La Fuerza de Una Madre
+  19:00 - 20:00  Amor Profundo
   20:00 - 21:00  Guardián de mi vida
   21:00 - 22:30  Noticiero TN5 Estelar
   22:30 - 00:00  Frente a Frente
