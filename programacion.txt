@@ -64,10 +64,18 @@ Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
   00:00 - 00:30  Frente a Frente
   00:30 - 03:30  Las Mañanas del 5
   03:30 - 04:20  La Rosa de Guadalupe
-  04:20 - 05:30  Noticiero TN5 Estelar
-  05:30 - 18:00  Desfiles Patrios 2026
+  04:20 - 05:40  Noticiero TN5 Estelar
+  05:40 - 07:00  Noticiero TN5 Matutino
+  07:00 - 09:00  Frente a Frente
+  09:00 - 11:00  Las Mañanas del 5
+  11:00 - 12:00  Los Doctores
+  12:00 - 13:00  La Rosa de Guadalupe
+  13:00 - 14:00  Como dice el dicho
+  14:00 - 15:00  Yo soy Betty, la fea
+  15:00 - 17:00  #ConTODO
+  17:00 - 18:00  El Hilo
   18:00 - 19:00  La Rosa de Guadalupe
-  19:00 - 20:00  Karsu: La Fuerza de Una Madre
+  19:00 - 20:00  Amor Profundo
   20:00 - 21:00  Guardián de mi vida
   21:00 - 22:30  Noticiero TN5 Estelar
   22:30 - 00:00  Frente a Frente
@@ -76,10 +84,18 @@ Canal 5 HON   [-P2kf9CH99dNh6b94yCp]  fuente: gatotv
   00:00 - 00:30  Frente a Frente
   00:30 - 03:30  Las Mañanas del 5
   03:30 - 04:20  La Rosa de Guadalupe
-  04:20 - 05:30  Noticiero TN5 Estelar
-  05:30 - 18:00  Desfiles Patrios 2026
+  04:20 - 05:40  Noticiero TN5 Estelar
+  05:40 - 07:00  Noticiero TN5 Matutino
+  07:00 - 09:00  Frente a Frente
+  09:00 - 11:00  Las Mañanas del 5
+  11:00 - 12:00  Los Doctores
+  12:00 - 13:00  La Rosa de Guadalupe
+  13:00 - 14:00  Como dice el dicho
+  14:00 - 15:00  Yo soy Betty, la fea
+  15:00 - 17:00  #ConTODO
+  17:00 - 18:00  El Hilo
   18:00 - 19:00  La Rosa de Guadalupe
-  19:00 - 20:00  Karsu: La Fuerza de Una Madre
+  19:00 - 20:00  Amor Profundo
   20:00 - 21:00  Guardián de mi vida
   21:00 - 22:30  Noticiero TN5 Estelar
   22:30 - 00:00  Frente a Frente
