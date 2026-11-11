@@ -1,15 +1,14 @@
-Programación del 2026-11-10 (hora de Honduras)
+Programación del 2026-11-11 (hora de Honduras)
 
 STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
-  00:00 - 00:30  CIENTÍFICAMENTE Programa que acerca la ciencia al público con descubrimientos, investigaciones e innovaciones que ayudan
-  00:30 - 01:00  CREADORAS Serie documental que retrata a ocho mujeres con discapacidad, destacando sus saberes, oficios y capacidades.
+  00:00 - 00:30  CHICOS OPINAN Programa juvenil de que visita colegios para recopilar opiniones, críticas y sugerencias de escolares sobr
+  00:30 - 01:00  NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,
   01:00 - 02:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
-  02:00 - 03:00  EDUCACIÓN Y DESARROLLO Foro televisivo de la UNAD que aborda temas sociales, políticos y económicos del ámbito educativo
-  03:00 - 04:00  TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana.
-  04:00 - 05:00  LA LLEVA Muestra las vivencias de niños y jóvenes de distintas comunidades, promoviendo la empatía, el intercambio cultu
-  05:00 - 06:00  VIVA MEJOR Entrevistas a especialistas y tips de salud.
-  06:00 - 06:30  MANZANA CIENTÍFICA Espacio educativo que despierta la curiosidad y acerca la ciencia a los estudiantes de forma dinámica
-  06:30 - 07:00  ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu
+  02:00 - 03:00  CORTO Y QUEDA Difunde y proyecta cortometrajes de menos de diez minutos, dando visibilidad a este género marginado.
+  03:00 - 04:00  CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana.
+  04:00 - 05:00  SONORO Explora el universo sonoro con mirada formativa, acercando la música a la sociedad y descubriendo nuevos talentos
+  05:00 - 06:00  EMPRENDEDORES Programa que recorre panamá presentando historias de emprendedores locales, sus retos, éxitos y aprendizaj
+  06:00 - 07:00  LA CHUNCHETERíA Fomentar valores, curiosidad y autoaprendizaje mediante manualidades y cuentos.
   07:00 - 07:35  MATEMÁTICAS 7.°, 8.°, 9.° Lecciones educativas de matemáticas para séptimo, octavo y noveno grado que refuerzan conocimi
   07:35 - 08:10  INGLÉS 7.°, 8.°, 9.° Lecciones educativas de inglés para séptimo, octavo y noveno grado que fortalecen el aprendizaje de
   08:10 - 08:45  ESPAÑOL 7.°, 8.°, 9.° Lecciones educativas de español para séptimo, octavo y noveno grado que fortalecen la lectura, esc
@@ -29,36 +28,37 @@ STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
   16:15 - 16:50  EEFF 7.°, 8.°, 9.° Lecciones educativas de educación física para séptimo, octavo y noveno grado que promueven la activid
   16:50 - 17:00  RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás
   17:00 - 18:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
-  18:00 - 19:00  REP. EDUCADORES Foro educativo con expertos en docencia e invitados especiales sobre temas de interés nacional para doce
-  19:00 - 19:30  NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,
-  19:30 - 20:00  DESDE EL CIELO Descubre cómo la actividad humana transforma los ecosistemas y conoce el impacto de nuestras acciones en 
-  20:00 - 21:00  HUELLAS HISTÓRICAS DE HONDURAS Documental que recorre lugares emblemáticos de honduras para descubrir los hechos que mol
-  21:00 - 22:00  CORTO Y QUEDA Difunde y proyecta cortometrajes de menos de diez minutos, dando visibilidad a este género marginado.
-  22:00 - 23:00  CIENTÍFICAMENTE Programa que acerca la ciencia al público con descubrimientos, investigaciones e innovaciones que ayudan
+  18:00 - 18:30  TECLADO EN MANO Realiza algo nuevo, deja el miedo al éxito y con tu teclado en mano, haz magia desde tu hogar.
+  18:30 - 19:00  ESPAÑOL PARA TODOS El español es rico en vocablos. Aprende a hablarlo y escribirlo bien con Andrea Obando.
+  19:00 - 19:30  NCC REPORTE CLIMÁTICO Aborda el calentamiento global y el cambio climático desde un enfoque de periodismo de soluciones 
+  19:30 - 20:00  CHICOS OPINAN Programa juvenil de que visita colegios para recopilar opiniones, críticas y sugerencias de escolares sobr
+  20:00 - 21:00  ¿QUÉ PASÓ ENTONCES? Arnulfo Ramírez de la costa presenta hechos de honduras y el mundo, con obras e investigaciones de i
+  21:00 - 23:00  LA PELÍCULA DE FRANCISCO MORAZÁN La película retrata la vida de Francisco Morazán, su lucha por la unión centroamericana
   23:00 - 00:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
 
 Deportes TVC HON  [-P3YxJH0O5lSHk9XHDMz]  fuente: web
-  00:00 - 01:00  Compacto Futbolero en 60
-  01:00 - 01:30  Sueño de Primera
+  00:00 - 00:30  Compacto Futbolero en 60
+  00:30 - 01:30  Partido en Repetición
   01:30 - 02:30  Compacto Futbolero en 60
-  02:30 - 03:00  Motagua TV
+  02:30 - 03:00  Estrellas del Futuro
   03:00 - 05:00  Partido en Repetición
-  05:00 - 08:00  Compacto Futbolero en 60
-  08:00 - 09:00  Las Dueñas del Balón
+  05:00 - 06:00  Compacto Futbolero en 60
+  06:00 - 07:30  Fútbol a Fondo
+  07:30 - 08:30  Las Dueñas del Balón
+  08:30 - 09:00  DxT en 3 Letras
   09:00 - 10:00  KickOff
   10:00 - 12:00  Partido en Repetición
   12:00 - 13:00  KickOff
   13:00 - 14:00  Deportes TVC Noticias
   14:00 - 16:00  Partido en Repetición
-  16:00 - 16:30  Estrellas del Futuro
+  16:00 - 16:30  Rey de Copas
   16:30 - 18:00  Radio House
-  18:00 - 18:30  Rey de Copas
-  18:30 - 19:00  DxT en 3 Letras
+  18:00 - 19:00  Compacto Futbolero en 60
   19:00 - 20:00  Ida y Vuelta
   20:00 - 21:00  Ante la Afición
   21:00 - 22:00  Compacto Futbolero en 60
   22:00 - 23:30  Radio House
-  23:30 - 00:00  Compacto Futbolero en 60
+  23:30 - 00:00  Ida y Vuelta
 
 Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
   00:00 - 00:30  Frente a Frente

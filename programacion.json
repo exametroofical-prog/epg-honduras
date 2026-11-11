@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-10",
+  "fecha": "2026-11-11",
   "canales": {
     "-P57t6dgMhyRS1utX7rg": {
       "nombre": "STVE",
@@ -9,12 +9,12 @@
         {
           "i": "00:00",
           "f": "00:30",
-          "p": "CIENTÍFICAMENTE Programa que acerca la ciencia al público con descubrimientos, investigaciones e innovaciones que ayudan"
+          "p": "CHICOS OPINAN Programa juvenil de que visita colegios para recopilar opiniones, críticas y sugerencias de escolares sobr"
         },
         {
           "i": "00:30",
           "f": "01:00",
-          "p": "CREADORAS Serie documental que retrata a ocho mujeres con discapacidad, destacando sus saberes, oficios y capacidades."
+          "p": "NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,"
         },
         {
           "i": "01:00",
@@ -24,32 +24,27 @@
         {
           "i": "02:00",
           "f": "03:00",
-          "p": "EDUCACIÓN Y DESARROLLO Foro televisivo de la UNAD que aborda temas sociales, políticos y económicos del ámbito educativo"
+          "p": "CORTO Y QUEDA Difunde y proyecta cortometrajes de menos de diez minutos, dando visibilidad a este género marginado."
         },
         {
           "i": "03:00",
           "f": "04:00",
-          "p": "TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana."
+          "p": "CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana."
         },
         {
           "i": "04:00",
           "f": "05:00",
-          "p": "LA LLEVA Muestra las vivencias de niños y jóvenes de distintas comunidades, promoviendo la empatía, el intercambio cultu"
+          "p": "SONORO Explora el universo sonoro con mirada formativa, acercando la música a la sociedad y descubriendo nuevos talentos"
         },
         {
           "i": "05:00",
           "f": "06:00",
-          "p": "VIVA MEJOR Entrevistas a especialistas y tips de salud."
+          "p": "EMPRENDEDORES Programa que recorre panamá presentando historias de emprendedores locales, sus retos, éxitos y aprendizaj"
         },
         {
           "i": "06:00",
-          "f": "06:30",
-          "p": "MANZANA CIENTÍFICA Espacio educativo que despierta la curiosidad y acerca la ciencia a los estudiantes de forma dinámica"
-        },
-        {
-          "i": "06:30",
           "f": "07:00",
-          "p": "ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu"
+          "p": "LA CHUNCHETERíA Fomentar valores, curiosidad y autoaprendizaje mediante manualidades y cuentos."
         },
         {
           "i": "07:00",
@@ -148,33 +143,33 @@
         },
         {
           "i": "18:00",
+          "f": "18:30",
+          "p": "TECLADO EN MANO Realiza algo nuevo, deja el miedo al éxito y con tu teclado en mano, haz magia desde tu hogar."
+        },
+        {
+          "i": "18:30",
           "f": "19:00",
-          "p": "REP. EDUCADORES Foro educativo con expertos en docencia e invitados especiales sobre temas de interés nacional para doce"
+          "p": "ESPAÑOL PARA TODOS El español es rico en vocablos. Aprende a hablarlo y escribirlo bien con Andrea Obando."
         },
         {
           "i": "19:00",
           "f": "19:30",
-          "p": "NOTICIERO CIENTÍFICO Y CULTURAL Difunde noticias y avances en ciencia, tecnología, innovación y cultura de Iberoamérica,"
+          "p": "NCC REPORTE CLIMÁTICO Aborda el calentamiento global y el cambio climático desde un enfoque de periodismo de soluciones "
         },
         {
           "i": "19:30",
           "f": "20:00",
-          "p": "DESDE EL CIELO Descubre cómo la actividad humana transforma los ecosistemas y conoce el impacto de nuestras acciones en "
+          "p": "CHICOS OPINAN Programa juvenil de que visita colegios para recopilar opiniones, críticas y sugerencias de escolares sobr"
         },
         {
           "i": "20:00",
           "f": "21:00",
-          "p": "HUELLAS HISTÓRICAS DE HONDURAS Documental que recorre lugares emblemáticos de honduras para descubrir los hechos que mol"
+          "p": "¿QUÉ PASÓ ENTONCES? Arnulfo Ramírez de la costa presenta hechos de honduras y el mundo, con obras e investigaciones de i"
         },
         {
           "i": "21:00",
-          "f": "22:00",
-          "p": "CORTO Y QUEDA Difunde y proyecta cortometrajes de menos de diez minutos, dando visibilidad a este género marginado."
-        },
-        {
-          "i": "22:00",
           "f": "23:00",
-          "p": "CIENTÍFICAMENTE Programa que acerca la ciencia al público con descubrimientos, investigaciones e innovaciones que ayudan"
+          "p": "LA PELÍCULA DE FRANCISCO MORAZÁN La película retrata la vida de Francisco Morazán, su lucha por la unión centroamericana"
         },
         {
           "i": "23:00",
@@ -190,13 +185,13 @@
       "rows": [
         {
           "i": "00:00",
-          "f": "01:00",
+          "f": "00:30",
           "p": "Compacto Futbolero en 60"
         },
         {
-          "i": "01:00",
+          "i": "00:30",
           "f": "01:30",
-          "p": "Sueño de Primera"
+          "p": "Partido en Repetición"
         },
         {
           "i": "01:30",
@@ -206,7 +201,7 @@
         {
           "i": "02:30",
           "f": "03:00",
-          "p": "Motagua TV"
+          "p": "Estrellas del Futuro"
         },
         {
           "i": "03:00",
@@ -215,13 +210,23 @@
         },
         {
           "i": "05:00",
-          "f": "08:00",
+          "f": "06:00",
           "p": "Compacto Futbolero en 60"
         },
         {
-          "i": "08:00",
-          "f": "09:00",
+          "i": "06:00",
+          "f": "07:30",
+          "p": "Fútbol a Fondo"
+        },
+        {
+          "i": "07:30",
+          "f": "08:30",
           "p": "Las Dueñas del Balón"
+        },
+        {
+          "i": "08:30",
+          "f": "09:00",
+          "p": "DxT en 3 Letras"
         },
         {
           "i": "09:00",
@@ -251,7 +256,7 @@
         {
           "i": "16:00",
           "f": "16:30",
-          "p": "Estrellas del Futuro"
+          "p": "Rey de Copas"
         },
         {
           "i": "16:30",
@@ -260,13 +265,8 @@
         },
         {
           "i": "18:00",
-          "f": "18:30",
-          "p": "Rey de Copas"
-        },
-        {
-          "i": "18:30",
           "f": "19:00",
-          "p": "DxT en 3 Letras"
+          "p": "Compacto Futbolero en 60"
         },
         {
           "i": "19:00",
@@ -291,7 +291,7 @@
         {
           "i": "23:30",
           "f": "00:00",
-          "p": "Compacto Futbolero en 60"
+          "p": "Ida y Vuelta"
         }
       ]
     },
