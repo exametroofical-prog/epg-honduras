@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-12",
+  "fecha": "2026-11-13",
   "canales": {
     "-P57t6dgMhyRS1utX7rg": {
       "nombre": "STVE",
@@ -8,21 +8,21 @@
       "rows": [
         {
           "i": "00:00",
-          "f": "00:30",
-          "p": "GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de"
-        },
-        {
-          "i": "00:30",
           "f": "01:00",
-          "p": "CREADORAS Serie documental que retrata a ocho mujeres con discapacidad, destacando sus saberes, oficios y capacidades."
+          "p": "EDUCACIÓN Y DESARROLLO Foro televisivo de la UNAD que aborda temas sociales, políticos y económicos del ámbito educativo"
         },
         {
           "i": "01:00",
           "f": "02:00",
-          "p": "CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana."
+          "p": "VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad."
         },
         {
           "i": "02:00",
+          "f": "02:30",
+          "p": "NI UNA MENOS, NI UNA SOLA Visibiliza la lucha contra la violencia de género en Iberoamérica, dando voz a mujeres, colect"
+        },
+        {
+          "i": "02:30",
           "f": "03:00",
           "p": "CIENTÍFICAMENTE Programa que acerca la ciencia al público con descubrimientos, investigaciones e innovaciones que ayudan"
         },
@@ -34,22 +34,22 @@
         {
           "i": "04:00",
           "f": "05:00",
-          "p": "VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad."
+          "p": "CORTO Y QUEDA Difunde y proyecta cortometrajes de menos de diez minutos, dando visibilidad a este género marginado."
         },
         {
           "i": "05:00",
           "f": "06:00",
-          "p": "LOS OTROS LIBROS Invita a conocer a autores(as) que escriben e investigan en la universidad local."
+          "p": "CREADORAS Serie documental que retrata a ocho mujeres con discapacidad, destacando sus saberes, oficios y capacidades."
         },
         {
           "i": "06:00",
           "f": "06:30",
-          "p": "DESDE EL CIELO Descubre cómo la actividad humana transforma los ecosistemas y conoce el impacto de nuestras acciones en "
+          "p": "GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de"
         },
         {
           "i": "06:30",
           "f": "07:00",
-          "p": "ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu"
+          "p": "LOS OTROS LIBROS Invita a conocer a autores(as) que escriben e investigan en la universidad local."
         },
         {
           "i": "07:00",
@@ -149,42 +149,37 @@
         {
           "i": "18:00",
           "f": "18:30",
-          "p": "PODCAST: VISIONES EDUCATIVAS Video podcast que enriquece la formación de estudiantes y docentes con entrevistas y activi"
+          "p": "GUITARRA EN MANO Aprende a ejecutar la guitarra con un maestro que llega a tu hogar."
         },
         {
           "i": "18:30",
           "f": "19:00",
-          "p": "NCC SALUD Emisión semanal del NCC especializada en ciencias médicas y tecnologías de la salud. Ofrece información verifi"
+          "p": "ESPAÑOL PARA TODOS El español es rico en vocablos. Aprende a hablarlo y escribirlo bien con Andrea Obando."
         },
         {
           "i": "19:00",
           "f": "20:00",
-          "p": "ESCUELA PARA MADRES Y PADRES Espacio de reflexión sobre el papel de padres y madres en la formación de jóvenes, su probl"
+          "p": "EDUCA TV HONDURAS Relatos de éxito que contagian el deseo de superación en emprendedores hondureños."
         },
         {
           "i": "20:00",
+          "f": "20:30",
+          "p": "REP. LA CLAVE DEL ÉXITO Relatos de éxito que contagian el deseo de superación en emprendedores hondureños."
+        },
+        {
+          "i": "20:30",
           "f": "21:00",
-          "p": "PINCELADAS Serie documental sobre artistas hondureños: su proceso creativo y cómo el arte transforma su entorno e inspir"
+          "p": "NCC CULTURA EN MOVIMIENTO Espacio noticioso que promueve el turismo cultural en Iberoamérica."
         },
         {
           "i": "21:00",
-          "f": "21:30",
-          "p": "MANZANA CIENTÍFICA Espacio educativo que despierta la curiosidad y acerca la ciencia a los estudiantes de forma dinámica"
-        },
-        {
-          "i": "21:30",
           "f": "22:00",
-          "p": "CIENTÍFICAMENTE Programa que acerca la ciencia al público con descubrimientos, investigaciones e innovaciones que ayudan"
+          "p": "COLOMBIAR Serie documental que explora la diversidad cultural de colombia, destacando sus tradiciones, territorios y com"
         },
         {
           "i": "22:00",
-          "f": "22:30",
-          "p": "GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de"
-        },
-        {
-          "i": "22:30",
           "f": "23:00",
-          "p": "DESCUBRIENDO IDEAS Serie de divulgación científica que presenta proyectos innovadores de científicos mexicanos y su impa"
+          "p": "VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad."
         },
         {
           "i": "23:00",
@@ -211,7 +206,7 @@
         {
           "i": "02:30",
           "f": "03:00",
-          "p": "Rey de Copas"
+          "p": "Sueño de Primera"
         },
         {
           "i": "03:00",
@@ -230,23 +225,18 @@
         },
         {
           "i": "07:30",
-          "f": "08:30",
-          "p": "Las Dueñas del Balón"
+          "f": "10:30",
+          "p": "Amistoso: EAU vs. Honduras"
         },
         {
-          "i": "08:30",
-          "f": "09:00",
-          "p": "Agenda Deportiva"
+          "i": "10:30",
+          "f": "11:00",
+          "p": "Sueño de Primera"
         },
         {
-          "i": "09:00",
-          "f": "10:00",
-          "p": "KickOff"
-        },
-        {
-          "i": "10:00",
+          "i": "11:00",
           "f": "12:00",
-          "p": "Partido en Repetición"
+          "p": "Compacto Futbolero en 60"
         },
         {
           "i": "12:00",
@@ -266,7 +256,7 @@
         {
           "i": "16:00",
           "f": "16:30",
-          "p": "Sueño de Primera"
+          "p": "DxT en 3 Letras"
         },
         {
           "i": "16:30",
@@ -275,18 +265,8 @@
         },
         {
           "i": "18:00",
-          "f": "18:30",
-          "p": "Motagua TV"
-        },
-        {
-          "i": "18:30",
-          "f": "19:00",
-          "p": "Estrellas del Futuro"
-        },
-        {
-          "i": "19:00",
           "f": "20:00",
-          "p": "Ida y Vuelta"
+          "p": "Agenda Deportiva"
         },
         {
           "i": "20:00",
@@ -300,13 +280,8 @@
         },
         {
           "i": "22:00",
-          "f": "23:30",
-          "p": "Radio House"
-        },
-        {
-          "i": "23:30",
           "f": "00:00",
-          "p": "Ida y Vuelta"
+          "p": "Radio House"
         }
       ]
     },

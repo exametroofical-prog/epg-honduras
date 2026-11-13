@@ -1,15 +1,15 @@
-Programación del 2026-11-12 (hora de Honduras)
+Programación del 2026-11-13 (hora de Honduras)
 
 STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
-  00:00 - 00:30  GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de
-  00:30 - 01:00  CREADORAS Serie documental que retrata a ocho mujeres con discapacidad, destacando sus saberes, oficios y capacidades.
-  01:00 - 02:00  CÓDIGO VERDE Analiza las causas que afectan nuestro entorno desde una perspectiva periodística, académica y ciudadana.
-  02:00 - 03:00  CIENTÍFICAMENTE Programa que acerca la ciencia al público con descubrimientos, investigaciones e innovaciones que ayudan
+  00:00 - 01:00  EDUCACIÓN Y DESARROLLO Foro televisivo de la UNAD que aborda temas sociales, políticos y económicos del ámbito educativo
+  01:00 - 02:00  VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad.
+  02:00 - 02:30  NI UNA MENOS, NI UNA SOLA Visibiliza la lucha contra la violencia de género en Iberoamérica, dando voz a mujeres, colect
+  02:30 - 03:00  CIENTÍFICAMENTE Programa que acerca la ciencia al público con descubrimientos, investigaciones e innovaciones que ayudan
   03:00 - 04:00  TIEMPO DE TERTULIA Abordaba temas de actualidad cultural y social desde una perspectiva iberoamericana.
-  04:00 - 05:00  VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad.
-  05:00 - 06:00  LOS OTROS LIBROS Invita a conocer a autores(as) que escriben e investigan en la universidad local.
-  06:00 - 06:30  DESDE EL CIELO Descubre cómo la actividad humana transforma los ecosistemas y conoce el impacto de nuestras acciones en 
-  06:30 - 07:00  ACTÍVATE Programa de ejercicios que guía rutinas de entrenamiento para mantenerte en forma desde casa, mejorando tu salu
+  04:00 - 05:00  CORTO Y QUEDA Difunde y proyecta cortometrajes de menos de diez minutos, dando visibilidad a este género marginado.
+  05:00 - 06:00  CREADORAS Serie documental que retrata a ocho mujeres con discapacidad, destacando sus saberes, oficios y capacidades.
+  06:00 - 06:30  GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de
+  06:30 - 07:00  LOS OTROS LIBROS Invita a conocer a autores(as) que escriben e investigan en la universidad local.
   07:00 - 07:35  MATEMÁTICAS 7.°, 8.°, 9.° Lecciones educativas de matemáticas para séptimo, octavo y noveno grado que refuerzan conocimi
   07:35 - 08:10  INGLÉS 7.°, 8.°, 9.° Lecciones educativas de inglés para séptimo, octavo y noveno grado que fortalecen el aprendizaje de
   08:10 - 08:45  ESPAÑOL 7.°, 8.°, 9.° Lecciones educativas de español para séptimo, octavo y noveno grado que fortalecen la lectura, esc
@@ -29,39 +29,34 @@ STVE  [-P57t6dgMhyRS1utX7rg]  fuente: web
   16:15 - 16:50  EEFF 7.°, 8.°, 9.° Lecciones educativas de educación física para séptimo, octavo y noveno grado que promueven la activid
   16:50 - 17:00  RECESO Hacer una pausa y prepararse para continuar disfrutando de los contenidos educativos y culturales de STVE Telebás
   17:00 - 18:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
-  18:00 - 18:30  PODCAST: VISIONES EDUCATIVAS Video podcast que enriquece la formación de estudiantes y docentes con entrevistas y activi
-  18:30 - 19:00  NCC SALUD Emisión semanal del NCC especializada en ciencias médicas y tecnologías de la salud. Ofrece información verifi
-  19:00 - 20:00  ESCUELA PARA MADRES Y PADRES Espacio de reflexión sobre el papel de padres y madres en la formación de jóvenes, su probl
-  20:00 - 21:00  PINCELADAS Serie documental sobre artistas hondureños: su proceso creativo y cómo el arte transforma su entorno e inspir
-  21:00 - 21:30  MANZANA CIENTÍFICA Espacio educativo que despierta la curiosidad y acerca la ciencia a los estudiantes de forma dinámica
-  21:30 - 22:00  CIENTÍFICAMENTE Programa que acerca la ciencia al público con descubrimientos, investigaciones e innovaciones que ayudan
-  22:00 - 22:30  GUARDIANES DE LA TIERRA Crear conciencia sobre el cuidado ambiental, la protección de la naturaleza y la preservación de
-  22:30 - 23:00  DESCUBRIENDO IDEAS Serie de divulgación científica que presenta proyectos innovadores de científicos mexicanos y su impa
+  18:00 - 18:30  GUITARRA EN MANO Aprende a ejecutar la guitarra con un maestro que llega a tu hogar.
+  18:30 - 19:00  ESPAÑOL PARA TODOS El español es rico en vocablos. Aprende a hablarlo y escribirlo bien con Andrea Obando.
+  19:00 - 20:00  EDUCA TV HONDURAS Relatos de éxito que contagian el deseo de superación en emprendedores hondureños.
+  20:00 - 20:30  REP. LA CLAVE DEL ÉXITO Relatos de éxito que contagian el deseo de superación en emprendedores hondureños.
+  20:30 - 21:00  NCC CULTURA EN MOVIMIENTO Espacio noticioso que promueve el turismo cultural en Iberoamérica.
+  21:00 - 22:00  COLOMBIAR Serie documental que explora la diversidad cultural de colombia, destacando sus tradiciones, territorios y com
+  22:00 - 23:00  VIDAS Y BEBIDAS Explora tradiciones, sabores y aspectos culturales que forman parte de nuestra sociedad.
   23:00 - 00:00  DOCUMENTAL Documentales sobre historia, cultura, ciencia y sociedad que enriquecen el aprendizaje y promueven la reflexi
 
 Deportes TVC HON  [-P3YxJH0O5lSHk9XHDMz]  fuente: web
   00:00 - 01:30  Ida y Vuelta
   01:30 - 02:30  Compacto Futbolero en 60
-  02:30 - 03:00  Rey de Copas
+  02:30 - 03:00  Sueño de Primera
   03:00 - 05:00  Partido en Repetición
   05:00 - 06:00  Compacto Futbolero en 60
   06:00 - 07:30  Fútbol a Fondo
-  07:30 - 08:30  Las Dueñas del Balón
-  08:30 - 09:00  Agenda Deportiva
-  09:00 - 10:00  KickOff
-  10:00 - 12:00  Partido en Repetición
+  07:30 - 10:30  Amistoso: EAU vs. Honduras
+  10:30 - 11:00  Sueño de Primera
+  11:00 - 12:00  Compacto Futbolero en 60
   12:00 - 13:00  KickOff
   13:00 - 14:00  Deportes TVC Noticias
   14:00 - 16:00  Partido en Repetición
-  16:00 - 16:30  Sueño de Primera
+  16:00 - 16:30  DxT en 3 Letras
   16:30 - 18:00  Radio House
-  18:00 - 18:30  Motagua TV
-  18:30 - 19:00  Estrellas del Futuro
-  19:00 - 20:00  Ida y Vuelta
+  18:00 - 20:00  Agenda Deportiva
   20:00 - 21:00  Ante la Afición
   21:00 - 22:00  Compacto Futbolero en 60
-  22:00 - 23:30  Radio House
-  23:30 - 00:00  Ida y Vuelta
+  22:00 - 00:00  Radio House
 
 Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
   00:00 - 00:30  Frente a Frente
