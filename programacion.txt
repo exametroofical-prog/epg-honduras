@@ -62,12 +62,15 @@ Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
   06:30 - 09:00  Noticiero TN5 Matutino
   09:00 - 12:00  Las Mañanas del 5
   12:00 - 14:00  El Macaneo TV
-  14:00 - 17:00  Avatar
-  17:00 - 17:30  Tal para cual
-  17:30 - 21:10  Vecinos
-  21:10 - 22:10  El Cinco de Noche
-  22:10 - 23:40  Angélica
-  23:40 - 00:00  El Macaneo TV
+  14:00 - 16:30  El Vuelo
+  16:30 - 17:00  Una familia moderna
+  17:00 - 17:30  ¿Tú crees?
+  17:30 - 18:00  Vecinos
+  18:00 - 20:00  Me gustan valentones
+  20:00 - 21:00  FBI
+  21:00 - 22:00  El Cinco de Noche
+  22:00 - 23:50  Me gustan valentones
+  23:50 - 00:00  El Macaneo TV
 
 Canal 5 HON   [-P2kf9CH99dNh6b94yCp]  fuente: gatotv
   00:00 - 00:30  Frente a Frente
@@ -77,9 +80,12 @@ Canal 5 HON   [-P2kf9CH99dNh6b94yCp]  fuente: gatotv
   06:30 - 09:00  Noticiero TN5 Matutino
   09:00 - 12:00  Las Mañanas del 5
   12:00 - 14:00  El Macaneo TV
-  14:00 - 17:00  Avatar
-  17:00 - 17:30  Tal para cual
-  17:30 - 21:10  Vecinos
-  21:10 - 22:10  El Cinco de Noche
-  22:10 - 23:40  Angélica
-  23:40 - 00:00  El Macaneo TV
+  14:00 - 16:30  El Vuelo
+  16:30 - 17:00  Una familia moderna
+  17:00 - 17:30  ¿Tú crees?
+  17:30 - 18:00  Vecinos
+  18:00 - 20:00  Me gustan valentones
+  20:00 - 21:00  FBI
+  21:00 - 22:00  El Cinco de Noche
+  22:00 - 23:50  Me gustan valentones
+  23:50 - 00:00  El Macaneo TV
