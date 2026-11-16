@@ -271,6 +271,11 @@
       "slug": "5_el_lider_honduras",
       "rows": [
         {
+          "i": "00:00",
+          "f": "00:05",
+          "p": "El Macaneo TV"
+        },
+        {
           "i": "00:05",
           "f": "02:20",
           "p": "X0 Da Dinero"
@@ -367,6 +372,11 @@
       "fuente": "gatotv",
       "slug": "5_el_lider_honduras",
       "rows": [
+        {
+          "i": "00:00",
+          "f": "00:05",
+          "p": "El Macaneo TV"
+        },
         {
           "i": "00:05",
           "f": "02:20",

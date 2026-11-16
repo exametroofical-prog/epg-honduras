@@ -55,6 +55,7 @@ Deportes TVC HON  [-P3YxJH0O5lSHk9XHDMz]  fuente: web
   23:30 - 00:00  Ida y Vuelta
 
 Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
+  00:00 - 00:05  El Macaneo TV
   00:05 - 02:20  X0 Da Dinero
   02:20 - 03:50  La Rosa de Guadalupe
   03:50 - 04:45  El Cinco de Noche
@@ -75,6 +76,7 @@ Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
   22:30 - 00:00  Frente a Frente
 
 Canal 5 HON   [-P2kf9CH99dNh6b94yCp]  fuente: gatotv
+  00:00 - 00:05  El Macaneo TV
   00:05 - 02:20  X0 Da Dinero
   02:20 - 03:50  La Rosa de Guadalupe
   03:50 - 04:45  El Cinco de Noche
