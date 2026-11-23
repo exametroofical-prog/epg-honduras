@@ -47,3 +47,35 @@ Deportes TVC HON  [-P3YxJH0O5lSHk9XHDMz]  fuente: web
   17:15 - 19:30  Motagua vs. Olimpia / Jornada 15
   19:30 - 22:00  Juticalpa vs. Olancho / Jornada 15
   22:00 - 00:00  Partido en Repetición
+
+Canal 5 HD HON  [-P2rlc_nYDXmxf_2jGii]  fuente: gatotv
+  00:00 - 01:50  El Macaneo TV
+  01:50 - 03:10  Como dice el dicho
+  03:10 - 05:40  Las Mañanas del 5
+  05:40 - 08:00  El Vuelo
+  08:00 - 12:00  5 Deportivo
+  12:00 - 14:30  X0 Da Dinero
+  14:30 - 16:05  Sobre las olas
+  16:05 - 18:00  X-Men Orígenes: Wolverine
+  18:00 - 19:00  Noticiero TN5 Dominical
+  19:00 - 20:00  El Cinco de Noche
+  20:00 - 21:45  Dog. Un Viaje Salvaje
+  21:45 - 22:45  Noticiero TN5 Dominical
+  22:45 - 23:45  Como dice el dicho
+  23:45 - 00:00  El Macaneo TV
+
+Canal 5 HON   [-P2kf9CH99dNh6b94yCp]  fuente: gatotv
+  00:00 - 01:50  El Macaneo TV
+  01:50 - 03:10  Como dice el dicho
+  03:10 - 05:40  Las Mañanas del 5
+  05:40 - 08:00  El Vuelo
+  08:00 - 12:00  5 Deportivo
+  12:00 - 14:30  X0 Da Dinero
+  14:30 - 16:05  Sobre las olas
+  16:05 - 18:00  X-Men Orígenes: Wolverine
+  18:00 - 19:00  Noticiero TN5 Dominical
+  19:00 - 20:00  El Cinco de Noche
+  20:00 - 21:45  Dog. Un Viaje Salvaje
+  21:45 - 22:45  Noticiero TN5 Dominical
+  22:45 - 23:45  Como dice el dicho
+  23:45 - 00:00  El Macaneo TV
